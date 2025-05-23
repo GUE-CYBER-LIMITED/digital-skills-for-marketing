@@ -15,7 +15,8 @@ Welcome to the **Digital Skills for Modern Marketing Professionals** course. Thi
 3. [**Customer Service & CRM Systems**](03_customer_service_and_crm/intro_to_crm.md)  
 4. [**Tools & Platforms**](04_tools_and_platforms/intro_to_google_tools.md)  
 5. [**Soft Skills for the Digital Workplace**](05_soft_skills/time_management.md)  
-6. [**Capstone Projects & Practice Tasks**](06_projects_and_practice/digital_marketing_campaign_plan.md)  
+6. [**Capstone Projects & Practice Tasks**](06_projects_and_practice/digital_marketing_campaign_plan.md)
+  
 
 Each module includes explanations, examples, exercises, and practice projects.
 
@@ -28,7 +29,8 @@ Each module includes explanations, examples, exercises, and practice projects.
 * [What is the Internet?](01_foundations/what_is_the_internet.md)  
 * [Web Hosting & Domains](01_foundations/web_hosting_and_domains.md)  
 * [How Websites Work](01_foundations/how_websites_work.md)  
-* [Online Storefronts & CMS](01_foundations/storefronts_and_cms.md)  
+* [Online Storefronts & CMS](01_foundations/storefronts_and_cms.md)
+* [conclusion](01_foundations/course_conclusion.md)   
 
 ---
 
