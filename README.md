@@ -57,6 +57,8 @@ Each module includes explanations, examples, exercises, and practice projects.
 * [Google Tools Overview](04_tools_and_platforms/intro_to_google_tools.md)  
 * [Excel Basics](04_tools_and_platforms/basics_of_excel.md)  
 * [Power BI Overview](04_tools_and_platforms/overview_of_powerbi.md)  
+* [conclusion](04_tools_and_platforms/course_conclusion.md)
+
 
 ---
 
@@ -64,7 +66,9 @@ Each module includes explanations, examples, exercises, and practice projects.
 
 * [Time Management](05_soft_skills/time_management.md)  
 * [Communication Skills](05_soft_skills/communication_skills.md)  
-* [Writing Professional Emails](05_soft_skills/writing_professional_emails.md)  
+* [Writing Professional Emails](05_soft_skills/writing_professional_emails.md)
+* [conclusion](05_soft_skills/course_conclusion.md)
+
 
 ---
 
@@ -72,7 +76,9 @@ Each module includes explanations, examples, exercises, and practice projects.
 
 * [Digital Marketing Campaign Plan](06_projects_and_practice/digital_marketing_campaign_plan.md)  
 * [Customer Support Case Study](06_projects_and_practice/customer_support_case_study.md)  
-* [Resume and Portfolio Guide](06_projects_and_practice/resume_and_portfolio_guide.md)  
+* [Resume and Portfolio Guide](06_projects_and_practice/resume_and_portfolio_guide.md)
+* [conclusion](06_projects_and_practice/course_conclusion.md)
+
 
 ---
 
