@@ -39,7 +39,7 @@ Each module includes explanations, examples, exercises, and practice projects.
 * [What is Digital Marketing?](02_digital_marketing_basics/what_is_digital_marketing.md)  
 * [SEO Basics](02_digital_marketing_basics/SEO_basics.md)  
 * [Content Creation](02_digital_marketing_basics/content_creation.md)  
-* [Social Media Marketing](02_digital_marketing_basics/social_media_marketing.md)  
+* [Social Media Marketing](02_digital_marketing_basics/social_media_marketing.md) 
 * [conclusion](02_digital_marketing_basics/course_conclusion.md)
 ---
 
