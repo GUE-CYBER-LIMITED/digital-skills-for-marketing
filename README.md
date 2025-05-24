@@ -48,6 +48,7 @@ Each module includes explanations, examples, exercises, and practice projects.
 * [Introduction to CRM](03_customer_service_and_crm/intro_to_crm.md)  
 * [Using Zendesk](03_customer_service_and_crm/using_zendesk.md)  
 * [Handling Customer Queries](03_customer_service_and_crm/handling_customer_queries.md)  
+* [conclusion](03_customer_service_and_crm/course_conclusion.md)
 
 ---
 
