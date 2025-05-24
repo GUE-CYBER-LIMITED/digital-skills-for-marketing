@@ -40,7 +40,7 @@ Each module includes explanations, examples, exercises, and practice projects.
 * [SEO Basics](02_digital_marketing_basics/SEO_basics.md)  
 * [Content Creation](02_digital_marketing_basics/content_creation.md)  
 * [Social Media Marketing](02_digital_marketing_basics/social_media_marketing.md)  
-
+* [conclusion](02_digital_marketing_basics/course_conclusion.md)
 ---
 
 ## Module 3: Customer Service & CRM Systems
