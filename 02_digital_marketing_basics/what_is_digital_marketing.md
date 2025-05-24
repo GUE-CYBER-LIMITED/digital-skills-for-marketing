@@ -1,3 +1,8 @@
+# Module 2: Digital Marketing Basics
+Welcome to **Module 2: Digital Marketing Basics**! In this module, you’ll discover how businesses and creators use the internet to reach people, promote products, and build communities. Designed for beginners with no tech or marketing background, these lessons use simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. Building on Module 1’s foundations (computers, internet, websites), we’ll explore digital marketing, search engine optimization (SEO), content creation, social media marketing, and wrap up with a conclusion. By the end, you’ll understand how to share ideas online and try basic marketing yourself. Let’s get started!
+
+---
+
 # What is Digital Marketing?
 
 **Digital marketing** is the use of digital channels and technologies to promote products or services. It involves reaching a target audience through the internet using a variety of tools and platforms.
@@ -12,11 +17,6 @@
 - **Wider Reach:** Access global audiences.
 - **Cost-Effective:** Often more affordable than traditional marketing.
 - **Measurable Results:** Track the effectiveness of campaigns in real-time.
-# Module 2: Digital Marketing Basics
-
-Welcome to **Module 2: Digital Marketing Basics**! In this module, you’ll discover how businesses and creators use the internet to reach people, promote products, and build communities. Designed for beginners with no tech or marketing background, these lessons use simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. Building on Module 1’s foundations (computers, internet, websites), we’ll explore digital marketing, search engine optimization (SEO), content creation, social media marketing, and wrap up with a conclusion. By the end, you’ll understand how to share ideas online and try basic marketing yourself. Let’s get started!
-
----
 
 # Lesson 1: What is Digital Marketing?
 

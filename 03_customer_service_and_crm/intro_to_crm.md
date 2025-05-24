@@ -1,3 +1,8 @@
+# Module 3: Customer Service & CRM Systems
+
+Welcome to **Module 3: Customer Service & CRM Systems**! In this module, you’ll learn how businesses use technology to keep customers happy and organized. Designed for beginners with no tech or customer service background, these lessons use simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. Building on Modules 1 (computers, internet, websites) and 2 (digital marketing), we’ll explore Customer Relationship Management (CRM) systems, how to use tools like Zendesk, and ways to handle customer queries effectively. By the end, you’ll understand how to support customers and try basic CRM tasks yourself. Let’s get started!
+
+---
 # Introduction to CRM
 
 A **Customer Relationship Management (CRM)** system is software that helps businesses manage interactions with current and potential customers. It organizes customer data and automates sales, marketing, and customer service.
@@ -11,11 +16,7 @@ A **Customer Relationship Management (CRM)** system is software that helps busin
 - **HubSpot**
 - **Zendesk**
 - **Salesforce**
-# Module 3: Customer Service & CRM Systems
 
-Welcome to **Module 3: Customer Service & CRM Systems**! In this module, you’ll learn how businesses use technology to keep customers happy and organized. Designed for beginners with no tech or customer service background, these lessons use simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. Building on Modules 1 (computers, internet, websites) and 2 (digital marketing), we’ll explore Customer Relationship Management (CRM) systems, how to use tools like Zendesk, and ways to handle customer queries effectively. By the end, you’ll understand how to support customers and try basic CRM tasks yourself. Let’s get started!
-
----
 
 # Lesson 1: Introduction to CRM
 
