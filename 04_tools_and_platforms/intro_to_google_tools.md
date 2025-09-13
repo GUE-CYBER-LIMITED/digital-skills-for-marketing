@@ -1,3 +1,4 @@
+---
 layout: page
 title: "Google Tools Overview"
 parent: "Module 4: Tools & Platforms"
@@ -23,19 +24,6 @@ Google offers a suite of productivity tools that help with communication, collab
 - **Real-Time Collaboration:** Work on documents simultaneously with others.
 - **Cloud-Based:** Access your files from anywhere with an internet connection.
 
-
----
-layout: page
-title: "Google Tools Overview"
-parent: "Module 4: Tools & Platforms"
-nav_order: 1
----
-
-# Lesson 1: Google Tools Overview
-
-Welcome to Lesson 1 of Module 4! Today, we're diving into **Google Tools**, a suite of free and easy-to-use apps that help you create, collaborate, and stay organized. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what Google Tools are, why they're useful, and how to use key apps like Google Docs, Sheets, and Drive. By the end, you'll create a document and share it, feeling like a Google pro. Let's jump in!
-
----
 
 ## What are Google Tools?
 

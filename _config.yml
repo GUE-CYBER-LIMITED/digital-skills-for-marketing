@@ -5,7 +5,7 @@ baseurl: "/digital-skills-for-marketing"
 url: "https://gabaloho.github.io"
 
 # Theme
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
 
 # Markdown processor
 markdown: kramdown
@@ -13,11 +13,12 @@ highlighter: rouge
 
 # Plugins
 plugins:
+  - jekyll-remote-theme 
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
-# Navigation structure
+# Navigation
 header_pages:
   - README.md
 
@@ -26,41 +27,10 @@ exclude:
   - .gitignore
   - LICENSE
   - vendor/
+  - Gemfile*
 
-# Defaults for front matter
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  - scope:
-      path: "01_foundations"
-    values:
-      layout: "page"
-      course_module: true
-  - scope:
-      path: "02_digital_marketing_basics"
-    values:
-      layout: "page"
-      course_module: true
-  - scope:
-      path: "03_customer_service_and_crm"
-    values:
-      layout: "page"
-      course_module: true
-  - scope:
-      path: "04_tools_and_platforms"
-    values:
-      layout: "page"
-      course_module: true
-  - scope:
-      path: "05_soft_skills"
-    values:
-      layout: "page"
-      course_module: true
-  - scope:
-      path: "06_projects_and_practice"
-    values:
-      layout: "page"
-      course_module: true
+# Show downloads (optional for Hacker theme)
+show_downloads: false
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXX-X

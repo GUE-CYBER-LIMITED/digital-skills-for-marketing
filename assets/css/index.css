@@ -1,0 +1,73 @@
+@import "{{ site.theme }}";
+
+/* Custom styles for course content */
+.course-navigation {
+    background: #1e1e1e;
+    border: 1px solid #b5e853;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.lesson-progress {
+    background: #151515;
+    border-left: 4px solid #b5e853;
+    padding: 10px 15px;
+    margin: 15px 0;
+}
+
+.module-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.module-table th,
+.module-table td {
+    border: 1px solid #b5e853;
+    padding: 8px 12px;
+    text-align: left;
+}
+
+.module-table th {
+    background: #1e1e1e;
+    color: #b5e853;
+}
+
+/* Make links more visible */
+a {
+    color: #b5e853 !important;
+}
+
+a:hover {
+    color: #ffffff !important;
+}
+
+/* Style for code blocks in lessons */
+pre {
+    background: #000000;
+    border: 1px solid #b5e853;
+    border-radius: 3px;
+}
+
+/* Navigation buttons */
+.lesson-nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    padding: 15px;
+    background: #1e1e1e;
+    border-radius: 5px;
+}
+
+.lesson-nav a {
+    background: #b5e853;
+    color: #000000 !important;
+    padding: 8px 16px;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.lesson-nav a:hover {
+    background: #ffffff;
+    color: #000000 !important;
+}
