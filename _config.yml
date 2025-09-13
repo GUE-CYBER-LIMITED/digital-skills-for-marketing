@@ -1,7 +1,7 @@
-title: "Digital Skills for Marketing Professionals"
-description: "A comprehensive course for beginners transitioning to tech-enabled marketing roles"
+title: "Digital Skills for Modern Professionals"
+description: "A comprehensive course covering digital marketing, remote work, collaboration, digital security, and social media for career transition"
 author: "Gabriel Aloho"
-baseurl: "/digital-skills-for-marketing"
+baseurl: "/digital-skills-for-marketing"  # Keep URL same to avoid breaking links
 url: "https://gabaloho.github.io"
 
 # Theme

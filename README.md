@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Digital Skills for Marketing Professionals"
+title: "Digital Skills for Modern Professionals"
 ---
 
 <div class="course-navigation">
-<h1>💻 Digital Skills for Marketing Professionals</h1>
-<p><em>A Comprehensive Course for Beginners Transitioning to Tech-Enabled Marketing and Customer Service Roles</em></p>
-<p><strong>Created by Gabriel Aloho | Version 1.0</strong></p>
+<h1>💻 Digital Skills for Modern Professionals</h1>
+<p><em>A Comprehensive Course for Career Transition: Digital Marketing, Remote Work, Collaboration, Security & Social Media</em></p>
+<p><strong>Created by Gabriel Aloho | Version 2.0</strong></p>
 </div>
 
 ---
@@ -15,7 +15,7 @@ title: "Digital Skills for Marketing Professionals"
 
 <div class="lesson-progress">
 <strong>🚀 Start Learning Now</strong><br>
-Ready to begin your digital transformation? <strong><a href="01_foundations/">Click here to start with Module 1</a></strong>
+Ready to master essential digital skills for the modern workplace? <strong><a href="01_foundations/">Click here to start with Module 1</a></strong>
 </div>
 
 ### 📚 **Course Modules**
@@ -50,13 +50,13 @@ Ready to begin your digital transformation? <strong><a href="01_foundations/">Cl
 </tr>
 <tr>
 <td><strong><a href="04_tools_and_platforms/">Module 4</a></strong></td>
-<td><a href="04_tools_and_platforms/">Tools & Platforms</a></td>
+<td><a href="04_tools_and_platforms/">Productivity Tools & Platforms</a></td>
 <td>3-4 hours</td>
 <td>Intermediate</td>
 </tr>
 <tr>
 <td><strong><a href="05_soft_skills/">Module 5</a></strong></td>
-<td><a href="05_soft_skills/">Soft Skills for Digital Professionals</a></td>
+<td><a href="05_soft_skills/">Professional Communication Skills</a></td>
 <td>2-3 hours</td>
 <td>Beginner</td>
 </tr>
@@ -66,20 +66,41 @@ Ready to begin your digital transformation? <strong><a href="01_foundations/">Cl
 <td>4-5 hours</td>
 <td>Advanced</td>
 </tr>
+<tr>
+<td><strong><a href="07_remote_work/">Module 7</a></strong></td>
+<td><a href="07_remote_work/">Remote Work & Virtual Collaboration</a> 🆕</td>
+<td>3-4 hours</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td><strong><a href="08_digital_footprint/">Module 8</a></strong></td>
+<td><a href="08_digital_footprint/">Digital Footprint & Social Media Strategy</a> 🆕</td>
+<td>2-3 hours</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td><strong><a href="09_digital_security/">Module 9</a></strong></td>
+<td><a href="09_digital_security/">Digital Security & Privacy</a> 🆕</td>
+<td>2-3 hours</td>
+<td>Intermediate</td>
+</tr>
 </tbody>
 </table>
 
 ### 🛠️ **Additional Resources**
 - **[Free Online Courses](resources/recommended_courses.md)**
 - **[Templates & Tools](resources/templates_and_tools.md)**
+- **[Remote Work Setup Guide](resources/remote_work_setup.md)** 🆕
+- **[Security Checklist](resources/security_checklist.md)** 🆕
 
 ---
 
 ## 📌 Who This Is For
 
-* Admin professionals transitioning to ICT or marketing roles  
-* Beginners with basic computer literacy  
-* Professionals aiming to improve digital competence at work  
+* **Career Changers**: Professionals transitioning to digital/tech roles  
+* **Remote Workers**: People adapting to virtual work environments  
+* **Digital Beginners**: Those building foundational tech competency  
+* **Modern Professionals**: Anyone needing contemporary digital skills  
 
 ---
 
@@ -89,65 +110,38 @@ Ready to begin your digital transformation? <strong><a href="01_foundations/">Cl
 <li><strong>Sequential Learning</strong>: Start with Module 1 and progress through each module in order</li>
 <li><strong>Hands-On Practice</strong>: Complete all activities and exercises</li>
 <li><strong>Build Your Portfolio</strong>: Use Module 6 projects for your professional portfolio</li>
+<li><strong>Apply Skills</strong>: Implement remote work and security practices from Modules 7-9</li>
 <li><strong>Get Support</strong>: Use the discussion section for questions</li>
 </ol>
-<p><strong>⭐ Estimated Total Time</strong>: 16-22 hours | <strong>📱 Platform</strong>: Windows/Android focused</p>
+<p><strong>⭐ Estimated Total Time</strong>: 22-28 hours | <strong>📱 Platform</strong>: Windows/Android focused</p>
 </div>
 
 ---
 
-## 🗂️ **Detailed Course Contents**
+## 📌 What You'll Master
 
-### **Module 1: Foundations of Digital Technology**
-* [What is a Computer?](01_foundations/what_is_a_computer.md)  
-* [Operating Systems Basics](01_foundations/operating_systems.md)  
-* [What is the Internet?](01_foundations/what_is_the_internet.md)  
-* [Web Hosting & Domains](01_foundations/web_hosting_and_domains.md)  
-* [How Websites Work](01_foundations/how_websites_work.md)  
-* [Online Storefronts & CMS](01_foundations/storefronts_and_cms.md)
-* [Module Conclusion](01_foundations/course_conclusion.md)   
+### 🖥️ **Technical Skills**
+- Computer fundamentals and internet basics
+- Digital marketing and content creation
+- CRM systems and customer support
+- Productivity tools (Google Workspace, Excel, Power BI)
+- Remote work platforms and virtual collaboration
+- Digital security and privacy protection
 
-### **Module 2: Digital Marketing Basics**
-* [What is Digital Marketing?](02_digital_marketing_basics/what_is_digital_marketing.md)  
-* [SEO Basics](02_digital_marketing_basics/SEO_basics.md)  
-* [Content Creation](02_digital_marketing_basics/content_creation.md)  
-* [Social Media Marketing](02_digital_marketing_basics/social_media_marketing.md) 
-* [Module Conclusion](02_digital_marketing_basics/course_conclusion.md)
+### 💼 **Professional Skills**  
+- Professional communication and email writing
+- Time management and productivity
+- Building your digital footprint strategically
+- Social media for professional networking
+- Problem-solving and customer service
+- Project management and portfolio development
 
-### **Module 3: Customer Service & CRM Systems**
-* [Introduction to CRM](03_customer_service_and_crm/intro_to_crm.md)  
-* [Using Zendesk](03_customer_service_and_crm/using_zendesk.md)  
-* [Handling Customer Queries](03_customer_service_and_crm/handling_customer_queries.md)  
-* [Module Conclusion](03_customer_service_and_crm/course_conclusion.md)
-
-### **Module 4: Tools & Platforms**
-* [Google Tools Overview](04_tools_and_platforms/intro_to_google_tools.md)  
-* [Excel Basics](04_tools_and_platforms/basics_of_excel.md)  
-* [Power BI Overview](04_tools_and_platforms/overview_of_powerbi.md)  
-* [Module Conclusion](04_tools_and_platforms/course_conclusion.md)
-
-### **Module 5: Soft Skills**
-* [Time Management](05_soft_skills/time_management.md)  
-* [Communication Skills](05_soft_skills/communication_skills.md)  
-* [Writing Professional Emails](05_soft_skills/writing_professional_emails.md)
-* [Module Conclusion](05_soft_skills/course_conclusion.md)
-
-### **Module 6: Projects & Practice**
-* [Digital Marketing Campaign Plan](06_projects_and_practice/digital_marketing_campaign_plan.md)  
-* [Customer Support Case Study](06_projects_and_practice/customer_support_case_study.md)  
-* [Resume and Portfolio Guide](06_projects_and_practice/resume_and_portfolio_guide.md)
-* [Course Conclusion](06_projects_and_practice/course_conclusion.md)
-
----
-
-<div class="lesson-progress">
-<h2>✅ Final Tips</h2>
-<ul>
-<li>Start small. One module per week is a good pace.</li>
-<li>Practice what you learn. Use free tools and build mini-projects.</li>
-<li>Ask questions and stay curious.</li>
-</ul>
-</div>
+### 🔒 **Security & Privacy**
+- Password management and two-factor authentication
+- Safe browsing and phishing recognition
+- Social media privacy settings
+- Data backup and protection strategies
+- Professional online presence management
 
 ---
 
@@ -160,4 +154,4 @@ Ready to begin your digital transformation? <strong><a href="01_foundations/">Cl
 
 **Created by:** Gabriel Aloho  
 **Hosted on:** GitHub  
-**Version:** 1.0
+**Version:** 2.0 - Now with Remote Work, Digital Footprint & Security modules!
