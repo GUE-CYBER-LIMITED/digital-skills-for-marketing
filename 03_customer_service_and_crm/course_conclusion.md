@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Module 3 Conclusion"
 parent: "Module 3: Customer Service & CRM Systems"
 nav_order: 4

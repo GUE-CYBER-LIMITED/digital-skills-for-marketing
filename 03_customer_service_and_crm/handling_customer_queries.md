@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Handling Customer Queries"
 parent: "Module 3: Customer Service & CRM Systems"
 nav_order: 3

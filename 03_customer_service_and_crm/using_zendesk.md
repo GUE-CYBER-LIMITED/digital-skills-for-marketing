@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Using Zendesk"
 parent: "Module 3: Customer Service & CRM Systems"
 nav_order: 2
