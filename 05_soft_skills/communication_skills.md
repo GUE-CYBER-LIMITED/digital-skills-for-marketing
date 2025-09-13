@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Communication Skills"
 parent: "Module 5: Soft Skills for Digital Professionals"
 nav_order: 2

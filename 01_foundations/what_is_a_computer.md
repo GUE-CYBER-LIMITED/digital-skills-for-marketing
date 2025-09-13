@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "What is a Computer?"
 parent: "Module 1: Foundations of Digital Technology"
 nav_order: 1

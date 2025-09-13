@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Module 1 Conclusion"
 parent: "Module 1: Foundations of Digital Technology"
 nav_order: 7

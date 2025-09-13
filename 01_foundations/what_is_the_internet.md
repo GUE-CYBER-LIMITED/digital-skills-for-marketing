@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "What is the Internet?"
 parent: "Module 1: Foundations of Digital Technology"
 nav_order: 3

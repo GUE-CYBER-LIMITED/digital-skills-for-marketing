@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Module 4 Conclusion"
 parent: "Module 4: Tools & Platforms"
 nav_order: 4

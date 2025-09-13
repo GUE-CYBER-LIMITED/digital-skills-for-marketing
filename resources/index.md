@@ -1,38 +1,18 @@
 ---
-layout: page
-title: "Additional Resources"
-nav_order: 8
-has_children: true
+layout: default
+title: "Digital Skills for Marketing Professionals"
 ---
 
-# Additional Resources
-*Continue Your Learning Journey*
+# Digital Skills for Marketing Professionals
+*A Comprehensive Course for Beginners Transitioning to Tech-Enabled Marketing and Customer Service Roles*
 
----
-
-## 🎓 **Free Online Courses**
-Expand your knowledge with these recommended courses:
-- **[Recommended Courses](recommended_courses.md)** - Curated list of free online learning opportunities
+**[Click here to view the full course →](README.md)**
 
 ---
 
-## 🛠️ **Templates & Tools**
-Practical resources to support your work:
-- **[Templates & Tools](templates_and_tools.md)** - Downloadable templates and useful tool recommendations
+This course teaches essential digital skills for marketing and customer service professionals. Navigate to the main course page to begin your learning journey.
 
----
-
-## 📚 **Additional Learning Materials**
-- **[Glossary](glossary.md)** - Key terms and definitions
-- **[Further Reading](further_reading.md)** - Articles and resources for deeper learning
-
----
-
-## 🧭 **Navigation**
-- **[🏠 Course Home](../README.md)**
-- **[⬅️ Back: Module 6](../06_projects_and_practice/)**
-- **[🎓 Start: Recommended Courses](recommended_courses.md)**
-
----
-
-**Continue learning:** 👉 **[Explore Recommended Courses](recommended_courses.md)**
+<div class="lesson-nav">
+<a href="README.md">🚀 Start Course</a>
+<a href="01_foundations/">📚 Module 1</a>
+</div>

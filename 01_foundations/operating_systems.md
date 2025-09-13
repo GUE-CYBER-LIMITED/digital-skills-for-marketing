@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Operating Systems Basics"
 parent: "Module 1: Foundations of Digital Technology"
 nav_order: 2

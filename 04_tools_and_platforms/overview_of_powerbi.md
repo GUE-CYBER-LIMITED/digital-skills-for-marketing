@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Power BI Overview"
 parent: "Module 4: Tools & Platforms"
 nav_order: 3

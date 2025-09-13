@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Google Tools Overview"
 parent: "Module 4: Tools & Platforms"
 nav_order: 1

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Excel Basics"
 parent: "Module 4: Tools & Platforms"
 nav_order: 2

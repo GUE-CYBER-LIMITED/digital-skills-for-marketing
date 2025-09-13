@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Module 5 Conclusion"
 parent: "Module 5: Soft Skills for Digital Professionals"
 nav_order: 4
