@@ -1,20 +1,13 @@
-# SEO Basics
-
-**SEO (Search Engine Optimization)** is the process of optimizing a website so that it ranks higher in search engine results pages (SERPs), driving organic (non-paid) traffic.
-
-## Key Elements of SEO:
-- **On-Page SEO:** Optimizing elements within a webpage, such as title tags, meta descriptions, and content.
-- **Off-Page SEO:** Activities outside the website, such as backlinks from other sites.
-- **Technical SEO:** Improving the technical aspects of a website, such as site speed and mobile-friendliness.
-
-### Common SEO Techniques:
-- **Keyword Research:** Identifying terms your audience searches for.
-- **Content Optimization:** Creating high-quality, engaging content.
-- **Link Building:** Gaining backlinks from reputable sites.
+---
+layout: page
+title: "SEO Basics"
+parent: "Module 2: Digital Marketing Basics"
+nav_order: 2
+---
 
 # Lesson 2: SEO Basics
 
-Welcome to Lesson 2 of Module 2! Today, we’re exploring **SEO Basics** (Search Engine Optimization), the process of making websites easier to find on search engines like Google. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll cover what SEO is, why it’s crucial, and simple ways to improve a website’s ranking. By the end, you’ll understand how search engines work and try basic SEO yourself. Let’s dive in!
+Welcome to Lesson 2 of Module 2! Today, we're exploring **SEO Basics** (Search Engine Optimization), the process of making websites easier to find on search engines like Google. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what SEO is, why it's crucial, and simple ways to improve a website's ranking. By the end, you'll understand how search engines work and try basic SEO yourself. Let's dive in!
 
 ---
 
@@ -190,12 +183,13 @@ Let’s try SEO with fun activities on your **Windows computer** or **Android ph
 
 ---
 
-## What’s Next?
-You’ve mastered SEO basics, using your Windows computer or Android phone! Try these:  
-- On Windows, search different keywords on Google to see ranking changes.  
-- On Android, check a blog’s title for keywords.  
-- Explore SEO tools like `www.semrush.com` on macOS or Linux.  
-
-Keep practicing, and share your SEO discoveries. You’re now ready to make websites shine on search engines!
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: What is Digital Marketing?](what_is_digital_marketing.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: Content Creation](content_creation.md)**
 
 ---
+
+## 🎯 **Next Steps**
+Ready to create amazing content? **[Continue to Lesson 03: Content Creation →](content_creation.md)**
+
+### 📍 **Course Progress**
+**Module 2**: Lesson 2 of 5 completed | **Overall**: 9 of 25+ lessons completed

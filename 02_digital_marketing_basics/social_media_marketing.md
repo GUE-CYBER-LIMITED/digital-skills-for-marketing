@@ -1,25 +1,13 @@
-# Social Media Marketing
-
-**Social media marketing** involves using social media platforms to promote a product, service, or brand, build relationships with customers, and increase engagement.
-
-## Popular Social Media Platforms:
-- **Facebook**
-- **Instagram**
-- **LinkedIn**
-- **Twitter**
-
-### Key Strategies:
-- **Consistency:** Post regularly to maintain visibility.
-- **Engagement:** Respond to comments, messages, and mentions.
-- **Paid Ads:** Utilize platform tools to run targeted ad campaigns.
-
-### Best Practices:
-- **Visual Content:** Share photos, videos, and stories to engage your audience.
-- **Hashtags:** Use relevant hashtags to increase discoverability.
+---
+layout: page
+title: "Social Media Marketing"
+parent: "Module 2: Digital Marketing Basics"
+nav_order: 4
+---
 
 # Lesson 4: Social Media Marketing
 
-Welcome to Lesson 4 of Module 2! Today, we’re exploring **Social Media Marketing**, the strategy of using platforms like Instagram, Twitter, or TikTok to promote brands and connect with people. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll cover what social media marketing is, why it’s powerful, and how to use it. By the end, you’ll create a social media post and engage with followers. Let’s get social!
+Welcome to Lesson 4 of Module 2! Today, we're exploring **Social Media Marketing**, the strategy of using platforms like Instagram, Twitter, or TikTok to promote brands and connect with people. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what social media marketing is, why it's powerful, and how to use it. By the end, you'll create a social media post and engage with followers. Let's get social!
 
 ---
 
@@ -199,12 +187,13 @@ Let’s try social media marketing with fun activities on your **Windows compute
 
 ---
 
-## What’s Next?
-You’ve mastered social media marketing, using your Windows computer or Android phone! Try these:  
-- On Windows, explore a new platform like LinkedIn.  
-- On Android, create a story on Instagram or TikTok.  
-- Check macOS or Linux social media apps for differences.  
-
-Keep posting and engaging. You’re now a social media marketing star!
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Content Creation](content_creation.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**
 
 ---
+
+## 🎯 **Next Steps**
+Ready to wrap up Module 2? **[Continue to Module Conclusion →](course_conclusion.md)**
+
+### 📍 **Course Progress**
+**Module 2**: Lesson 4 of 5 completed | **Overall**: 11 of 25+ lessons completed

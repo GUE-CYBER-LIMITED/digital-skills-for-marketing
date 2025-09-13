@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Online Storefronts & CMS"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 6
+---
+
 # Lesson 6: Online Storefronts & CMS
 
 Welcome to Lesson 6 of our computer adventure! Today, we’re exploring **Online Storefronts & CMS** (Content Management Systems), the tools that power online shops and websites with easy-to-update content. This lesson is crafted for beginners with no tech background, using simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll dive into what online storefronts and CMS are, how they work, and why they’re game-changers. By the end, you’ll know how to explore an online store and even try a CMS demo. Let’s get started!
@@ -195,10 +202,13 @@ Let’s explore online storefronts and CMS with fun activities on your **Windows
 
 ---
 
-## What’s Next?
-You’ve mastered online storefronts and CMS, using your Windows computer or Android phone! Try these:  
-- On Windows, explore **WordPress.com** for a free blog setup.  
-- On Android, browse more Shopify stores via their app.  
-- Search for CMS tutorials for macOS or Linux users.  
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Web Hosting & Domains](web_hosting_and_domains.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**
 
-Grab your device, try the activities, and share your discoveries. Online storefronts and CMS make the internet accessible, and you’re now part of that world!
+---
+
+## 🎯 **Next Steps**
+Ready to wrap up Module 1? **[Continue to Module Conclusion →](course_conclusion.md)**
+
+### 📍 **Course Progress**
+**Module 1**: Lesson 6 of 7 completed | **Overall**: 6 of 25+ lessons completed

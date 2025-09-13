@@ -1,3 +1,10 @@
+---
+layout: page
+title: "What is the Internet?"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 3
+---
+
 # Lesson 3: What is the Internet? A Fun and Beginner-Friendly Guide
 
 Welcome to Lesson 3 of our computer adventure! Today, we’re exploring the **Internet**, the amazing global network that lets you chat with friends, watch videos, shop online, and so much more. This lesson is designed for beginners with no tech background, using simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. We’ll cover the internet’s basics, key concepts, and services, making it easy to understand and exciting to explore. By the end, you’ll know how the internet works and how to use it confidently. Let’s dive in!
@@ -213,3 +220,16 @@ You’ve mastered the basics of the internet, its key concepts, and its services
 - Search online for screenshots of macOS or Linux browsers to see their unique styles.  
 
 Grab your Windows computer or Android phone, try the activities, and share your internet adventures with a friend. The internet is your global playground, and you’re now ready to explore it like a pro!
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Operating Systems](operating_systems.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: How Websites Work](how_websites_work.md)**
+
+---
+
+## 🎯 **Next Steps**
+Ready to learn how websites work? **[Continue to Lesson 04: How Websites Work →](how_websites_work.md)**
+
+### 📍 **Course Progress**
+**Module 1**: Lesson 3 of 7 completed | **Overall**: 3 of 25+ lessons completed

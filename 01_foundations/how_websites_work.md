@@ -1,6 +1,13 @@
+---
+layout: page
+title: "How Websites Work"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 4
+---
+
 # Lesson 4: How Websites Work? A Fun and Beginner-Friendly Guide
 
-Welcome to Lesson 4 of our computer adventure! Today, we’re diving into the exciting world of **How Websites Work**, uncovering the magic behind the webpages you visit every day. This lesson is crafted for beginners with no tech background, using simple language, fun analogies, and hands-on activities designed for your **Windows computer** or **Android phone**. We’ll explore how websites are built, stored, and displayed, covering key concepts like web servers, HTML, CSS, and JavaScript, plus web hosting. By the end, you’ll understand the nuts and bolts of websites and even create a tiny webpage of your own. Let’s get started!
+Welcome to Lesson 4 of our computer adventure! Today, we're diving into the exciting world of **How Websites Work**, uncovering the magic behind the webpages you visit every day. This lesson is crafted for beginners with no tech background, using simple language, fun analogies, and hands-on activities designed for your **Windows computer** or **Android phone**. We’ll explore how websites are built, stored, and displayed, covering key concepts like web servers, HTML, CSS, and JavaScript, plus web hosting. By the end, you’ll understand the nuts and bolts of websites and even create a tiny webpage of your own. Let’s get started!
 
 ---
 
@@ -140,26 +147,20 @@ How might the browser or address bar differ on macOS or Linux?
 1. Open **Notepad**.
 2. Paste this code:
 
-   ```html
-   <!DOCTYPE html>
-   <html>
-   <head>
-       <title>My First Webpage</title>
-   </head>
-   <body>
-       <h1>Hello, World!</h1>
-       <p>This is my first webpage, created on Windows!</p>
-   </body>
-   </html>
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Webpage</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+    <p>This is my first webpage, created on Windows!</p>
+</body>
+</html>
+```
 
-
-
-# Creating and Viewing a Simple Webpage
-
-## Windows Steps
-
-3. Save the file as `mywebpage.html`  
-   - Choose **"All Files"** as the file type.
+3. Save the file as `mywebpage.html` - Choose **"All Files"** as the file type.
 4. Double-click the file to open it in your browser.
 
 ### Write down:
@@ -199,3 +200,16 @@ How might the text editor or file opening process differ on **macOS** or **Linux
 - **Webpage:** A heading and a paragraph  
 - **OS/Browser Help:** Android opened the file in Chrome  
 - **Difference:** Linux may use Gedit, which supports tabs and syntax highlighting
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: What is the Internet?](what_is_the_internet.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Web Hosting & Domains](web_hosting_and_domains.md)**
+
+---
+
+## 🎯 **Next Steps**
+Ready to learn about web hosting? **[Continue to Lesson 05: Web Hosting & Domains →](web_hosting_and_domains.md)**
+
+### 📍 **Course Progress**
+**Module 1**: Lesson 4 of 7 completed | **Overall**: 4 of 25+ lessons completed

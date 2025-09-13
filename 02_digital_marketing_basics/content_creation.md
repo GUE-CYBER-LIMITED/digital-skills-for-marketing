@@ -1,26 +1,13 @@
-# Content Creation
-
-**Content creation** is the process of producing written, visual, or multimedia content that engages an audience and communicates key messages.
-
-## Types of Content:
-- **Blog Posts**
-- **Infographics**
-- **Videos**
-- **Social Media Posts**
-
-### Tips for Effective Content:
-- **Know Your Audience:** Tailor your content to their needs and preferences.
-- **Use Keywords:** Include keywords for SEO purposes.
-- **Focus on Quality:** Provide value to your readers, not just promotional material.
-
-### Tools for Content Creation:
-- **Canva:** Graphic design tool for creating images, infographics, and more.
-- **Grammarly:** Writing tool for grammar and style improvement.
-- **ChatGPT:** AI tool to assist in generating content ideas or text.
+---
+layout: page
+title: "Content Creation"
+parent: "Module 2: Digital Marketing Basics"
+nav_order: 3
+---
 
 # Lesson 3: Content Creation
 
-Welcome to Lesson 3 of Module 2! Today, we’re diving into **Content Creation**, the process of making engaging material—like blog posts, videos, or images—to attract and connect with people online. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll explore what content creation is, why it’s key to digital marketing, and how to make great content. By the end, you’ll create your own content and share it. Let’s get creative!
+Welcome to Lesson 3 of Module 2! Today, we're diving into **Content Creation**, the process of making engaging material—like blog posts, videos, or images—to attract and connect with people online. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll explore what content creation is, why it's key to digital marketing, and how to make great content. By the end, you'll create your own content and share it. Let's get creative!
 
 ---
 
@@ -213,12 +200,13 @@ Let’s create content with fun activities on your **Windows computer** or **And
 
 ---
 
-## What’s Next?
-You’ve learned content creation, using your Windows computer or Android phone! Try these:  
-- On Windows, create another Canva graphic for fun.  
-- On Android, film a short video with your phone’s camera.  
-- Explore macOS or Linux content tools like GIMP.  
-
-Keep creating, and share your content. You’re now a digital storyteller!
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: SEO Basics](SEO_basics.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: Social Media Marketing](social_media_marketing.md)**
 
 ---
+
+## 🎯 **Next Steps**
+Ready to master social media marketing? **[Continue to Lesson 04: Social Media Marketing →](social_media_marketing.md)**
+
+### 📍 **Course Progress**
+**Module 2**: Lesson 3 of 5 completed | **Overall**: 10 of 25+ lessons completed

@@ -1,32 +1,19 @@
-# Module 3: Customer Service & CRM Systems
-
-Welcome to **Module 3: Customer Service & CRM Systems**! In this module, you’ll learn how businesses use technology to keep customers happy and organized. Designed for beginners with no tech or customer service background, these lessons use simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. Building on Modules 1 (computers, internet, websites) and 2 (digital marketing), we’ll explore Customer Relationship Management (CRM) systems, how to use tools like Zendesk, and ways to handle customer queries effectively. By the end, you’ll understand how to support customers and try basic CRM tasks yourself. Let’s get started!
-
 ---
-# Introduction to CRM
-
-A **Customer Relationship Management (CRM)** system is software that helps businesses manage interactions with current and potential customers. It organizes customer data and automates sales, marketing, and customer service.
-
-## Key Features of CRM:
-- **Contact Management:** Store customer information in one place.
-- **Sales Tracking:** Manage the sales pipeline and track leads.
-- **Customer Service:** Track and resolve customer issues.
-
-### Popular CRMs:
-- **HubSpot**
-- **Zendesk**
-- **Salesforce**
-
+layout: page
+title: "Introduction to CRM"
+parent: "Module 3: Customer Service & CRM Systems"
+nav_order: 1
+---
 
 # Lesson 1: Introduction to CRM
 
-Welcome to Lesson 1 of Module 3! Today, we’re diving into **Customer Relationship Management (CRM)**, the technology that helps businesses build strong relationships with their customers. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll explore what CRM is, why it’s important, and its key features. By the end, you’ll understand how businesses use CRM to keep customers happy and try a mini-CRM task. Let’s jump in!
+Welcome to Lesson 1 of Module 3! Today, we're diving into **Customer Relationship Management (CRM)**, the technology that helps businesses build strong relationships with their customers. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll explore what CRM is, why it's important, and its key features. By the end, you'll understand how businesses use CRM to keep customers happy and try a mini-CRM task. Let's jump in!
 
 ---
 
 ## What is CRM?
 
-**Customer Relationship Management (CRM)** is like a **digital notebook** that businesses use to keep track of their customers, their needs, and their interactions. It’s a software system that stores customer information, manages communication, and helps provide better service.
+**Customer Relationship Management (CRM)** is like a **digital notebook** that businesses use to keep track of their customers, their needs, and their interactions. It's a software system that stores customer information, manages communication, and helps provide better service.
 
 Think of CRM as running a friendly neighborhood café:
 - Your **customers** are regulars who visit for coffee.
@@ -193,12 +180,13 @@ Let’s explore CRM with fun activities on your **Windows computer** or **Androi
 
 ---
 
-## What’s Next?
-You’ve learned what CRM is and its key features, using your Windows computer or Android phone! Try these:  
-- On Windows, browse a store’s website for more CRM signs like tailored ads.  
-- On Android, check your email for automated messages from brands.  
-- Explore macOS or Linux apps for note-taking differences.  
-
-Keep exploring, and share your CRM discoveries. You’re now ready to understand how businesses keep customers happy!
+## 🧭 **Lesson Navigation**
+- **[🏠 Course Home](../README.md)** | **[📚 Module 3 Home](index.md)** | **[➡️ Next: Using Zendesk](using_zendesk.md)**
 
 ---
+
+## 🎯 **Next Steps**
+Ready to learn about Zendesk? **[Continue to Lesson 02: Using Zendesk →](using_zendesk.md)**
+
+### 📍 **Course Progress**
+**Module 3**: Lesson 1 of 4 completed | **Overall**: 13 of 25+ lessons completed

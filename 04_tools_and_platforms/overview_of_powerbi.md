@@ -1,25 +1,19 @@
-# Overview of Power BI
-
-**Power BI** is a business analytics tool from Microsoft that allows you to visualize data and share insights.
-
-## Key Features:
-- **Data Import:** Import data from various sources like Excel, SQL databases, and web services.
-- **Data Visualizations:** Create interactive charts, graphs, and dashboards.
-- **Reports & Sharing:** Share insights with team members via online dashboards.
-
-### How to Get Started:
-- Import data into Power BI and create your first dashboard.
-- Learn to filter and analyze data with simple visualizations.
+---
+layout: page
+title: "Power BI Overview"
+parent: "Module 4: Tools & Platforms"
+nav_order: 3
+---
 
 # Lesson 3: Power BI Overview
 
-Welcome to Lesson 3 of Module 4! Today, we’re exploring **Power BI Overview**, a Microsoft tool for turning data into interactive visualizations and reports. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll cover what Power BI is, its key features, and how it helps analyze data. By the end, you’ll try Power BI’s demo and understand data visualization, building on Excel skills. Let’s dive in!
+Welcome to Lesson 3 of Module 4! Today, we're exploring **Power BI Overview**, a Microsoft tool for turning data into interactive visualizations and reports. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what Power BI is, its key features, and how it helps analyze data. By the end, you'll try Power BI's demo and understand data visualization, building on Excel skills. Let's dive in!
 
 ---
 
 ## What is Power BI?
 
-**Microsoft Power BI** (Business Intelligence) is like a **digital storyteller** that transforms raw data into colorful charts, graphs, and dashboards to reveal insights. It’s a tool for analyzing data from Excel, databases, or websites and sharing reports with others.
+**Microsoft Power BI** (Business Intelligence) is like a **digital storyteller** that transforms raw data into colorful charts, graphs, and dashboards to reveal insights. It's a tool for analyzing data from Excel, databases, or websites and sharing reports with others.
 
 Think of Power BI as running a detective agency:
 - Your **data** (sales, customer info) is evidence from a case.
@@ -39,19 +33,19 @@ Power BI matters because it:
 
 ## Key Concepts of Power BI
 
-Let’s explore the main features of Power BI with examples for your Windows computer or Android phone.
+Let's explore the main features of Power BI with examples for your Windows computer or Android phone.
 
 ### 1. Data Sources
 **What it is**: Power BI connects to data from Excel, Google Sheets, databases, or websites to analyze.
 
-**Example**: On your Windows computer, you might import an Excel sales file into Power BI to analyze monthly revenue. On your Android phone, you’d view the resulting report in the Power BI app.
+**Example**: On your Windows computer, you might import an Excel sales file into Power BI to analyze monthly revenue. On your Android phone, you'd view the resulting report in the Power BI app.
 
 **Illustration**: Data sources are like ingredients. You gather veggies (data) from different farms (Excel, web) to cook a dish (report).
 
 ### 2. Visualizations
 **What it is**: Charts, graphs, maps, or tables that display data in an easy-to-understand way.
 
-**Example**: In Power BI on your Windows computer, you might create a bar chart of sales by product. On your Android phone, you’d interact with the chart to filter by month.
+**Example**: In Power BI on your Windows computer, you might create a bar chart of sales by product. On your Android phone, you'd interact with the chart to filter by month.
 
 **Common Visuals**:
 - **Bar/Column Charts**: Compare values (e.g., sales).
@@ -63,15 +57,15 @@ Let’s explore the main features of Power BI with examples for your Windows com
 ### 3. Dashboards
 **What it is**: A single page with multiple visualizations, like a control panel, for quick insights.
 
-**Example**: On your Windows computer, a Power BI dashboard might show sales, customer count, and profit in one view. On your Android phone, you’d swipe through the dashboard in the app.
+**Example**: On your Windows computer, a Power BI dashboard might show sales, customer count, and profit in one view. On your Android phone, you'd swipe through the dashboard in the app.
 
-**Illustration**: A dashboard is like a car’s dashboard. It shows speed (sales), fuel (profit), and more in one glance (report).
+**Illustration**: A dashboard is like a car's dashboard. It shows speed (sales), fuel (profit), and more in one glance (report).
 
 ---
 
 ## How Power BI Works
 
-Here’s how to use Power BI for a simple analysis:
+Here's how to use Power BI for a simple analysis:
 
 1. **Connect Data**: Import data from a source like Excel or a website.  
    - Example: Load an Excel file of store sales.
@@ -99,17 +93,17 @@ Here’s how to use Power BI for a simple analysis:
 
 ## Hands-On Activities
 
-Let’s explore Power BI with fun activities on your **Windows computer** or **Android phone**. These are beginner-friendly and include comparisons to macOS, iOS, or Linux. Note: Power BI Desktop is Windows-only, but the online version and app work on other platforms.
+Let's explore Power BI with fun activities on your **Windows computer** or **Android phone**. These are beginner-friendly and include comparisons to macOS, iOS, or Linux. Note: Power BI Desktop is Windows-only, but the online version and app work on other platforms.
 
 ### Activity 1: Explore a Power BI Demo
-**Goal**: Understand Power BI’s interface.  
+**Goal**: Understand Power BI's interface.  
 **Steps (Windows)**:  
-1. Open a browser and go to `powerbi.microsoft.com` and find the “Try Power BI for free” or demo section.  
+1. Open a browser and go to `powerbi.microsoft.com` and find the "Try Power BI for free" or demo section.  
 2. Explore a sample report (e.g., sales or retail data).  
 3. Note one visualization (e.g., bar chart).  
 4. Write down:  
    - The visualization and data.  
-   - How it helps (e.g., “Shows trends clearly”).  
+   - How it helps (e.g., "Shows trends clearly").  
 **Steps (Android)**:  
 1. Download the **Power BI** app (Google Play) or use a browser.  
 2. Sign in (free Microsoft account) and view a sample report.  
@@ -136,7 +130,7 @@ Let’s explore Power BI with fun activities on your **Windows computer** or **A
 2. Plan a visualization for pretend data (e.g., Data: Store sales, Visualization: Column chart, Shows: Sales by month).  
 3. Write down:  
    - The plan (data, visualization).  
-   - How it helps (e.g., “Spots top months”).  
+   - How it helps (e.g., "Spots top months").  
 **Steps (Android)**:  
 1. Open a note-taking app or **Google Docs** app.  
 2. Plan a visualization.  
@@ -162,7 +156,7 @@ Let’s explore Power BI with fun activities on your **Windows computer** or **A
 2. Note one feature (e.g., multiple charts or filters).  
 3. Write down:  
    - The feature and data.  
-   - How it helps (e.g., “Summarizes data fast”).  
+   - How it helps (e.g., "Summarizes data fast").  
 **Steps (Android)**:  
 1. In the Power BI app or browser, view a sample dashboard.  
 2. Note a feature.  
@@ -187,16 +181,27 @@ Let’s explore Power BI with fun activities on your **Windows computer** or **A
 - Power BI launched in 2013 and is used by 97% of Fortune 500 companies!  
 - It can connect to over 100 data sources, from Excel to Salesforce.  
 - Dashboards can update in real-time with live data.  
-- Power BI’s AI features can predict trends automatically.
+- Power BI's AI features can predict trends automatically.
 
 ---
 
-## What’s Next?
-You’ve mastered Power BI basics, using your Windows computer or Android phone! Try these:  
+## What's Next?
+You've mastered Power BI basics, using your Windows computer or Android phone! Try these:  
 - On Windows, explore more Power BI samples at `powerbi.microsoft.com`.  
 - On Android, interact with a dashboard in the Power BI app.  
 - Check macOS or Linux browsers for Power BI differences.  
 
-Keep exploring, and share your visualizations. You’re now a data storyteller!
+Keep exploring, and share your visualizations. You're now a data storyteller!
 
 ---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Excel Basics](basics_of_excel.md)** | **[📚 Module 4 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**
+
+---
+
+## 🎯 **Next Steps**
+Ready to wrap up Module 4? **[Continue to Module Conclusion →](course_conclusion.md)**
+
+### 📍 **Course Progress**
+**Module 4**: Lesson 3 of 4 completed | **Overall**: 19 of 25+ lessons completed

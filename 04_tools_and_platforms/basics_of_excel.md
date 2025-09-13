@@ -1,25 +1,19 @@
-# Basics of Excel
-
-**Microsoft Excel** is a powerful spreadsheet tool used for organizing, analyzing, and visualizing data.
-
-## Key Functions:
-- **Formulas:** Perform calculations, e.g., `SUM()`, `AVERAGE()`.
-- **Charts:** Visualize data trends using bar, line, and pie charts.
-- **Tables & Filters:** Organize data and filter for easy analysis.
-
-### Tips:
-- **Keyboard Shortcuts:** Learn common Excel shortcuts for efficiency.
-- **Pivot Tables:** Summarize large data sets with ease.
+---
+layout: page
+title: "Excel Basics"
+parent: "Module 4: Tools & Platforms"
+nav_order: 2
+---
 
 # Lesson 2: Excel Basics
 
-Welcome to Lesson 2 of Module 4! Today, we’re exploring **Excel Basics**, a powerful Microsoft tool for organizing, analyzing, and calculating data. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll cover what Excel is, its key features, and how to use it for simple tasks. By the end, you’ll create a spreadsheet and perform calculations, feeling confident with Excel. Let’s dive in!
+Welcome to Lesson 2 of Module 4! Today, we're exploring **Excel Basics**, a powerful Microsoft tool for organizing, analyzing, and calculating data. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what Excel is, its key features, and how to use it for simple tasks. By the end, you'll create a spreadsheet and perform calculations, feeling confident with Excel. Let's dive in!
 
 ---
 
 ## What is Excel?
 
-**Microsoft Excel** is like a **digital calculator and organizer** that helps you manage data in spreadsheets. It’s a program for storing numbers, text, or dates, performing calculations, and creating charts, used by businesses, students, and more.
+**Microsoft Excel** is like a **digital calculator and organizer** that helps you manage data in spreadsheets. It's a program for storing numbers, text, or dates, performing calculations, and creating charts, used by businesses, students, and more.
 
 Think of Excel as running a small shop:
 - Your **data** (sales, inventory) is the shop’s stock.
@@ -194,12 +188,13 @@ Let’s explore Excel with fun activities on your **Windows computer** or **Andr
 
 ---
 
-## What’s Next?
-You’ve mastered Excel basics, using your Windows computer or Android phone! Try these:  
-- On Windows, create a budget spreadsheet with more data.  
-- On Android, edit a spreadsheet in the Excel app.  
-- Explore macOS or Linux Excel (via browser) for differences.  
-
-Keep practicing, and share your spreadsheets. You’re now an Excel beginner!
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Google Tools Overview](intro_to_google_tools.md)** | **[📚 Module 4 Home](index.md)** | **[➡️ Next: Power BI Overview](overview_of_powerbi.md)**
 
 ---
+
+## 🎯 **Next Steps**
+Ready to learn about Power BI? **[Continue to Lesson 03: Power BI Overview →](overview_of_powerbi.md)**
+
+### 📍 **Course Progress**
+**Module 4**: Lesson 2 of 4 completed | **Overall**: 18 of 25+ lessons completed

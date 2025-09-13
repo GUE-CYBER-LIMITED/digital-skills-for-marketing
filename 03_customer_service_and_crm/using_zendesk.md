@@ -1,29 +1,23 @@
-# Using Zendesk
-
-**Zendesk** is a customer service platform that provides tools to manage customer interactions across multiple channels (email, chat, phone).
-
-## Key Features:
-- **Ticket Management:** Create, assign, and track customer service tickets.
-- **Automation:** Use triggers and workflows to automate repetitive tasks.
-- **Reports:** Generate reports to track team performance and customer satisfaction.
-
-### Getting Started with Zendesk:
-- **Set Up a Helpdesk:** Create support tickets and manage customer issues.
-- **Use Macros:** Predefined responses to common queries.
+---
+layout: page
+title: "Using Zendesk"
+parent: "Module 3: Customer Service & CRM Systems"
+nav_order: 2
+---
 
 # Lesson 2: Using Zendesk
 
-Welcome to Lesson 2 of Module 3! Today, we’re exploring **Using Zendesk**, a popular customer service tool that helps businesses support their customers. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll cover what Zendesk is, how it works, and its key features for managing customer support. By the end, you’ll try Zendesk’s demo and understand its role in customer service. Let’s dive in!
+Welcome to Lesson 2 of Module 3! Today, we're exploring **Using Zendesk**, a popular customer service tool that helps businesses support their customers. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what Zendesk is, how it works, and its key features for managing customer support. By the end, you'll try Zendesk's demo and understand its role in customer service. Let's dive in!
 
 ---
 
 ## What is Zendesk?
 
-**Zendesk** is like a **digital help desk** that businesses use to manage customer questions, complaints, or requests. It’s a cloud-based CRM tool that organizes support tickets, automates responses, and tracks interactions, making customer service smooth and efficient.
+**Zendesk** is like a **digital help desk** that businesses use to manage customer questions, complaints, or requests. It's a cloud-based CRM tool that organizes support tickets, automates responses, and tracks interactions, making customer service smooth and efficient.
 
-Think of Zendesk as a busy restaurant’s order system:
+Think of Zendesk as a busy restaurant's order system:
 - **Customers** are diners asking for help or placing orders.
-- **Zendesk** is the waiter’s notepad and system that tracks every order and request.
+- **Zendesk** is the waiter's notepad and system that tracks every order and request.
 - The **staff** (support team) uses Zendesk to respond quickly and keep everyone happy.
 
 Zendesk helps businesses, from small shops to big companies, provide great customer service online or via apps.
@@ -188,12 +182,13 @@ Let’s explore Zendesk with fun activities on your **Windows computer** or **An
 
 ---
 
-## What’s Next?
-You’ve learned how to use Zendesk, using your Windows computer or Android phone! Try these:  
-- On Windows, explore another Help Center for FAQs.  
-- On Android, check a brand’s chat feature on their site.  
-- Compare macOS or Linux browsers for Help Center differences.  
-
-Keep practicing, and share your Zendesk discoveries. You’re now ready to support customers like a pro!
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Introduction to CRM](intro_to_crm.md)** | **[📚 Module 3 Home](index.md)** | **[➡️ Next: Handling Customer Queries](handling_customer_queries.md)**
 
 ---
+
+## 🎯 **Next Steps**
+Ready to master customer query handling? **[Continue to Lesson 03: Handling Customer Queries →](handling_customer_queries.md)**
+
+### 📍 **Course Progress**
+**Module 3**: Lesson 2 of 4 completed | **Overall**: 14 of 25+ lessons completed

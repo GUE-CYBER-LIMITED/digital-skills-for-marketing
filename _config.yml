@@ -1,0 +1,66 @@
+title: "Digital Skills for Marketing Professionals"
+description: "A comprehensive course for beginners transitioning to tech-enabled marketing roles"
+author: "Gabriel Aloho"
+baseurl: "/digital-skills-for-marketing"
+url: "https://gabaloho.github.io"
+
+# Theme
+theme: minima
+
+# Markdown processor
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation structure
+header_pages:
+  - README.md
+
+# Exclude files from processing
+exclude:
+  - .gitignore
+  - LICENSE
+  - vendor/
+
+# Defaults for front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "01_foundations"
+    values:
+      layout: "page"
+      course_module: true
+  - scope:
+      path: "02_digital_marketing_basics"
+    values:
+      layout: "page"
+      course_module: true
+  - scope:
+      path: "03_customer_service_and_crm"
+    values:
+      layout: "page"
+      course_module: true
+  - scope:
+      path: "04_tools_and_platforms"
+    values:
+      layout: "page"
+      course_module: true
+  - scope:
+      path: "05_soft_skills"
+    values:
+      layout: "page"
+      course_module: true
+  - scope:
+      path: "06_projects_and_practice"
+    values:
+      layout: "page"
+      course_module: true

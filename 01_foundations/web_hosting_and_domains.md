@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Web Hosting & Domains"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 5
+---
+
 # Lesson 5: Web Hosting & Domains
 
 Welcome to Lesson 5 of our computer adventure! Today, we’re exploring **Web Hosting & Domains**, the essential services that make websites available on the internet. This lesson is designed for beginners with no tech background, using simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll uncover what web hosting and domains are, why they matter, and how they work together to bring websites to your screen. By the end, you’ll understand how websites live online and even explore domain names yourself. Let’s dive in!
@@ -207,3 +214,14 @@ You’ve learned how web hosting and domains make websites accessible, using you
 Pick up your device, try the activities, and share your findings. Web hosting and domains are the internet’s foundation, and you’re now ready to understand their magic!
 
 ---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: How Websites Work](how_websites_work.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Online Storefronts & CMS](storefronts_and_cms.md)**
+
+---
+
+## 🎯 **Next Steps**
+Ready to explore online stores and CMS? **[Continue to Lesson 06: Online Storefronts & CMS →](storefronts_and_cms.md)**
+
+### 📍 **Course Progress**
+**Module 1**: Lesson 5 of 7 completed | **Overall**: 5 of 25+ lessons completed

@@ -1,6 +1,13 @@
-# Course Conclusion
+---
+layout: page
+title: "Module 1 Conclusion"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 7
+---
 
-Congratulations on completing all seven lessons of **Module 1: Foundations of Digital Technology**! You’ve embarked on an incredible journey, learning the core concepts that power today’s digital world. Using your **Windows computer** and **Android phone**, you’ve explored computers, operating systems, the internet, websites, and more, all while gaining insights into other systems like macOS, iOS, and Linux. Here’s a quick recap of your achievements:
+# Module 1 Conclusion
+
+Congratulations on completing all seven lessons of **Module 1: Foundations of Digital Technology**! You've embarked on an incredible journey, learning the core concepts that power today's digital world. Using your **Windows computer** and **Android phone**, you’ve explored computers, operating systems, the internet, websites, and more, all while gaining insights into other systems like macOS, iOS, and Linux. Here’s a quick recap of your achievements:
 
 - **Lesson 1: What is a Computer?**  
   Learned about computers, their hardware (CPU, RAM, storage, input/output devices), software (OS, apps), and types (PCs, laptops, servers, mobile devices). You identified computer parts and simulated how computers process data.
@@ -25,14 +32,20 @@ Congratulations on completing all seven lessons of **Module 1: Foundations of Di
 
 Through hands-on activities, you’ve gained practical skills and a solid foundation in digital technology. You’ve also seen how concepts apply across platforms, preparing you to explore technology confidently on any device.
 
-## What’s Next for You?
-Your adventure doesn’t end here! Here are ways to keep growing:
-- **Deepen Your Skills**: Try coding with Python, HTML, or JavaScript to build more complex websites or apps.
-- **Explore New Tools**: Experiment with software like Microsoft Office, Adobe Photoshop, or free Linux distributions (via a virtual machine on Windows).
-- **Build Your Own Website**: Use a CMS like WordPress or Wix to create a blog, portfolio, or small online store. Register a domain with a provider like GoDaddy for a personal touch.
-- **Learn About Emerging Tech**: Dive into topics like cybersecurity, artificial intelligence, or cloud computing through online tutorials or courses.
-- **Share Your Knowledge**: Teach a friend or family member what you’ve learned, or start a blog to document your tech journey.
+---
 
-Keep practicing with your Windows computer or Android phone, and don’t hesitate to try new things. Visit websites like `www.codecademy.com` or `www.khanacademy.org` for free tech lessons, or explore YouTube for video tutorials. Technology is an exciting, ever-changing world, and you’re now equipped to be part of it!
+## 🧭 **Navigation**
+- **[⬅️ Previous: Online Storefronts & CMS](storefronts_and_cms.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next Module: Digital Marketing](../02_digital_marketing_basics/)**
 
-Thank you for joining this adventure. Keep exploring, stay curious, and have fun shaping your digital future!
+---
+
+## 🎯 **Next Steps**
+**Module 1 Complete!** 🎉 Ready for your next adventure? **[Start Module 2: Digital Marketing Basics →](../02_digital_marketing_basics/)**
+
+### 📍 **Course Progress**
+**Module 1**: ✅ COMPLETED (7/7 lessons) | **Overall**: 7 of 25+ lessons completed
+
+---
+
+## 🏆 **Achievement Unlocked: Digital Technology Foundations!**
+You now understand computers, operating systems, the internet, websites, hosting, domains, and content management. Well done!

@@ -1,3 +1,10 @@
+---
+layout: page
+title: "What is a Computer?"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 1
+---
+
 # Introduction to Computers: A Beginner-Friendly Lesson
 
 Welcome to this beginner-friendly lesson on **What is a Computer?** This guide is designed for people with no technical background. We'll break down complex concepts into simple, everyday language, provide clear examples, and include hands-on activities to help you learn. By the end, you'll understand what a computer is, its main parts, and how it works. Let's dive in!
@@ -228,3 +235,16 @@ You’ve learned the basics of what a computer is, its parts, and how it works. 
 - Discover how the internet connects computers worldwide.
 
 If you have a computer or phone, try the activities above and share what you learned with a friend or family member. Computers are amazing tools, and you’re now one step closer to understanding them!
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[🏠 Course Home](../README.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Operating Systems](operating_systems.md)**
+
+---
+
+## 🎯 **Next Steps**
+Ready to continue? **[Proceed to Lesson 02: Operating Systems Basics →](operating_systems.md)**
+
+### 📍 **Course Progress**
+**Module 1**: Lesson 1 of 7 completed | **Overall**: 1 of 25+ lessons completed

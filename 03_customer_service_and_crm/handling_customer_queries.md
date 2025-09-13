@@ -1,20 +1,13 @@
-# Handling Customer Queries
-
-Effective customer service involves resolving issues and maintaining a positive relationship with customers. Here are some strategies for handling queries.
-
-## Best Practices:
-- **Listen Actively:** Understand the customer's issue before offering a solution.
-- **Empathize:** Show understanding of the customer's situation.
-- **Provide Clear Solutions:** Give clear and actionable answers.
-
-### Common Query Types:
-- **Technical Issues**
-- **Billing Questions**
-- **Product Inquiries**
+---
+layout: page
+title: "Handling Customer Queries"
+parent: "Module 3: Customer Service & CRM Systems"
+nav_order: 3
+---
 
 # Lesson 3: Handling Customer Queries
 
-Welcome to Lesson 3 of Module 3! Today, we’re exploring **Handling Customer Queries**, the art of responding to customer questions or issues effectively. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll cover best practices for customer service, common query types, and how tools like Zendesk help. By the end, you’ll practice responding to queries and understand great customer service. Let’s get started!
+Welcome to Lesson 3 of Module 3! Today, we're exploring **Handling Customer Queries**, the art of responding to customer questions or issues effectively. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover best practices for customer service, common query types, and how tools like Zendesk help. By the end, you'll practice responding to queries and understand great customer service. Let's get started!
 
 ---
 
@@ -201,12 +194,13 @@ Let’s practice handling customer queries with fun activities on your **Windows
 
 ---
 
-## What’s Next?
-You’ve mastered handling customer queries, using your Windows computer or Android phone! Try these:  
-- On Windows, explore a brand’s Twitter for customer interactions.  
-- On Android, check a website’s chat for query examples.  
-- Compare macOS or Linux apps for response differences.  
-
-Keep practicing, and share your customer service skills. You’re now ready to make customers smile!
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Using Zendesk](using_zendesk.md)** | **[📚 Module 3 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**
 
 ---
+
+## 🎯 **Next Steps**
+Ready to wrap up Module 3? **[Continue to Module Conclusion →](course_conclusion.md)**
+
+### 📍 **Course Progress**
+**Module 3**: Lesson 3 of 4 completed | **Overall**: 15 of 25+ lessons completed

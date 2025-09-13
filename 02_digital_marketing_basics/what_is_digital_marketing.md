@@ -1,26 +1,13 @@
-# Module 2: Digital Marketing Basics
-Welcome to **Module 2: Digital Marketing Basics**! In this module, you’ll discover how businesses and creators use the internet to reach people, promote products, and build communities. Designed for beginners with no tech or marketing background, these lessons use simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. Building on Module 1’s foundations (computers, internet, websites), we’ll explore digital marketing, search engine optimization (SEO), content creation, social media marketing, and wrap up with a conclusion. By the end, you’ll understand how to share ideas online and try basic marketing yourself. Let’s get started!
-
 ---
-
-# What is Digital Marketing?
-
-**Digital marketing** is the use of digital channels and technologies to promote products or services. It involves reaching a target audience through the internet using a variety of tools and platforms.
-
-## Key Components of Digital Marketing:
-- **SEO (Search Engine Optimization):** Optimizing websites to rank higher on search engines like Google.
-- **SEM (Search Engine Marketing):** Paid advertising on search engines.
-- **Content Marketing:** Creating valuable content to attract and engage customers.
-- **Social Media Marketing:** Promoting products via platforms like Facebook, Instagram, and LinkedIn.
-
-### Benefits of Digital Marketing:
-- **Wider Reach:** Access global audiences.
-- **Cost-Effective:** Often more affordable than traditional marketing.
-- **Measurable Results:** Track the effectiveness of campaigns in real-time.
+layout: page
+title: "What is Digital Marketing?"
+parent: "Module 2: Digital Marketing Basics"
+nav_order: 1
+---
 
 # Lesson 1: What is Digital Marketing?
 
-Welcome to Lesson 1 of Module 2! Today, we’re diving into **Digital Marketing**, the art of promoting products, services, or ideas using the internet. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll explore what digital marketing is, why it matters, and its key types. By the end, you’ll understand how businesses reach you online and try a mini-marketing task. Let’s jump in!
+Welcome to Lesson 1 of Module 2! Today, we're diving into **Digital Marketing**, the art of promoting products, services, or ideas using the internet. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll explore what digital marketing is, why it matters, and its key types. By the end, you'll understand how businesses reach you online and try a mini-marketing task. Let's jump in!
 
 ---
 
@@ -201,12 +188,13 @@ Let’s explore digital marketing with fun activities on your **Windows computer
 
 ---
 
-## What’s Next?
-You’ve learned what digital marketing is and its key types, using your Windows computer or Android phone! Try these:  
-- On Windows, search for more ads on Google to spot SEM.  
-- On Android, follow a brand on Instagram to see their posts.  
-- Explore macOS or Linux browsers for ad differences.  
-
-Grab your device, try the activities, and share your marketing ideas. Digital marketing is your ticket to connecting online, and you’re off to a great start!
+## 🧭 **Lesson Navigation**
+- **[🏠 Course Home](../README.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: SEO Basics](SEO_basics.md)**
 
 ---
+
+## 🎯 **Next Steps**
+Ready to learn about SEO? **[Continue to Lesson 02: SEO Basics →](SEO_basics.md)**
+
+### 📍 **Course Progress**
+**Module 2**: Lesson 1 of 5 completed | **Overall**: 8 of 25+ lessons completed
