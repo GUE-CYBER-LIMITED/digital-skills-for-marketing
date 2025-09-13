@@ -1,3 +1,9 @@
+layout: page
+title: "Google Tools Overview"
+parent: "Module 4: Tools & Platforms"
+nav_order: 1
+---
+
 # Module 4: Tools & Platforms
 
 Welcome to **Module 4: Tools & Platforms**! In this module, you’ll discover powerful software tools that businesses and individuals use to work smarter, analyze data, and visualize information. Designed for beginners with no tech background, these lessons use simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. Building on Modules 1 (computers, internet, websites), 2 (digital marketing), and 3 (customer service, CRM), we’ll explore Google Tools, Microsoft Excel, Power BI, and wrap up with a conclusion. By the end, you’ll know how to use these tools and try them yourself. Let’s get started!
@@ -18,9 +24,16 @@ Google offers a suite of productivity tools that help with communication, collab
 - **Cloud-Based:** Access your files from anywhere with an internet connection.
 
 
+---
+layout: page
+title: "Google Tools Overview"
+parent: "Module 4: Tools & Platforms"
+nav_order: 1
+---
+
 # Lesson 1: Google Tools Overview
 
-Welcome to Lesson 1 of Module 4! Today, we’re diving into **Google Tools**, a suite of free and easy-to-use apps that help you create, collaborate, and stay organized. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll cover what Google Tools are, why they’re useful, and how to use key apps like Google Docs, Sheets, and Drive. By the end, you’ll create a document and share it, feeling like a Google pro. Let’s jump in!
+Welcome to Lesson 1 of Module 4! Today, we're diving into **Google Tools**, a suite of free and easy-to-use apps that help you create, collaborate, and stay organized. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what Google Tools are, why they're useful, and how to use key apps like Google Docs, Sheets, and Drive. By the end, you'll create a document and share it, feeling like a Google pro. Let's jump in!
 
 ---
 
@@ -46,34 +59,34 @@ Google Tools matter because they:
 
 ## Key Concepts of Google Tools
 
-Let’s break down the main ideas with examples for your Windows computer or Android phone.
+Let's break down the main ideas with examples for your Windows computer or Android phone.
 
 ### 1. Google Docs
 **What it is**: A word-processing tool for creating and editing documents, like letters or reports, with real-time collaboration.
 
-**Example**: On your Windows computer, you might use Google Docs in Chrome to write a team report, with colleagues editing simultaneously. On your Android phone, you’d edit the same document via the Google Docs app.
+**Example**: On your Windows computer, you might use Google Docs in Chrome to write a team report, with colleagues editing simultaneously. On your Android phone, you'd edit the same document via the Google Docs app.
 
 **Illustration**: Google Docs is like a shared notebook. Everyone writes in it at once, and changes save instantly, no passing pages around.
 
 ### 2. Google Sheets
 **What it is**: A spreadsheet tool for organizing data, making calculations, or tracking budgets, similar to Excel (covered in Lesson 2).
 
-**Example**: On your Android phone, you might use Google Sheets to track monthly expenses. On your Windows computer, you’d share the same sheet with a friend to plan a party budget.
+**Example**: On your Android phone, you might use Google Sheets to track monthly expenses. On your Windows computer, you'd share the same sheet with a friend to plan a party budget.
 
 **Illustration**: Google Sheets is like a digital ledger. You jot down numbers (data), and it calculates totals (sums) for you, shareable with others.
 
 ### 3. Google Drive
 **What it is**: A cloud storage service for saving and sharing files, like documents, photos, or videos, accessible from any device.
 
-**Example**: On your Windows computer, you might upload a presentation to Google Drive. On your Android phone, you’d access it later to show a friend.
+**Example**: On your Windows computer, you might upload a presentation to Google Drive. On your Android phone, you'd access it later to show a friend.
 
-**Illustration**: Google Drive is like a magic backpack. You store your stuff (files) in it, and it’s always with you, wherever you go.
+**Illustration**: Google Drive is like a magic backpack. You store your stuff (files) in it, and it's always with you, wherever you go.
 
 ---
 
 ## How Google Tools Work
 
-Here’s how Google Tools help you work and collaborate:
+Here's how Google Tools help you work and collaborate:
 
 1. **Sign In**: Use your Google account to access tools via a browser or app.  
    - Example: Log into `docs.google.com` on your Windows computer.
@@ -101,24 +114,24 @@ Here’s how Google Tools help you work and collaborate:
 
 ## Hands-On Activities
 
-Let’s explore Google Tools with fun activities on your **Windows computer** or **Android phone**. These are beginner-friendly and include comparisons to macOS, iOS, or Linux.
+Let's explore Google Tools with fun activities on your **Windows computer** or **Android phone**. These are beginner-friendly and include comparisons to macOS, iOS, or Linux.
 
 ### Activity 1: Create a Google Doc
 **Goal**: Practice using Google Docs.  
 **Steps (Windows)**:  
 1. Open a browser like **Microsoft Edge** or **Chrome** and go to `docs.google.com` (sign in with a Google account).  
-2. Create a new document and write a short note (e.g., “My favorite hobby is reading!”).  
-3. Save it (auto-saves) and name it (e.g., “Hobby Note”).  
+2. Create a new document and write a short note (e.g., "My favorite hobby is reading!").  
+3. Save it (auto-saves) and name it (e.g., "Hobby Note").  
 4. Write down:  
    - The document name and content.  
-   - How it’s useful (e.g., “Easy to write and save”).  
+   - How it's useful (e.g., "Easy to write and save").  
 **Steps (Android)**:  
 1. Open the **Google Docs** app (download from Google Play if needed) or use a browser.  
 2. Create and write a short note.  
 3. Save and name it.  
 4. Write down:  
    - The document name and content.  
-   - How it’s useful.  
+   - How it's useful.  
 **Compare**: On iOS or Linux, Docs is similar. How might the interface differ? Write one difference.
 
 **Example Answer (Windows)**:  
@@ -136,10 +149,10 @@ Let’s explore Google Tools with fun activities on your **Windows computer** or
 **Steps (Windows)**:  
 1. Open a browser and go to `drive.google.com`.  
 2. Upload a small file (e.g., a photo or text file) or use your Google Doc from Activity 1.  
-3. Share it with a friend’s email (or note the share link).  
+3. Share it with a friend's email (or note the share link).  
 4. Write down:  
    - The file and who you shared it with (or link).  
-   - How Drive helps (e.g., “Shares files easily”).  
+   - How Drive helps (e.g., "Shares files easily").  
 **Steps (Android)**:  
 1. Open the **Google Drive** app or a browser.  
 2. Upload a file or use your Doc.  
@@ -150,7 +163,7 @@ Let’s explore Google Tools with fun activities on your **Windows computer** or
 **Compare**: On macOS or Linux, Drive is similar. How might the app differ? Write one difference.
 
 **Example Answer (Windows)**:  
-- File: Hobby Note, Shared: Friend’s email  
+- File: Hobby Note, Shared: Friend's email  
 - Help: Shares files easily without attachments.  
 - Difference: macOS Drive might integrate with Finder.  
 
@@ -163,11 +176,11 @@ Let’s explore Google Tools with fun activities on your **Windows computer** or
 **Goal**: Explore Google Sheets.  
 **Steps (Windows)**:  
 1. Open a browser and go to `sheets.google.com`.  
-2. Create a new spreadsheet and add simple data (e.g., “Item: Coffee, Cost: $5”).  
+2. Create a new spreadsheet and add simple data (e.g., "Item: Coffee, Cost: $5").  
 3. Use the SUM function (e.g., `=SUM(B1:B2)`) to add two costs.  
 4. Write down:  
    - The data and function result.  
-   - How Sheets helps (e.g., “Calculates totals”).  
+   - How Sheets helps (e.g., "Calculates totals").  
 **Steps (Android)**:  
 1. Open the **Google Sheets** app or a browser.  
 2. Create a spreadsheet with data and a SUM function.  
@@ -196,12 +209,23 @@ Let’s explore Google Tools with fun activities on your **Windows computer** or
 
 ---
 
-## What’s Next?
-You’ve mastered Google Tools, using your Windows computer or Android phone! Try these:  
+## What's Next?
+You've mastered Google Tools, using your Windows computer or Android phone! Try these:  
 - On Windows, create a Google Slides presentation for fun.  
 - On Android, organize files in Google Drive.  
 - Explore macOS or Linux browsers for Google Tools differences.  
 
-Keep practicing, and share your creations. You’re now a Google Tools expert!
+Keep practicing, and share your creations. You're now a Google Tools expert!
 
 ---
+
+## 🧭 **Lesson Navigation**
+- **[🏠 Course Home](../README.md)** | **[📚 Module 4 Home](index.md)** | **[➡️ Next: Excel Basics](basics_of_excel.md)**
+
+---
+
+## 🎯 **Next Steps**
+Ready to learn about Excel? **[Continue to Lesson 02: Excel Basics →](basics_of_excel.md)**
+
+### 📍 **Course Progress**
+**Module 4**: Lesson 1 of 4 completed | **Overall**: 17 of 25+ lessons completed
