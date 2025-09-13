@@ -70,8 +70,8 @@ Ready to begin your digital transformation? <strong><a href="01_foundations/">Cl
 </table>
 
 ### 🛠️ **Additional Resources**
-- **[Free Online Courses](resources/recommended_courses.html)**
-- **[Templates & Tools](resources/templates_and_tools.html)**
+- **[Free Online Courses](resources/recommended_courses.md)**
+- **[Templates & Tools](resources/templates_and_tools.md)**
 
 ---
 
@@ -99,44 +99,44 @@ Ready to begin your digital transformation? <strong><a href="01_foundations/">Cl
 ## 🗂️ **Detailed Course Contents**
 
 ### **Module 1: Foundations of Digital Technology**
-* [What is a Computer?](01_foundations/what_is_a_computer.html)  
-* [Operating Systems Basics](01_foundations/operating_systems.html)  
-* [What is the Internet?](01_foundations/what_is_the_internet.html)  
-* [Web Hosting & Domains](01_foundations/web_hosting_and_domains.html)  
-* [How Websites Work](01_foundations/how_websites_work.html)  
-* [Online Storefronts & CMS](01_foundations/storefronts_and_cms.html)
-* [Module Conclusion](01_foundations/course_conclusion.html)   
+* [What is a Computer?](01_foundations/what_is_a_computer.md)  
+* [Operating Systems Basics](01_foundations/operating_systems.md)  
+* [What is the Internet?](01_foundations/what_is_the_internet.md)  
+* [Web Hosting & Domains](01_foundations/web_hosting_and_domains.md)  
+* [How Websites Work](01_foundations/how_websites_work.md)  
+* [Online Storefronts & CMS](01_foundations/storefronts_and_cms.md)
+* [Module Conclusion](01_foundations/course_conclusion.md)   
 
 ### **Module 2: Digital Marketing Basics**
-* [What is Digital Marketing?](02_digital_marketing_basics/what_is_digital_marketing.html)  
-* [SEO Basics](02_digital_marketing_basics/SEO_basics.html)  
-* [Content Creation](02_digital_marketing_basics/content_creation.html)  
-* [Social Media Marketing](02_digital_marketing_basics/social_media_marketing.html) 
-* [Module Conclusion](02_digital_marketing_basics/course_conclusion.html)
+* [What is Digital Marketing?](02_digital_marketing_basics/what_is_digital_marketing.md)  
+* [SEO Basics](02_digital_marketing_basics/SEO_basics.md)  
+* [Content Creation](02_digital_marketing_basics/content_creation.md)  
+* [Social Media Marketing](02_digital_marketing_basics/social_media_marketing.md) 
+* [Module Conclusion](02_digital_marketing_basics/course_conclusion.md)
 
 ### **Module 3: Customer Service & CRM Systems**
-* [Introduction to CRM](03_customer_service_and_crm/intro_to_crm.html)  
-* [Using Zendesk](03_customer_service_and_crm/using_zendesk.html)  
-* [Handling Customer Queries](03_customer_service_and_crm/handling_customer_queries.html)  
-* [Module Conclusion](03_customer_service_and_crm/course_conclusion.html)
+* [Introduction to CRM](03_customer_service_and_crm/intro_to_crm.md)  
+* [Using Zendesk](03_customer_service_and_crm/using_zendesk.md)  
+* [Handling Customer Queries](03_customer_service_and_crm/handling_customer_queries.md)  
+* [Module Conclusion](03_customer_service_and_crm/course_conclusion.md)
 
 ### **Module 4: Tools & Platforms**
-* [Google Tools Overview](04_tools_and_platforms/intro_to_google_tools.html)  
-* [Excel Basics](04_tools_and_platforms/basics_of_excel.html)  
-* [Power BI Overview](04_tools_and_platforms/overview_of_powerbi.html)  
-* [Module Conclusion](04_tools_and_platforms/course_conclusion.html)
+* [Google Tools Overview](04_tools_and_platforms/intro_to_google_tools.md)  
+* [Excel Basics](04_tools_and_platforms/basics_of_excel.md)  
+* [Power BI Overview](04_tools_and_platforms/overview_of_powerbi.md)  
+* [Module Conclusion](04_tools_and_platforms/course_conclusion.md)
 
 ### **Module 5: Soft Skills**
-* [Time Management](05_soft_skills/time_management.html)  
-* [Communication Skills](05_soft_skills/communication_skills.html)  
-* [Writing Professional Emails](05_soft_skills/writing_professional_emails.html)
-* [Module Conclusion](05_soft_skills/course_conclusion.html)
+* [Time Management](05_soft_skills/time_management.md)  
+* [Communication Skills](05_soft_skills/communication_skills.md)  
+* [Writing Professional Emails](05_soft_skills/writing_professional_emails.md)
+* [Module Conclusion](05_soft_skills/course_conclusion.md)
 
 ### **Module 6: Projects & Practice**
-* [Digital Marketing Campaign Plan](06_projects_and_practice/digital_marketing_campaign_plan.html)  
-* [Customer Support Case Study](06_projects_and_practice/customer_support_case_study.html)  
-* [Resume and Portfolio Guide](06_projects_and_practice/resume_and_portfolio_guide.html)
-* [Module Conclusion](06_projects_and_practice/course_conclusion.html)
+* [Digital Marketing Campaign Plan](06_projects_and_practice/digital_marketing_campaign_plan.md)  
+* [Customer Support Case Study](06_projects_and_practice/customer_support_case_study.md)  
+* [Resume and Portfolio Guide](06_projects_and_practice/resume_and_portfolio_guide.md)
+* [Course Conclusion](06_projects_and_practice/course_conclusion.md)
 
 ---
 
@@ -153,7 +153,7 @@ Ready to begin your digital transformation? <strong><a href="01_foundations/">Cl
 
 <div class="lesson-nav">
 <div></div>
-<a href="01_foundations/what_is_a_computer.html">🚀 Start with Module 1: What is a Computer?</a>
+<a href="01_foundations/what_is_a_computer.md">🚀 Start with Module 1: What is a Computer?</a>
 </div>
 
 ---
