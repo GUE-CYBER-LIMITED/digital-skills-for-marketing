@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "What is Digital Marketing?"
 parent: "Module 2: Digital Marketing Basics"
 nav_order: 1
@@ -7,7 +7,7 @@ nav_order: 1
 
 # Lesson 1: What is Digital Marketing?
 
-Welcome to Lesson 1 of Module 2! Today, we're diving into **Digital Marketing**, the art of promoting products, services, or ideas using the internet. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll explore what digital marketing is, why it matters, and its key types. By the end, you'll understand how businesses reach you online and try a mini-marketing task. Let's jump in!
+Welcome to Lesson 1 of Module 2! Today, we're diving into **Digital Marketing**, the art of promoting products, services, or ideas using the internet. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities designed for your **Windows computer** or **Android phone**. We'll explore what digital marketing is, why it matters, and its key types. By the end, you'll understand how businesses reach you online and try a mini-marketing task. Let's jump in!
 
 ---
 
@@ -197,4 +197,4 @@ Let’s explore digital marketing with fun activities on your **Windows computer
 Ready to learn about SEO? **[Continue to Lesson 02: SEO Basics →](SEO_basics.md)**
 
 ### 📍 **Course Progress**
-**Module 2**: Lesson 1 of 5 completed | **Overall**: 8 of 25+ lessons completed
+**Module 2**: Lesson 1 of 5 completed | **Overall**: 8 of 28+ lessons completed

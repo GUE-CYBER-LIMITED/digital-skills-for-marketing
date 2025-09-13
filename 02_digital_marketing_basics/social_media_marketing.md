@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Social Media Marketing"
 parent: "Module 2: Digital Marketing Basics"
 nav_order: 4
@@ -196,4 +196,4 @@ Let’s try social media marketing with fun activities on your **Windows compute
 Ready to wrap up Module 2? **[Continue to Module Conclusion →](course_conclusion.md)**
 
 ### 📍 **Course Progress**
-**Module 2**: Lesson 4 of 5 completed | **Overall**: 11 of 25+ lessons completed
+**Module 2**: Lesson 4 of 5 completed | **Overall**: 11 of 28+ lessons completed

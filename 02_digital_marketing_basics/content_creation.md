@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Content Creation"
 parent: "Module 2: Digital Marketing Basics"
 nav_order: 3
@@ -209,4 +209,4 @@ Let’s create content with fun activities on your **Windows computer** or **And
 Ready to master social media marketing? **[Continue to Lesson 04: Social Media Marketing →](social_media_marketing.md)**
 
 ### 📍 **Course Progress**
-**Module 2**: Lesson 3 of 5 completed | **Overall**: 10 of 25+ lessons completed
+**Module 2**: Lesson 3 of 5 completed | **Overall**: 10 of 28+ lessons completed
