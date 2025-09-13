@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Online Storefronts & CMS"
 parent: "Module 1: Foundations of Digital Technology"
 nav_order: 6
@@ -7,7 +7,7 @@ nav_order: 6
 
 # Lesson 6: Online Storefronts & CMS
 
-Welcome to Lesson 6 of our computer adventure! Today, we're exploring **Online Storefronts & CMS** (Content Management Systems), the tools that power online shops and websites with easy-to-update content. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities designed for your **Windows computer** or **Android phone**. We'll dive into what online storefronts and CMS are, how they work, and why they're game-changers. By the end, you'll know how to explore an online store and even try a CMS demo. Let's get started!
+Welcome to Lesson 6 of our computer adventure! Today, we’re exploring **Online Storefronts & CMS** (Content Management Systems), the tools that power online shops and websites with easy-to-update content. This lesson is crafted for beginners with no tech background, using simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll dive into what online storefronts and CMS are, how they work, and why they’re game-changers. By the end, you’ll know how to explore an online store and even try a CMS demo. Let’s get started!
 
 ---
 
@@ -137,4 +137,78 @@ Let’s explore online storefronts and CMS with fun activities on your **Windows
 1. Open a browser and visit `www.wix.com`.  
 2. Click “Get Started” and try their free website builder (no payment needed).  
 3. Add a text box or image to a demo site.  
- 
+4. Write down:  
+   - The CMS (Wix).  
+   - What you added (e.g., “A welcome text”).  
+   - How it was easy (e.g., “No coding needed”).  
+**Steps (Android)**:  
+1. Open a browser and visit `www.wix.com` (or download the Wix app).  
+2. Try the free builder and add a text box or image.  
+3. Write down:  
+   - The CMS (Wix).  
+   - What you added (e.g., “A welcome text”).  
+   - How it was easy (e.g., “No coding needed”).  
+**Compare**: On macOS or Linux, Wix works similarly. How might the interface differ? Write one difference.
+
+**Example Answer (Windows)**:  
+- CMS: Wix  
+- Added: A welcome text.  
+- Easy: No coding needed, just dragged and dropped.  
+- Difference: macOS Safari might load Wix faster.  
+
+**Example Answer (Android)**:  
+- CMS: Wix  
+- Added: An image.  
+- Easy: Tapped to add, no coding.  
+- Difference: Linux Firefox might show more browser menus.
+
+### Activity 3: Explore a CMS-Powered Store
+**Goal**: See how a CMS and storefront work together.  
+**Steps (Windows)**:  
+1. Open a browser and visit a Shopify-powered store (e.g., `www.allbirds.com`).  
+2. Browse products and note a non-shopping feature (e.g., a blog or “About” page).  
+3. Write down:  
+   - The store.  
+   - The non-shopping feature (e.g., “A blog”).  
+   - How CMS helps (e.g., “Updates the blog easily”).  
+**Steps (Android)**:  
+1. Open a browser or Shopify app and visit `www.allbirds.com`.  
+2. Browse products and note a non-shopping feature.  
+3. Write down:  
+   - The store.  
+   - The non-shopping feature (e.g., “A blog”).  
+   - How CMS helps (e.g., “Updates the blog easily”).  
+**Compare**: On iOS or Linux, you’d see the same. How might navigation differ? Write one difference.
+
+**Example Answer (Windows)**:  
+- Store: Allbirds  
+- Feature: A blog about sustainability.  
+- CMS Help: Updates the blog easily without coding.  
+- Difference: iOS apps might have touch-friendly buttons.  
+
+**Example Answer (Android)**:  
+- Store: Allbirds  
+- Feature: An “About” page.  
+- CMS Help: Keeps the page updated with new info.  
+- Difference: Linux browsers might show plainer layouts.
+
+---
+
+## Fun Facts About Online Storefronts & CMS
+- WordPress powers over 40% of all websites on the internet!  
+- Shopify processes billions in sales yearly for small and large businesses.  
+- The first online store, launched in 1994, sold a Sting CD.  
+- CMS platforms like Wix let you build a site in minutes, no tech skills needed.
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: How Websites Work](how_websites_work.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**
+
+---
+
+## 🎯 **Next Steps**
+Ready to wrap up Module 1? **[Continue to Module Conclusion →](course_conclusion.md)**
+
+### 📍 **Course Progress**
+**Module 1**: Lesson 6 of 7 completed | **Overall**: 6 of 28+ lessons completed
