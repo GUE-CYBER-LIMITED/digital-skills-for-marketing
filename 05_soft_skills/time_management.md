@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Time Management"
 parent: "Module 5: Soft Skills for Digital Professionals"
 nav_order: 1
@@ -199,4 +199,4 @@ Keep practicing, and share your time management tips. You're now a productivity 
 Ready to learn communication skills? **[Continue to Lesson 02: Communication Skills →](communication_skills.md)**
 
 ### 📍 **Course Progress**
-**Module 5**: Lesson 1 of 4 completed | **Overall**: 21 of 25+ lessons completed
+**Module 5**: Lesson 1 of 4 completed | **Overall**: 21 of 28+ lessons completed

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Writing Professional Emails"
 parent: "Module 5: Soft Skills for Digital Professionals"
 nav_order: 3
@@ -206,4 +206,4 @@ Keep practicing, and share your email skills. You're now a professional communic
 Ready to wrap up Module 5? **[Continue to Module Conclusion →](course_conclusion.md)**
 
 ### 📍 **Course Progress**
-**Module 5**: Lesson 3 of 4 completed | **Overall**: 23 of 25+ lessons completed
+**Module 5**: Lesson 3 of 4 completed | **Overall**: 23 of 28+ lessons completed
