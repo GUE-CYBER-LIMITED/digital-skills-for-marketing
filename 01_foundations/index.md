@@ -84,9 +84,30 @@ By the end of this module, you will:
 <div class="lesson-nav">
 <a href="../README.md">🏠 Course Home</a>
 <a href="what_is_a_computer.md">▶️ Start: What is a Computer?</a>
-<a href="../02_digital_marketing_basics/">➡️ Next Module</a>
+<a href="../02_digital_marketing_basics/">➡️ Next: Module 2</a>
 </div>
 
+---
+
 <div class="lesson-progress">
-<strong>Ready to start?</strong> 👉 <strong><a href="what_is_a_computer.md">Begin with Lesson 01: What is a Computer?</a></strong>
+<h2>📋 Module Completion Checklist</h2>
+<ul>
+<li>☐ Completed: What is a Computer?</li>
+<li>☐ Completed: Operating Systems Basics</li>
+<li>☐ Completed: What is the Internet?</li>
+<li>☐ Completed: Web Hosting & Domains</li>
+<li>☐ Completed: How Websites Work</li>
+<li>☐ Completed: Online Storefronts & CMS</li>
+<li>☐ Completed: Module Conclusion</li>
+<li>☐ Ready for Module 2</li>
+</ul>
+<p><strong>🎉 Module Progress</strong>: 0/7 lessons completed</p>
+</div>
+
+---
+
+<div class="course-navigation">
+<h3>🚀 Ready to Start Your Digital Journey?</h3>
+<p>This module teaches you the essential foundations of digital technology. You'll learn about computers, operating systems, the internet, and how websites work using your Windows computer and Android phone.</p>
+<p><strong>👉 <a href="what_is_a_computer.md">Begin with Lesson 01: What is a Computer?</a></strong></p>
 </div>
