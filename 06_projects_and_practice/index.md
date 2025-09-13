@@ -34,26 +34,26 @@ By the end of this module, you will:
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="digital_marketing_campaign_plan.html">01</a></strong></td>
-<td><a href="digital_marketing_campaign_plan.html">Digital Marketing Campaign Plan</a></td>
+<td><strong><a href="digital_marketing_campaign_plan.md">01</a></strong></td>
+<td><a href="digital_marketing_campaign_plan.md">Digital Marketing Campaign Plan</a></td>
 <td>90 min</td>
 <td>🟢 Start Here</td>
 </tr>
 <tr>
-<td><strong><a href="customer_support_case_study.html">02</a></strong></td>
-<td><a href="customer_support_case_study.html">Customer Support Case Study</a></td>
+<td><strong><a href="customer_support_case_study.md">02</a></strong></td>
+<td><a href="customer_support_case_study.md">Customer Support Case Study</a></td>
 <td>75 min</td>
 <td>⭐</td>
 </tr>
 <tr>
-<td><strong><a href="resume_and_portfolio_guide.html">03</a></strong></td>
-<td><a href="resume_and_portfolio_guide.html">Resume and Portfolio Guide</a></td>
+<td><strong><a href="resume_and_portfolio_guide.md">03</a></strong></td>
+<td><a href="resume_and_portfolio_guide.md">Resume and Portfolio Guide</a></td>
 <td>60 min</td>
 <td>⭐</td>
 </tr>
 <tr>
-<td><strong><a href="course_conclusion.html">04</a></strong></td>
-<td><a href="course_conclusion.html">Course Conclusion</a></td>
+<td><strong><a href="course_conclusion.md">04</a></strong></td>
+<td><a href="course_conclusion.md">Course Conclusion</a></td>
 <td>15 min</td>
 <td>🎯</td>
 </tr>
@@ -63,9 +63,9 @@ By the end of this module, you will:
 ---
 
 <div class="lesson-nav">
-<a href="../README.html">🏠 Course Home</a>
+<a href="../README.md">🏠 Course Home</a>
 <a href="../05_soft_skills/">⬅️ Previous: Module 5</a>
-<a href="digital_marketing_campaign_plan.html">▶️ Start Projects</a>
+<a href="digital_marketing_campaign_plan.md">▶️ Start Projects</a>
 </div>
 
 ---
@@ -87,5 +87,5 @@ By the end of this module, you will:
 <div class="course-navigation">
 <h3>🚀 Ready to Build Your Portfolio?</h3>
 <p>This is where everything comes together! You'll create actual projects that showcase your skills to employers and demonstrate your learning from all previous modules.</p>
-<p><strong>👉 <a href="digital_marketing_campaign_plan.html">Start Project 1: Marketing Campaign Plan</a></strong></p>
+<p><strong>👉 <a href="digital_marketing_campaign_plan.md">Start Project 1: Marketing Campaign Plan</a></strong></p>
 </div>

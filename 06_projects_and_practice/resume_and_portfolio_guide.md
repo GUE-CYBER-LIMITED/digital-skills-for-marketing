@@ -196,12 +196,12 @@ Keep building, and share your work. You're now job-ready!
 ---
 
 ## 🧭 **Project Navigation**
-- **[⬅️ Previous: Customer Support Case Study](customer_support_case_study.html)** | **[📚 Module 6 Home](index.html)** | **[➡️ Next: Course Conclusion](course_conclusion.html)**
+- **[⬅️ Previous: Customer Support Case Study](customer_support_case_study.md)** | **[📚 Module 6 Home](index.md)** | **[➡️ Next: Course Conclusion](course_conclusion.md)**
 
 ---
 
 ## 🎯 **Next Steps**
-Ready to celebrate your achievements? **[Continue to Course Conclusion →](course_conclusion.html)**
+Ready to celebrate your achievements? **[Continue to Course Conclusion →](course_conclusion.md)**
 
 ### 📍 **Course Progress**
 **Module 6**: Project 3 of 4 completed | **Overall**: 27 of 28+ lessons completed

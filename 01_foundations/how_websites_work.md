@@ -160,7 +160,7 @@ How might the browser or address bar differ on macOS or Linux?
 </html>
 ```
 
-3. Save the file as `mywebpage.html` - Choose **"All Files"** as the file type.
+3. Save the file as `mywebpage.md` - Choose **"All Files"** as the file type.
 4. Double-click the file to open it in your browser.
 
 ### Write down:
@@ -173,7 +173,7 @@ How might the browser or address bar differ on macOS or Linux?
 
 1. Download **QuickEdit** or **Notepad** from Google Play.
 2. Paste the same HTML code.
-3. Save the file as `mywebpage.html` in the **Documents** folder.
+3. Save the file as `mywebpage.md` in the **Documents** folder.
 4. Open it using **Chrome** or any browser.
 
 ### Write down:

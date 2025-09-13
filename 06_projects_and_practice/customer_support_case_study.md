@@ -187,12 +187,12 @@ Keep practicing, and share your solutions. You're now a support superstar!
 ---
 
 ## 🧭 **Project Navigation**
-- **[⬅️ Previous: Digital Marketing Campaign Plan](digital_marketing_campaign_plan.html)** | **[📚 Module 6 Home](index.html)** | **[➡️ Next: Resume and Portfolio Guide](resume_and_portfolio_guide.html)**
+- **[⬅️ Previous: Digital Marketing Campaign Plan](digital_marketing_campaign_plan.md)** | **[📚 Module 6 Home](index.md)** | **[➡️ Next: Resume and Portfolio Guide](resume_and_portfolio_guide.md)**
 
 ---
 
 ## 🎯 **Next Steps**
-Ready to build your professional portfolio? **[Continue to Project 3: Resume and Portfolio Guide →](resume_and_portfolio_guide.html)**
+Ready to build your professional portfolio? **[Continue to Project 3: Resume and Portfolio Guide →](resume_and_portfolio_guide.md)**
 
 ### 📍 **Course Progress**
 **Module 6**: Project 2 of 4 completed | **Overall**: 26 of 28+ lessons completed

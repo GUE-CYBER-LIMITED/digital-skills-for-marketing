@@ -172,7 +172,7 @@ Thank you for dedicating your time and effort to this course. Your commitment to
 ---
 
 <div class="lesson-nav">
-<a href="../README.html">🏠 Back to Course Home</a>
+<a href="../README.md">🏠 Back to Course Home</a>
 <div>🎓 <strong>COURSE COMPLETE!</strong> 🎓</div>
 </div>
 

@@ -193,12 +193,12 @@ Keep practicing, and share your campaign ideas. You're now a marketing planner!
 ---
 
 ## 🧭 **Project Navigation**
-- **[⬅️ Previous: Module 5 Conclusion](../05_soft_skills/course_conclusion.html)** | **[📚 Module 6 Home](index.html)** | **[➡️ Next: Customer Support Case Study](customer_support_case_study.html)**
+- **[⬅️ Previous: Module 5 Conclusion](../05_soft_skills/course_conclusion.md)** | **[📚 Module 6 Home](index.md)** | **[➡️ Next: Customer Support Case Study](customer_support_case_study.md)**
 
 ---
 
 ## 🎯 **Next Steps**
-Ready to analyze customer support scenarios? **[Continue to Project 2: Customer Support Case Study →](customer_support_case_study.html)**
+Ready to analyze customer support scenarios? **[Continue to Project 2: Customer Support Case Study →](customer_support_case_study.md)**
 
 ### 📍 **Course Progress**
 **Module 6**: Project 1 of 4 completed | **Overall**: 25 of 28+ lessons completed
