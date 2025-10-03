@@ -5,9 +5,44 @@ parent: "Module 3: Customer Service & CRM Systems"
 nav_order: 3
 ---
 
-# Lesson 3: Handling Customer Queries
+## 📗 Lesson 12: Handling Customer Queries
 
-Welcome to Lesson 3 of Module 3! Today, we're exploring **Handling Customer Queries**, the art of responding to customer questions or issues effectively. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover best practices for customer service, common query types, and how tools like Zendesk help. By the end, you'll practice responding to queries and understand great customer service. Let's get started!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define effective customer query handling and its importance for business success
+  - Identify different types of customer queries and appropriate response strategies
+  - Apply communication best practices for professional customer service interactions
+  - Use structured approaches to resolve customer issues efficiently
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, practice query responses, and pass the mastery check.
+- **Should-Do**: Complete the communication skills exercise and query categorization activity.
+- **Aspire-to-Do**: Research customer service careers and develop a customer service protocol.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Customer Service Excellence: From Query to Resolution
+  - *Real examples of effective customer service interactions across different channels*
+- **In-Person/Small Group:**  
+  - Role-play customer service scenarios with different query types
+- **Whole-Class/Check-In:**  
+  - Discussion on challenging customer situations and de-escalation techniques
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn query handling fundamentals| Below content        |
+| Response Practice  | Role-play   | Practice responding to queries  | Activity 1 below      |
+| Query Categorizer  | Analysis    | Classify different query types  | Activity 2 below      |
+| Communication Lab  | Skill-building| Develop professional responses | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 
@@ -194,13 +229,59 @@ Let’s practice handling customer queries with fun activities on your **Windows
 
 ---
 
-## 🧭 **Lesson Navigation**
-- **[⬅️ Previous: Using Zendesk](using_zendesk.md)** | **[📚 Module 3 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**
+### ✅ Mastery Check
+
+- **Type:** Practical Assessment/Role-Play
+- **Criteria for Mastery:**  
+  - Define effective customer query handling using the treasure hunt analogy
+  - Categorize different types of customer queries and select appropriate response strategies
+  - Demonstrate professional communication skills in written customer responses
+  - Apply de-escalation techniques and follow-up practices effectively
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the treasure hunt analogy, explain what customer query handling involves.
+2. How would you respond to an angry customer whose order is late? Write a professional response.
+3. What are 5 best practices for handling customer queries effectively?
+4. Categorize these queries: billing question, product complaint, feature request, technical issue.
 
 ---
 
-## 🎯 **Next Steps**
-Ready to wrap up Module 3? **[Continue to Module Conclusion →](course_conclusion.md)**
+### 🛠️ Reflection & Collaboration
 
-### 📍 **Course Progress**
-**Module 3**: Lesson 3 of 4 completed | **Overall**: 15 of 25+ lessons completed
+- **Reflection Prompt:**  
+  - "Describe a time you received excellent or poor customer service. What made the difference? How would you apply those lessons?"
+- **Collaboration:**  
+  - Practice customer service role-plays with classmates, taking turns as customer and service representative
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Customer service scripts and response templates
+  - De-escalation techniques and conflict resolution guides
+  - Cultural sensitivity in customer service communications
+- **Aspire-to-Do:**  
+  - Research customer service careers and advancement paths
+  - Explore advanced customer service technologies (AI chatbots, sentiment analysis)
+  - Develop a comprehensive customer service training protocol
+
+---
+
+### � Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and response practice
+- [ ] Should-do complete: Query categorization and communication skills exercises
+- [ ] Aspire-to-do complete: Career research or protocol development
+- [ ] Mastery check passed: Role-play assessment meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Using Zendesk](using_zendesk.md)** | **[📚 Module 3 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**

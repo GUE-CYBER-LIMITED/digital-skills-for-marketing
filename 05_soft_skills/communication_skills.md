@@ -5,9 +5,44 @@ parent: "Module 5: Soft Skills for Digital Professionals"
 nav_order: 2
 ---
 
-# Lesson 2: Communication Skills
+## 📗 Lesson 17: Communication Skills
 
-Welcome to Lesson 2 of Module 5! Today, we're exploring **Communication Skills**, the ability to share ideas clearly and connect with others effectively. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what communication skills are, why they're essential, and practical ways to improve. By the end, you'll practice active listening and clear speaking, linking to Module 3's customer service. Let's dive in!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define effective communication and identify its key components
+  - Apply active listening techniques in various communication scenarios
+  - Demonstrate clear and professional verbal and written communication
+  - Adapt communication style for different audiences and digital platforms
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, practice communication exercises, and pass the mastery check.
+- **Should-Do**: Complete the active listening workshop and digital communication etiquette activity.
+- **Aspire-to-Do**: Research communication careers and develop a personal communication improvement plan.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Effective Communication in the Digital Age
+  - *Examples of professional communication across different channels and contexts*
+- **In-Person/Small Group:**  
+  - Communication role-play exercises and peer feedback sessions
+- **Whole-Class/Check-In:**  
+  - Discussion on cultural communication differences and inclusive language
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn communication fundamentals| Below content         |
+| Listening Lab      | Practice    | Active listening skill building | Activity 1 below      |
+| Message Makeover   | Exercise    | Improve written communications  | Activity 2 below      |
+| Audience Adapter   | Role-play   | Tailor communication to audience| Activity 3 below      |
+| Mastery Check      | Assessment  | Communication portfolio         | End of lesson project |
 
 ---
 

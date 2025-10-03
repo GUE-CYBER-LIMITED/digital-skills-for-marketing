@@ -5,19 +5,68 @@ nav_order: 9
 has_children: true
 ---
 
-<div class="course-navigation">
-<h1>👥 Module 8: Digital Footprint & Social Media Strategy</h1>
-<p><em>Build Your Professional Online Presence</em></p>
-</div>
+## 👥 Module 8: Digital Footprint & Social Media Strategy
+*Build Your Professional Online Presence*
+
+---
 
 ## 🎯 **Learning Objectives**
-- Understand what a digital footprint is and why it matters
-- Audit and clean up your existing online presence
-- Create a professional LinkedIn profile
-- Develop a strategic approach to social media
-- Build an authentic personal brand online
+By the end of this module, you will:
+- Understand what a digital footprint is and why it matters for your career
+- Audit and clean up your existing online presence across platforms
+- Create a professional LinkedIn profile that attracts opportunities
+- Develop a strategic approach to social media for professional growth
+- Build an authentic personal brand that reflects your values and skills
+
+## ⏳ **Module Pacing Guide**
+**🔥 Essential (2-3 hours)**: Digital Footprint Audit + LinkedIn Profile Setup  
+**⚡ Recommended (4-5 hours)**: Complete all lessons with personal brand development  
+**🌟 Mastery (6+ hours)**: Advanced social media strategy and content creation
+
+## 📺 **Module Components**
+**📖 Foundation Learning**: Personal branding and online reputation principles  
+**🛠️ Practical Skills**: Profile optimization, content strategy, platform management  
+**🔄 Self-Paced**: Build your online presence gradually with guided practice  
+**📱 Multi-Platform**: Activities for Windows computer and Android phone
+
+---
 
 ## 📚 **Module Contents**
+
+| Lesson | Topic | Duration | Status |
+|--------|-------|----------|---------|
+| **[26](digital_footprint_audit.md)** | [Digital Footprint Audit & Cleanup](digital_footprint_audit.md) | 40 min | 🟢 Start Here |
+| **[27](professional_linkedin_profile.md)** | [Professional LinkedIn Profile](professional_linkedin_profile.md) | 45 min | ⭐ |
+| **[28](social_media_strategy.md)** | [Social Media Strategy & Personal Branding](social_media_strategy.md) | 50 min | ⭐ |
+
+---
+
+## 🧭 **Navigation**
+- **[🏠 Course Home](../README.md)**
+- **[▶️ Start: Digital Footprint Audit](digital_footprint_audit.md)**
+- **[➡️ Next: Module 9](../09_digital_security/)**
+
+---
+
+## 📋 **Module Completion Checklist**
+- [ ] Completed: Digital Footprint Audit & Cleanup
+- [ ] Completed: Professional LinkedIn Profile
+- [ ] Completed: Social Media Strategy & Personal Branding
+
+---
+
+## ✅ **Module Mastery Check**
+**Ready to advance?** Ensure you can:
+- Assess and improve your current online presence across platforms
+- Create professional profiles that attract career opportunities
+- Develop content strategies that build your personal brand
+- Apply social media best practices for professional networking
+- Maintain consistent and authentic online representation
+
+## 📊 **Progress Tracking**
+- **Module 8**: 3 lessons (Lessons 26-28 of 31 total)
+- **Prerequisites**: Modules 1-7 completion recommended
+- **Next Module**: Digital Security & Privacy
 
 <table class="module-table">
 <thead>

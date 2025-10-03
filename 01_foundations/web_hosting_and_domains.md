@@ -5,6 +5,114 @@ parent: "Module 1: Foundations of Digital Technology"
 nav_order: 5
 ---
 
+## 📗 Lesson 4: Web Hosting & Domains
+
+### 🎯 Learning Objective
+- By the end of this lesson, students will be ## Fun Facts About Web Hosting & Domains
+- The `.com` TLD stands for "commercial" but is now used for all kinds of websites!  
+- Some domains cost millions, like `business.com`, sold for $345 million in 2007.  
+- Hosting providers like Amazon Web Services (AWS) power huge chunks of the internet.  
+- DNS queries happen in milliseconds, making the internet feel instant.
+
+---
+
+### ✅ Mastery Check
+
+- **Type:** Quiz/Practical Assessment
+- **Criteria for Mastery:**  
+  - Define web hosting and domains, explaining their relationship using analogies
+  - Identify different types of hosting (shared, VPS, dedicated, cloud) and their uses
+  - Explain domain structure and common TLDs with examples
+  - Demonstrate understanding of DNS process and domain-to-IP resolution
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the city analogy, explain how web hosting and domains work together.
+2. What's the difference between shared hosting and dedicated hosting? When would you use each?
+3. Break down the domain "www.example.com" and explain each part.
+4. Trace what happens when you type a domain name into your browser.
+
+---
+
+### 🛠️ Reflection & Collaboration
+
+- **Reflection Prompt:**  
+  - "How has understanding web hosting and domains changed your view of websites? What domain name would you choose for your own website and why?"
+- **Collaboration:**  
+  - Share interesting domain names you discovered and discuss what makes a good domain name
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Domain name generator tools and availability checkers
+  - Web hosting comparison charts and decision guides
+  - DNS lookup tools and IP address tracers
+- **Aspire-to-Do:**  
+  - Research the process of creating a website from domain to launch
+  - Investigate international domain regulations and country-specific TLDs
+  - Explore advanced hosting features like CDNs and load balancing
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and domain exploration
+- [ ] Should-do complete: Hosting comparison and DNS investigation activities
+- [ ] Aspire-to-do complete: Website creation research or advanced hosting exploration
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Operating Systems](operating_systems.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: How Websites Work](how_websites_work.md)** 
+  - Define web hosting and domains, explaining their relationship
+  - Identify different types of web hosting services and their characteristics
+  - Understand how domain names work and their structure
+  - Demonstrate ability to search for and analyze domain information
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, explore domain name examples, and pass the mastery check.
+- **Should-Do**: Complete domain research activity and hosting comparison exercise.
+- **Aspire-to-Do**: Research website creation process and investigate advanced hosting features.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - How Websites Get Online: Domains and Hosting Explained
+  - *Visual journey from typing a URL to loading a website*
+- **In-Person/Small Group:**  
+  - Domain name exploration and hosting service comparison
+- **Whole-Class/Check-In:**  
+  - Discussion on website ownership and domain name creativity
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn hosting and domain basics | Below content         |
+| Domain Discovery   | Research    | Explore real domain examples    | Activity 1 below      |
+| Hosting Comparison | Analysis    | Compare hosting service types   | Activity 2 below      |
+| Website Journey    | Mapping     | Trace website loading process   | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
+
+--- default
+title: "Web Hosting & Domains"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 5
+---
+
 # Lesson 5: Web Hosting & Domains
 
 Welcome to Lesson 5 of our computer adventure! Today, we’re exploring **Web Hosting & Domains**, the essential services that make websites available on the internet. This lesson is designed for beginners with no tech background, using simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll uncover what web hosting and domains are, why they matter, and how they work together to bring websites to your screen. By the end, you’ll understand how websites live online and even explore domain names yourself. Let’s dive in!

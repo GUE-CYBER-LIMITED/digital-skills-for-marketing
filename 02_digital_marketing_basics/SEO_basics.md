@@ -5,9 +5,108 @@ parent: "Module 2: Digital Marketing Basics"
 nav_order: 2
 ---
 
-# Lesson 2: SEO Basics
+## 📗 Lesson 8: SEO Basics
 
-Welcome to Lesson 2 of Module 2! Today, we're exploring **SEO Basics** (Search Engine Optimization), the process of making websites easier to find on search engines like Google. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what SEO is, why it's crucial, and simple ways to improve a website's ranking. By the end, you'll understand how search engines work and try basic SEO yourself. Let's dive in!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be ---
+
+## Fun Facts About SEO
+- Google handles over 8.5 billion searches daily!  
+- The term "SEO" was first used in 1997, when search engines were new.  
+- Backlinks from trusted sites like universities (.edu) are SEO gold.  
+- SEO changes constantly as Google updates its algorithm hundreds of times a year.
+
+---
+
+### ✅ Mastery Check
+
+- **Type:** Quiz/Practical Assessment
+- **Criteria for Mastery:**  
+  - Define SEO and explain how search engines rank websites using the librarian analogy
+  - Identify on-page, off-page, and technical SEO factors with examples
+  - Demonstrate keyword research skills and understand search intent
+  - Apply basic SEO principles to improve content visibility
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the librarian analogy, explain what SEO is and why it matters.
+2. What's the difference between on-page and off-page SEO? Give examples of each.
+3. How would you research keywords for a local pizza restaurant's website?
+4. List 5 specific actions you could take to improve a blog post's SEO.
+
+---
+
+### 🛠️ Reflection & Collaboration
+
+- **Reflection Prompt:**  
+  - "How has learning about SEO changed the way you think about search results? What SEO technique seems most important for businesses?"
+- **Collaboration:**  
+  - Compare keyword research results with classmates and discuss different search strategies
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Free SEO tools and browser extensions
+  - Google's SEO starter guide
+  - Keyword research templates and checklists
+- **Aspire-to-Do:**  
+  - Research careers in SEO and digital marketing
+  - Analyze competitor websites using SEO audit tools
+  - Explore local SEO strategies for small businesses
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and keyword research practice
+- [ ] Should-do complete: Search result analysis and basic SEO audit
+- [ ] Aspire-to-do complete: Advanced tool exploration or competitor analysis
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: What is Digital Marketing?](what_is_digital_marketing.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: Social Media Marketing](social_media_marketing.md)**ne SEO and explain how search engines rank websites
+  - Identify key SEO factors including keywords, content quality, and technical elements
+  - Perform basic keyword research and analyze search results
+  - Apply fundamental SEO principles to improve website visibility
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, practice keyword research, and pass the mastery check.
+- **Should-Do**: Complete the search result analysis and basic SEO audit activity.
+- **Aspire-to-Do**: Research advanced SEO tools and analyze competitor SEO strategies.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - How Google Finds and Ranks Websites: SEO Demystified
+  - *Visual explanation of crawling, indexing, and ranking processes*
+- **In-Person/Small Group:**  
+  - Keyword brainstorming session and search result comparison activity
+- **Whole-Class/Check-In:**  
+  - Discussion on ethical SEO practices vs "black hat" techniques
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn SEO fundamentals          | Below content         |
+| Keyword Hunt       | Research    | Practice keyword research       | Activity 1 below      |
+| SERP Analysis      | Investigation| Analyze search result patterns | Activity 2 below      |
+| SEO Audit          | Assessment  | Evaluate website SEO basics    | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 

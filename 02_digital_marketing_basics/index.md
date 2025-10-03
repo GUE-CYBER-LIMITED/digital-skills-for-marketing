@@ -5,10 +5,8 @@ nav_order: 3
 has_children: true
 ---
 
-<div class="course-navigation">
-<h1>📈 Module 2: Digital Marketing Basics</h1>
-<p><em>Learn the Fundamentals of Digital Marketing</em></p>
-</div>
+## 📈 Module 2: Digital Marketing Basics
+*Learn the Fundamentals of Digital Marketing*
 
 ---
 
@@ -19,35 +17,56 @@ By the end of this module, you will:
 - Learn content creation for engaging audiences
 - Develop social media marketing skills for brand promotion
 
+## ⏳ **Module Pacing Guide**
+**🔥 Essential (2-3 hours)**: What is Digital Marketing + SEO Basics  
+**⚡ Recommended (4-5 hours)**: Complete all lessons with hands-on practice  
+**🌟 Mastery (6+ hours)**: Deep exploration with cross-platform comparisons
+
+## 📺 **Module Components**
+**📖 Foundation Learning**: Digital marketing concepts and terminology  
+**🛠️ Practical Skills**: SEO optimization, content creation, social media management  
+**🔄 Self-Paced**: Build skills progressively across 4 comprehensive lessons  
+**📱 Multi-Platform**: Windows computer and Android phone activities
+
 ---
 
 ## 📚 **Module Contents**
 
-<table class="module-table">
-<thead>
-<tr>
-<th>Lesson</th>
-<th>Topic</th>
-<th>Duration</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><a href="what_is_digital_marketing.md">01</a></strong></td>
-<td><a href="what_is_digital_marketing.md">What is Digital Marketing?</a></td>
-<td>30 min</td>
-<td>🟢 Start Here</td>
-</tr>
-<tr>
-<td><strong><a href="SEO_basics.md">02</a></strong></td>
-<td><a href="SEO_basics.md">SEO Basics</a></td>
-<td>45 min</td>
-<td>⭐</td>
-</tr>
-<tr>
-<td><strong><a href="content_creation.md">03</a></strong></td>
-<td><a href="content_creation.md">Content Creation</a></td>
+| Lesson | Topic | Duration | Status |
+|--------|-------|----------|---------|
+| **[07](what_is_digital_marketing.md)** | [What is Digital Marketing?](what_is_digital_marketing.md) | 30 min | 🟢 Start Here |
+| **[08](SEO_basics.md)** | [SEO Basics](SEO_basics.md) | 45 min | ⭐ |
+| **[09](social_media_marketing.md)** | [Social Media Marketing](social_media_marketing.md) | 40 min | ⭐ |
+| **[10](content_creation.md)** | [Content Creation](content_creation.md) | 35 min | ⭐ |
+
+---
+
+## 🧭 **Navigation**
+- **[🏠 Course Home](../README.md)**
+- **[▶️ Start: What is Digital Marketing?](what_is_digital_marketing.md)**
+- **[➡️ Next: Module 3](../03_customer_service_and_crm/)**
+
+---
+
+## 📋 **Module Completion Checklist**
+- [ ] Completed: What is Digital Marketing?
+- [ ] Completed: SEO Basics
+- [ ] Completed: Social Media Marketing
+- [ ] Completed: Content Creation
+
+---
+
+## ✅ **Module Mastery Check**
+**Ready to advance?** Ensure you can:
+- Explain key digital marketing concepts and strategies
+- Apply basic SEO techniques to improve content visibility
+- Create engaging content for different digital platforms
+- Develop social media marketing campaigns
+
+## 📊 **Progress Tracking**
+- **Module 2**: 4 lessons (Lessons 7-10 of 22 total)
+- **Prerequisites**: Module 1 completion recommended
+- **Next Module**: Customer Service & CRM Systems
 <td>40 min</td>
 <td>⭐</td>
 </tr>

@@ -5,6 +5,51 @@ parent: "Module 1: Foundations of Digital Technology"
 nav_order: 6
 ---
 
+## 📗 Lesson 6: Online Storefronts & CMS
+
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define online storefronts and CMS, explaining their different purposes
+  - Identify key features of e-commerce platforms and content management systems
+  - Compare popular storefront and CMS solutions and their target users
+  - Navigate and analyze the structure of existing online stores and CMS-powered sites
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, explore online storefronts, and pass the mastery check.
+- **Should-Do**: Complete CMS exploration activity and storefront feature analysis.
+- **Aspire-to-Do**: Research e-commerce business models and experiment with CMS demos.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - From Idea to Online Store: CMS and E-commerce in Action
+  - *Real examples of businesses using different platforms to build their online presence*
+- **In-Person/Small Group:**  
+  - Storefront comparison activity across different industries and platforms
+- **Whole-Class/Check-In:**  
+  - Discussion on digital business opportunities and website accessibility
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn storefront and CMS basics | Below content         |
+| Storefront Safari  | Research    | Explore different online stores | Activity 1 below      |
+| CMS Investigation  | Analysis    | Compare CMS platforms           | Activity 2 below      |
+| Feature Mapping    | Comparison  | Identify e-commerce features    | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
+
+--- page
+title: "Online Storefronts & CMS"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 6
+---
+
 # Lesson 6: Online Storefronts & CMS
 
 Welcome to Lesson 6 of our computer adventure! Today, we’re exploring **Online Storefronts & CMS** (Content Management Systems), the tools that power online shops and websites with easy-to-update content. This lesson is crafted for beginners with no tech background, using simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We’ll dive into what online storefronts and CMS are, how they work, and why they’re game-changers. By the end, you’ll know how to explore an online store and even try a CMS demo. Let’s get started!
@@ -202,13 +247,59 @@ Let’s explore online storefronts and CMS with fun activities on your **Windows
 
 ---
 
-## 🧭 **Lesson Navigation**
-- **[⬅️ Previous: How Websites Work](how_websites_work.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**
+### ✅ Mastery Check
+
+- **Type:** Quiz/Analysis Task
+- **Criteria for Mastery:**  
+  - Define online storefronts and CMS, explaining their relationship and differences
+  - Identify key features of e-commerce platforms (product catalog, cart, payment, etc.)
+  - Compare at least 3 CMS or storefront platforms and their target audiences
+  - Analyze the structure and features of real online stores and CMS-powered sites
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the store analogy, explain how online storefronts and CMS work together.
+2. What are 5 essential features every e-commerce platform should have?
+3. Compare WordPress, Shopify, and Wix - who would use each and why?
+4. Analyze an online store you've visited - identify storefront features and potential CMS elements.
 
 ---
 
-## 🎯 **Next Steps**
-Ready to wrap up Module 1? **[Continue to Module Conclusion →](course_conclusion.md)**
+### 🛠️ Reflection & Collaboration
 
-### 📍 **Course Progress**
-**Module 1**: Lesson 6 of 7 completed | **Overall**: 6 of 28+ lessons completed
+- **Reflection Prompt:**  
+  - "How has learning about storefronts and CMS changed your understanding of online businesses? What type of website would you want to create?"
+- **Collaboration:**  
+  - Share interesting online stores you discovered and discuss what makes them effective
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - E-commerce platform comparison guides
+  - CMS tutorial videos for beginners
+  - Online business planning templates
+- **Aspire-to-Do:**  
+  - Research successful online businesses and their platform choices
+  - Create a mock business plan for an online store
+  - Explore advanced e-commerce features like inventory management and analytics
+
+---
+
+### � Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and storefront exploration
+- [ ] Should-do complete: CMS investigation and feature analysis activities
+- [ ] Aspire-to-do complete: Business research or platform experimentation
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: How Websites Work](how_websites_work.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**

@@ -5,9 +5,44 @@ parent: "Module 2: Digital Marketing Basics"
 nav_order: 1
 ---
 
-# Lesson 1: What is Digital Marketing?
+## 📗 Lesson 7: What is Digital Marketing?
 
-Welcome to Lesson 1 of Module 2! Today, we're diving into **Digital Marketing**, the art of promoting products, services, or ideas using the internet. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities designed for your **Windows computer** or **Android phone**. We'll explore what digital marketing is, why it matters, and its key types. By the end, you'll understand how businesses reach you online and try a mini-marketing task. Let's jump in!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define digital marketing and explain how it differs from traditional marketing
+  - Identify the main types of digital marketing and their purposes
+  - Recognize digital marketing examples in everyday online experiences
+  - Create a simple digital marketing message for a hypothetical business
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, identify digital marketing examples, and pass the mastery check.
+- **Should-Do**: Complete the marketing channel analysis and create a simple marketing message.
+- **Aspire-to-Do**: Research digital marketing careers and analyze competitor marketing strategies.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Digital Marketing in Action: From Social Media to Search Results
+  - *Real examples of how businesses use digital marketing to reach customers*
+- **In-Person/Small Group:**  
+  - Digital marketing scavenger hunt across different platforms and devices
+- **Whole-Class/Check-In:**  
+  - Discussion on ethical marketing practices and consumer awareness
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn digital marketing basics  | Below content         |
+| Marketing Spotting | Research    | Find real marketing examples    | Activity 1 below      |
+| Channel Analysis   | Comparison  | Compare marketing platforms     | Activity 2 below      |
+| Message Creation   | Creative    | Write marketing content         | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 
@@ -188,13 +223,59 @@ Let’s explore digital marketing with fun activities on your **Windows computer
 
 ---
 
-## 🧭 **Lesson Navigation**
-- **[🏠 Course Home](../README.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: SEO Basics](SEO_basics.md)**
+### ✅ Mastery Check
+
+- **Type:** Quiz/Creative Task
+- **Criteria for Mastery:**  
+  - Define digital marketing and explain how it differs from traditional marketing
+  - Identify and describe at least 5 types of digital marketing with examples
+  - Recognize digital marketing in everyday online experiences
+  - Create an effective marketing message for a target audience
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the lemonade stand analogy, explain what digital marketing is.
+2. Compare traditional marketing (TV ad) vs digital marketing (social media ad) - list 3 differences.
+3. Give a real example of each: SEO, social media marketing, email marketing, content marketing.
+4. Write a short digital marketing message for a local bakery targeting busy parents.
 
 ---
 
-## 🎯 **Next Steps**
-Ready to learn about SEO? **[Continue to Lesson 02: SEO Basics →](SEO_basics.md)**
+### 🛠️ Reflection & Collaboration
 
-### 📍 **Course Progress**
-**Module 2**: Lesson 1 of 5 completed | **Overall**: 8 of 28+ lessons completed
+- **Reflection Prompt:**  
+  - "How has digital marketing influenced your online behavior? What type of digital marketing appeals to you most and why?"
+- **Collaboration:**  
+  - Share your marketing messages with classmates and provide feedback on effectiveness
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Digital marketing terminology glossary
+  - Examples of successful digital marketing campaigns
+  - Consumer protection and privacy guidelines
+- **Aspire-to-Do:**  
+  - Research digital marketing career paths and required skills
+  - Analyze a brand's complete digital marketing strategy across platforms
+  - Explore marketing ethics and consumer psychology
+
+---
+
+### � Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and marketing example identification
+- [ ] Should-do complete: Marketing message creation and analytics exploration
+- [ ] Aspire-to-do complete: Career research or strategy analysis
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Module 1 Conclusion](../01_foundations/course_conclusion.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: SEO Basics](SEO_basics.md)**

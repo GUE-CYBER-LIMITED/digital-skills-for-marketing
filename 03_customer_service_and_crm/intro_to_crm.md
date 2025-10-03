@@ -5,9 +5,44 @@ parent: "Module 3: Customer Service & CRM Systems"
 nav_order: 1
 ---
 
-# Lesson 1: Introduction to CRM
+## 📗 Lesson 11: Introduction to CRM
 
-Welcome to Lesson 1 of Module 3! Today, we're diving into **Customer Relationship Management (CRM)**, the technology that helps businesses build strong relationships with their customers. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll explore what CRM is, why it's important, and its key features. By the end, you'll understand how businesses use CRM to keep customers happy and try a mini-CRM task. Let's jump in!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define CRM and explain its role in customer relationship management
+  - Identify key features and benefits of CRM systems
+  - Understand how CRM supports sales, marketing, and customer service
+  - Navigate basic CRM interface and data entry processes
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, explore CRM examples, and pass the mastery check.
+- **Should-Do**: Complete the CRM feature analysis and customer journey mapping exercise.
+- **Aspire-to-Do**: Research CRM career opportunities and compare enterprise solutions.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - CRM in Action: How Businesses Manage Customer Relationships
+  - *Real-world examples of CRM improving customer experiences*
+- **In-Person/Small Group:**  
+  - Role-play customer service scenarios using CRM data
+- **Whole-Class/Check-In:**  
+  - Discussion on customer privacy and data protection in CRM systems
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn CRM fundamentals          | Below content         |
+| CRM Explorer       | Demo        | Navigate sample CRM interfaces  | Activity 1 below      |
+| Feature Analyzer   | Comparison  | Compare CRM system capabilities | Activity 2 below      |
+| Customer Journey   | Mapping     | Track customer interactions     | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 
@@ -180,13 +215,59 @@ Let’s explore CRM with fun activities on your **Windows computer** or **Androi
 
 ---
 
-## 🧭 **Lesson Navigation**
-- **[🏠 Course Home](../README.md)** | **[📚 Module 3 Home](index.md)** | **[➡️ Next: Using Zendesk](using_zendesk.md)**
+### ✅ Mastery Check
+
+- **Type:** Quiz/Practical Assessment
+- **Criteria for Mastery:**  
+  - Define CRM and explain how it helps businesses manage customer relationships
+  - Identify key CRM features (contact management, sales tracking, analytics, automation)
+  - Understand how CRM supports sales, marketing, and customer service functions
+  - Navigate basic CRM interfaces and understand data organization principles
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the filing cabinet analogy, explain what a CRM system does for businesses.
+2. How does CRM help with sales pipeline management? Give a specific example.
+3. What are 4 key benefits of using CRM for customer service teams?
+4. If you were setting up a CRM for a small bakery, what customer information would you track?
 
 ---
 
-## 🎯 **Next Steps**
-Ready to learn about Zendesk? **[Continue to Lesson 02: Using Zendesk →](using_zendesk.md)**
+### 🛠️ Reflection & Collaboration
 
-### 📍 **Course Progress**
-**Module 3**: Lesson 1 of 4 completed | **Overall**: 13 of 25+ lessons completed
+- **Reflection Prompt:**  
+  - "How might CRM systems change the way businesses interact with you as a customer? What are the benefits and potential concerns?"
+- **Collaboration:**  
+  - Role-play a customer service scenario with and without CRM data to compare experiences
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - CRM comparison guides and feature checklists
+  - Customer data privacy and protection guidelines
+  - Small business CRM implementation guides
+- **Aspire-to-Do:**  
+  - Research CRM careers (sales operations, customer success, data analyst)
+  - Explore advanced CRM features like automation and AI
+  - Analyze how different industries use CRM differently
+
+---
+
+### � Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and CRM exploration
+- [ ] Should-do complete: Feature comparison and customer journey mapping
+- [ ] Aspire-to-do complete: Career research or advanced feature exploration
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Module 2 Conclusion](../02_digital_marketing_basics/course_conclusion.md)** | **[📚 Module 3 Home](index.md)** | **[➡️ Next: Handling Customer Queries](handling_customer_queries.md)**

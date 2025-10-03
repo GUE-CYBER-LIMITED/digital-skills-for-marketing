@@ -5,9 +5,109 @@ parent: "Module 2: Digital Marketing Basics"
 nav_order: 4
 ---
 
-# Lesson 4: Social Media Marketing
+## 📗 Lesson 9: Social Media Marketing
 
-Welcome to Lesson 4 of Module 2! Today, we're exploring **Social Media Marketing**, the strategy of using platforms like Instagram, Twitter, or TikTok to promote brands and connect with people. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what social media marketing is, why it's powerful, and how to use it. By the end, you'll create a social media post and engage with followers. Let's get social!
+### 🎯 Learning Objective
+- By the end of this le---
+
+## Fun Facts About Social Media Marketing
+- Instagram has over 2 billion monthly users, a marketer's dream audience!  
+- The first social media ad was on Facebook in 2004, starting a revolution.  
+- TikTok videos can go viral in hours, reaching millions overnight.  
+- Brands spend over $100 billion yearly on social media ads.
+
+---
+
+### ✅ Mastery Check
+
+- **Type:** Quiz/Creative Project
+- **Criteria for Mastery:**  
+  - Define social media marketing and explain its business value using analogies
+  - Compare 4 major social media platforms and their unique characteristics
+  - Create engaging content appropriate for different platforms and audiences
+  - Demonstrate understanding of engagement metrics and community building
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the town square analogy, explain how social media marketing works.
+2. Compare Instagram, LinkedIn, TikTok, and Twitter - what type of content works best on each?
+3. Create a social media post for a local bookstore's new mystery novel section.
+4. How would you measure the success of a social media campaign? List 5 metrics.
+
+---
+
+### 🛠️ Reflection & Collaboration
+
+- **Reflection Prompt:**  
+  - "How has social media influenced your purchasing decisions? What makes a social media post engaging to you personally?"
+- **Collaboration:**  
+  - Share your created social media posts with classmates and provide constructive feedback
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Social media content calendars and planning templates
+  - Platform-specific best practices guides
+  - Digital citizenship and online safety resources
+- **Aspire-to-Do:**  
+  - Research social media marketing careers and required skills
+  - Analyze successful viral campaigns and identify key success factors
+  - Explore social media advertising tools and targeting options
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and platform analysis
+- [ ] Should-do complete: Content creation and engagement activities
+- [ ] Aspire-to-do complete: Career research or campaign analysis
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Content Creation](content_creation.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**be able to:  
+  - Define social media marketing and explain its role in modern business
+  - Identify different social media platforms and their unique characteristics
+  - Create engaging social media content appropriate for target audiences
+  - Understand basic social media metrics and engagement strategies
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, analyze social media platforms, and pass the mastery check.
+- **Should-Do**: Complete the content creation activity and engagement analysis exercise.
+- **Aspire-to-Do**: Research social media trends and develop a content strategy plan.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Social Media Success Stories: How Brands Connect with Audiences
+  - *Real examples of effective social media campaigns across different platforms*
+- **In-Person/Small Group:**  
+  - Platform comparison activity and collaborative content brainstorming
+- **Whole-Class/Check-In:**  
+  - Discussion on digital citizenship and responsible social media use
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn social media marketing    | Below content         |
+| Platform Explorer  | Research    | Compare social media platforms  | Activity 1 below      |
+| Content Creator    | Creative    | Design social media posts      | Activity 2 below      |
+| Engagement Study   | Analysis    | Analyze post performance        | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 

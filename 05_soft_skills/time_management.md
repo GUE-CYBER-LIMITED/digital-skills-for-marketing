@@ -5,9 +5,52 @@ parent: "Module 5: Soft Skills for Digital Professionals"
 nav_order: 1
 ---
 
-# Lesson 1: Time Management
+## 📗 Lesson 18: Time Management
 
-Welcome to Lesson 1 of Module 5! Today, we're diving into **Time Management**, the skill of organizing your time to get things done efficiently and reduce stress. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what time management is, why it's crucial, and practical techniques to stay on track. By the end, you'll create a schedule and prioritize tasks like a pro. Let's jump in!
+### 🎯 Learning Objectives
+By the end of this lesson, you will be able to:
+- Define time management and explain its importance
+- Use prioritization techniques to organize tasks effectively
+- Create schedules using digital tools like Google Calendar
+- Apply distraction-minimization strategies
+- Practice hands-on time management activities
+
+### ⏳ Pacing Guide
+**🔥 Must-Do (15 minutes)**  
+- Understand what time management is and why it matters
+- Learn key concepts: prioritization, scheduling, and avoiding distractions
+- Complete Activity 1: Create a Task List
+
+**⚡ Should-Do (20 minutes)**  
+- Explore how time management works (5-step process)
+- Complete Activity 2: Schedule a Day
+- Learn fun facts about time management techniques
+
+**🌟 Aspire-to-Do (10 minutes)**  
+- Complete Activity 3: Minimize Distractions
+- Compare tools across different platforms (Windows/Android/macOS/Linux)
+- Explore additional time management techniques
+
+### 📺 Blended Instruction Components
+
+**📖 Reading**: Key concepts of time management  
+**🛠️ Hands-On Practice**: 3 practical activities using your devices  
+**🔄 Self-Paced**: Work through examples at your own speed  
+**📱 Multi-Platform**: Activities for Windows computer and Android phone
+
+### 📝 Lesson Activities & Resources
+
+| Component | Activity | Time | Platform |
+|-----------|----------|------|----------|
+| **Concept Learning** | Read about prioritization, scheduling, and focus | 10 min | Any device |
+| **Activity 1** | Create and prioritize a task list | 10 min | Windows/Android |
+| **Activity 2** | Schedule tasks in Google Calendar | 15 min | Windows/Android |
+| **Activity 3** | Practice minimizing distractions | 10 min | Windows/Android |
+| **Platform Comparison** | Compare tools across operating systems | 10 min | Any device |
+
+---
+
+Welcome to Lesson 18 of our course! Today, we're diving into **Time Management**, the skill of organizing your time to get things done efficiently and reduce stress. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what time management is, why it's crucial, and practical techniques to stay on track. By the end, you'll create a schedule and prioritize tasks like a pro. Let's jump in!
 
 ---
 
@@ -180,7 +223,50 @@ Let's practice time management with fun activities on your **Windows computer** 
 
 ---
 
-## What's Next?
+## ✅ Mastery Check
+**Quick Assessment**: Can you confidently:
+- [ ] Explain what time management is and why it's important?
+- [ ] List the three key concepts of time management?
+- [ ] Create a prioritized task list using digital tools?
+- [ ] Schedule tasks in a calendar application?
+- [ ] Apply strategies to minimize distractions?
+
+**Mini-Challenge**: Create a simple daily schedule for tomorrow using your Windows computer or Android phone. Include at least 3 tasks with specific times and priorities.
+
+## 🛠️ Reflection & Collaboration
+**Individual Reflection**:
+- Which time management technique do you think will help you most?
+- How might good time management improve your work or study habits?
+- What distractions do you most need to minimize?
+
+**Discussion Points**:
+- Share your favorite time management tip with classmates
+- Compare how different calendar apps work across platforms
+- Discuss the challenges of staying focused in our digital world
+
+## 🌱 Supports & Differentiation
+**Need More Support?**
+- Review the suitcase packing analogy for time management
+- Focus on just Activity 1 (task lists) before moving to scheduling
+- Ask for help setting up Google Calendar
+
+**Ready for More?**
+- Explore advanced techniques like time blocking or the Getting Things Done method
+- Set up automated reminders and recurring events
+- Research time management apps beyond Google Calendar
+
+**Different Learning Styles**:
+- **Visual**: Create colorful task lists and calendar entries
+- **Kinesthetic**: Physically organize your workspace while learning digital organization
+- **Auditory**: Explain time management concepts out loud to yourself
+
+## 📊 Progress Tracking
+- **Lesson 18 Completed**: Time Management ✅
+- **Module 5**: Lesson 1 of 3 completed
+- **Course Overall**: 18 of 22 lessons completed (82%)
+- **Next Lesson**: Communication Skills
+
+**What's Next?**
 You've mastered time management, using your Windows computer or Android phone! Try these:  
 - On Windows, create a weekly schedule in Google Calendar.  
 - On Android, prioritize tasks in a note-taking app.  
@@ -196,7 +282,4 @@ Keep practicing, and share your time management tips. You're now a productivity 
 ---
 
 ## 🎯 **Next Steps**
-Ready to learn communication skills? **[Continue to Lesson 02: Communication Skills →](communication_skills.md)**
-
-### 📍 **Course Progress**
-**Module 5**: Lesson 1 of 4 completed | **Overall**: 21 of 28+ lessons completed
+Ready to learn communication skills? **[Continue to Lesson 19: Communication Skills →](communication_skills.md)**

@@ -5,6 +5,51 @@ parent: "Module 1: Foundations of Digital Technology"
 nav_order: 4
 ---
 
+## 📗 Lesson 5: How Websites Work
+
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Explain how websites are created, stored, and delivered to users
+  - Identify the key components of a website (HTML, CSS, JavaScript, servers)
+  - Describe the process from typing a URL to viewing a webpage
+  - Create a simple webpage using basic HTML and CSS
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, analyze website components, and pass the mastery check.
+- **Should-Do**: Complete the website inspection activity and create a basic webpage.
+- **Aspire-to-Do**: Research web development careers and build an enhanced webpage with styling.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - The Journey of a Webpage: From Server to Screen
+  - *Animation showing the complete process of how websites load and display*
+- **In-Person/Small Group:**  
+  - Website deconstruction activity using browser developer tools
+- **Whole-Class/Check-In:**  
+  - Sharing simple webpages created and discussing web accessibility
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn website fundamentals      | Below content         |
+| Site Inspection    | Hands-on    | Examine website components      | Activity 1 below      |
+| HTML Creation      | Practical   | Build a simple webpage          | Activity 2 below      |
+| Speed Analysis     | Investigation| Test website loading speeds    | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
+
+--- default
+title: "How Websites Work"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 4
+---
+
 # Lesson 4: How Websites Work? A Fun and Beginner-Friendly Guide
 
 Welcome to Lesson 4 of our computer adventure! Today, we're diving into the exciting world of **How Websites Work**, uncovering the magic behind the webpages you visit every day. This lesson is crafted for beginners with no tech background, using simple language, fun analogies, and hands-on activities designed for your **Windows computer** or **Android phone**. We’ll explore how websites are built, stored, and displayed, covering key concepts like web servers, HTML, CSS, and JavaScript, plus web hosting. By the end, you’ll understand the nuts and bolts of websites and even create a tiny webpage of your own. Let’s get started!
@@ -203,13 +248,59 @@ How might the text editor or file opening process differ on **macOS** or **Linux
 
 ---
 
-## 🧭 **Lesson Navigation**
-- **[⬅️ Previous: What is the Internet?](what_is_the_internet.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Web Hosting & Domains](web_hosting_and_domains.md)**
+### ✅ Mastery Check
+
+- **Type:** Quiz/Practical Assessment
+- **Criteria for Mastery:**  
+  - Explain how websites are created, stored, and delivered using the store analogy
+  - Identify HTML, CSS, and JavaScript components and their functions
+  - Trace the complete journey from URL input to webpage display
+  - Successfully create and open a basic HTML webpage
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the store analogy, explain how a website works from server to browser.
+2. What do HTML, CSS, and JavaScript each contribute to a webpage?
+3. Describe step-by-step what happens when you type a URL and press Enter.
+4. Write basic HTML code to create a webpage with a heading and paragraph.
 
 ---
 
-## 🎯 **Next Steps**
-Ready to learn about web hosting? **[Continue to Lesson 05: Web Hosting & Domains →](web_hosting_and_domains.md)**
+### 🛠️ Reflection & Collaboration
 
-### 📍 **Course Progress**
-**Module 1**: Lesson 4 of 7 completed | **Overall**: 4 of 25+ lessons completed
+- **Reflection Prompt:**  
+  - "What surprised you most about how websites work? How has this changed your perspective on web browsing?"
+- **Collaboration:**  
+  - Share your created webpages with classmates and compare different approaches to HTML structure
+
+---
+
+### � Supports & Differentiation
+
+- **Additional Resources:**  
+  - HTML and CSS tutorials for beginners
+  - Website accessibility guidelines and best practices
+  - Browser developer tools guides
+- **Aspire-to-Do:**  
+  - Research web development careers and required skills
+  - Create a more complex webpage with CSS styling and images
+  - Investigate responsive web design and mobile optimization
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and website component analysis
+- [ ] Should-do complete: HTML creation and website inspection activities
+- [ ] Aspire-to-do complete: Enhanced webpage creation or career research
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Web Hosting & Domains](web_hosting_and_domains.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Storefronts & CMS](storefronts_and_cms.md)**

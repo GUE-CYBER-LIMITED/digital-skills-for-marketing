@@ -5,9 +5,44 @@ parent: "Module 1: Foundations of Digital Technology"
 nav_order: 2
 ---
 
-# Lesson 2: What is an Operating System (OS)? A Fun and Beginner-Friendly Guide
+## 📗 Lesson 3: Operating Systems Basics
 
-Welcome to Lesson 2 of our computer adventure! In this engaging lesson, we'll dive into the **Operating System (OS)**, the clever software that powers your Windows computer, Android phone, and other devices like Macs or Linux machines. This guide is crafted for beginners with no tech background, using simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. We'll also explore other operating systems like macOS, iOS, and Linux to give you a complete picture. By the end, you'll understand what an OS does, why it's important, and how to spot it in action. Let's jump in!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define an operating system and explain its role as device manager
+  - Identify the key functions of an operating system (process, memory, file, device management)
+  - Compare different types of operating systems and their characteristics
+  - Recognize and interact with OS interfaces on various devices
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, identify OS on personal devices, and pass the mastery check.
+- **Should-Do**: Complete the OS comparison activity and interface exploration exercise.
+- **Aspire-to-Do**: Research OS history and explore advanced system settings.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Operating System Functions: Behind the Scenes
+  - *Visualization of how OS manages multiple programs and resources simultaneously*
+- **In-Person/Small Group:**  
+  - OS identification and interface exploration on different devices
+- **Whole-Class/Check-In:**  
+  - Discussion on OS preferences and sharing device management observations
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn OS fundamentals           | Below content         |
+| OS Identification | Hands-on    | Find OS on different devices    | Activity 1 below      |
+| Interface Tour     | Practical   | Explore OS interfaces           | Activity 2 below      |
+| Feature Comparison | Analysis    | Compare OS capabilities         | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 
@@ -221,13 +256,59 @@ Let's have fun with activities designed for your **Windows computer** or **Andro
 
 ---
 
-## 🧭 **Lesson Navigation**
-- **[⬅️ Previous: What is a Computer?](what_is_a_computer.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: What is the Internet?](what_is_the_internet.md)**
+### ✅ Mastery Check
+
+- **Type:** Quiz/Practical Assessment
+- **Criteria for Mastery:**  
+  - Define operating system and explain its role as device coordinator
+  - Identify and explain 4 key functions of an operating system
+  - Compare features of at least 3 different operating systems
+  - Demonstrate ability to navigate and use basic OS interface functions
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. How is an operating system like a city mayor? Explain the analogy.
+2. Name the 4 main functions of an operating system and give an example of each.
+3. Compare Windows, macOS, and Android - list one unique feature of each.
+4. How would you create a new folder on your device? Explain the steps.
 
 ---
 
-## 🎯 **Next Steps**
-Ready for the next adventure? **[Continue to Lesson 03: What is the Internet? →](what_is_the_internet.md)**
+### 🛠️ Reflection & Collaboration
 
-### 📍 **Course Progress**
-**Module 1**: Lesson 2 of 7 completed | **Overall**: 2 of 25+ lessons completed
+- **Reflection Prompt:**  
+  - "Which operating system function surprised you most and why? How has your understanding of your device changed after learning about the OS?"
+- **Collaboration:**  
+  - Share screenshots of different OS interfaces with classmates and compare design differences
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - OS interface video tutorials
+  - Operating system timeline and evolution charts
+  - Basic troubleshooting guides for common OS issues
+- **Aspire-to-Do:**  
+  - Research the history of operating systems and create a visual timeline
+  - Explore system settings and control panels on available devices
+  - Investigate specialized operating systems (server OS, embedded systems)
+
+---
+
+### � Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and OS identification
+- [ ] Should-do complete: Interface exploration and file management activities
+- [ ] Aspire-to-do complete: OS history research or advanced system exploration
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: What is the Internet?](what_is_the_internet.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Web Hosting and Domains](web_hosting_and_domains.md)**

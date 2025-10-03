@@ -5,9 +5,105 @@ parent: "Module 1: Foundations of Digital Technology"
 nav_order: 1
 ---
 
-# Introduction to Computers: A Beginner-Friendly Lesson
+## 📗 Lesson 1: What is a Computer?
 
-Welcome to this beginner-friendly lesson on **What is a Computer?** This guide is designed for people with no technical background. We'll break down complex concepts into simple, everyday language, provide clear examples, and include hands-on activities to help you learn. By the end, you'll understand what a computer is, its main parts, and how it works. Let's dive in!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define what a- Discover how the internet connects computers worldwide.
+
+If you have a computer or phone, try the activities above and share what you learned with a friend or family member. Computers are amazing tools, and you're now one step closer to understanding them!
+
+---
+
+### ✅ Mastery Check
+
+- **Type:** Quiz/Self-Assessment
+- **Criteria for Mastery:**  
+  - Correctly identify at least 4 computer hardware components and their functions
+  - Explain the difference between hardware and software with examples
+  - Describe the basic computer process (input → processing → storage → output)
+  - Distinguish between at least 3 types of computers
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. What are the main hardware components of a computer? (List at least 4)
+2. Give an example of an operating system and an application software
+3. Explain how a computer processes information using the 4-step process
+4. What type of computer would be best for: a) streaming movies to many users b) writing documents while traveling?
+
+---
+
+### 🛠️ Reflection & Collaboration
+
+- **Reflection Prompt:**  
+  - "Which computer concept was most surprising to you and why? How do you see computers fitting into your daily life differently now?"
+- **Collaboration:**  
+  - Share your computer component identification results with a partner and compare findings
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Visual computer anatomy diagrams
+  - Computer terminology glossary
+  - Video tutorials on basic computer operation
+- **Aspire-to-Do:**  
+  - Research the history of computers and create a timeline
+  - Create a detailed diagram labeling all components of a computer setup
+  - Explore how quantum computers differ from traditional computers
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and hardware identification
+- [ ] Should-do complete: All hands-on activities completed
+- [ ] Aspire-to-do complete: Additional research or diagram creation
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[🏠 Course Home](../README.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: What is the Internet?](what_is_the_internet.md)** identify its main components (hardware and software)
+  - Distinguish between different types of computers and their purposes
+  - Explain the basic process of how computers work (input, processing, storage, output)
+  - Identify common hardware components and software types
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, practice identifying computer parts, and pass the mastery check.
+- **Should-Do**: Complete the hands-on activities and software exploration exercise.
+- **Aspire-to-Do**: Research historical computer facts and create a computer component diagram.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Computer Basics: Hardware vs Software Overview
+  - *Introduction to computer components with visual examples and analogies*
+- **In-Person/Small Group:**  
+  - Computer parts identification activity using available devices
+- **Whole-Class/Check-In:**  
+  - Q&A session on computer concepts and sharing activity results
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn computer fundamentals     | Below content         |
+| Hardware ID        | Hands-on    | Identify computer components    | Activity 1 below      |
+| Software Exploration| Practical   | Explore OS and applications     | Activity 2 below      |
+| Process Simulation | Role-play   | Simulate computer processing    | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 

@@ -5,10 +5,8 @@ nav_order: 7
 has_children: true
 ---
 
-<div class="course-navigation">
-<h1>📁 Module 6: Projects & Practice</h1>
-<p><em>Apply Your Skills with Real-World Projects</em></p>
-</div>
+## 📁 Module 6: Projects & Practice
+*Apply Your Skills with Real-World Projects*
 
 ---
 
@@ -19,35 +17,54 @@ By the end of this module, you will:
 - Build a professional resume and portfolio showcasing all your new abilities
 - Have job-ready projects to demonstrate your competence to employers
 
+## ⏳ **Module Pacing Guide**
+**🔥 Essential (3-4 hours)**: Digital Marketing Campaign + Customer Support Case Study  
+**⚡ Recommended (5-6 hours)**: Complete all projects with detailed documentation  
+**🌟 Mastery (7+ hours)**: Polished, portfolio-ready projects with advanced features
+
+## 📺 **Module Components**
+**📖 Project Planning**: Strategic thinking and real-world application  
+**🛠️ Hands-On Creation**: Build complete projects using all course skills  
+**🔄 Portfolio Development**: Create professional showcase materials  
+**📱 Multi-Platform**: Apply skills across Windows computer and Android phone
+
 ---
 
 ## 📚 **Module Contents**
 
-<table class="module-table">
-<thead>
-<tr>
-<th>Project</th>
-<th>Topic</th>
-<th>Duration</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><a href="digital_marketing_campaign_plan.md">01</a></strong></td>
-<td><a href="digital_marketing_campaign_plan.md">Digital Marketing Campaign Plan</a></td>
-<td>90 min</td>
-<td>🟢 Start Here</td>
-</tr>
-<tr>
-<td><strong><a href="customer_support_case_study.md">02</a></strong></td>
-<td><a href="customer_support_case_study.md">Customer Support Case Study</a></td>
-<td>75 min</td>
-<td>⭐</td>
-</tr>
-<tr>
-<td><strong><a href="resume_and_portfolio_guide.md">03</a></strong></td>
-<td><a href="resume_and_portfolio_guide.md">Resume and Portfolio Guide</a></td>
+| Lesson | Topic | Duration | Status |
+|--------|-------|----------|---------|
+| **[20](digital_marketing_campaign_plan.md)** | [Digital Marketing Campaign Plan](digital_marketing_campaign_plan.md) | 90 min | 🟢 Start Here |
+| **[21](customer_support_case_study.md)** | [Customer Support Case Study](customer_support_case_study.md) | 75 min | ⭐ |
+| **[22](resume_and_portfolio_guide.md)** | [Resume and Portfolio Guide](resume_and_portfolio_guide.md) | 85 min | ⭐ |
+
+---
+
+## 🧭 **Navigation**
+- **[🏠 Course Home](../README.md)**
+- **[▶️ Start: Digital Marketing Campaign Plan](digital_marketing_campaign_plan.md)**
+- **[🎉 Course Complete!](../README.md)**
+
+---
+
+## 📋 **Module Completion Checklist**
+- [ ] Completed: Digital Marketing Campaign Plan
+- [ ] Completed: Customer Support Case Study
+- [ ] Completed: Resume and Portfolio Guide
+
+---
+
+## ✅ **Module Mastery Check**
+**Ready to showcase your skills?** Ensure you can:
+- Design comprehensive digital marketing campaigns with clear objectives
+- Analyze customer service scenarios and provide professional solutions
+- Create polished resumes and portfolios demonstrating your abilities
+- Present your work professionally to potential employers
+
+## 📊 **Progress Tracking**
+- **Module 6**: 3 projects (Lessons 20-22 of 22 total)
+- **Prerequisites**: Modules 1-5 completion required
+- **Achievement**: Course completion and career readiness!
 <td>60 min</td>
 <td>⭐</td>
 </tr>

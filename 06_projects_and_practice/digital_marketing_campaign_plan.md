@@ -5,9 +5,53 @@ parent: "Module 6: Projects & Practice"
 nav_order: 1
 ---
 
-# Project 1: Digital Marketing Campaign Plan
+## 📗 Lesson 20: Digital Marketing Campaign Plan
 
-Welcome to Project 1 of Module 6! Today, you'll create a **Digital Marketing Campaign Plan**, applying skills from Module 2 (digital marketing) and Module 4 (Google Tools, Excel). This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what a campaign plan is, its key components, and how to build one. By the end, you'll design a mock campaign plan to promote a product or idea, ready to impress. Let's get started!
+### 🎯 Learning Objectives
+By the end of this lesson, you will be able to:
+- Define what a digital marketing campaign plan is and explain its importance
+- Identify the key components of a successful campaign plan
+- Set measurable goals and objectives for marketing campaigns
+- Create audience profiles and select appropriate marketing strategies
+- Develop content timelines and measurement strategies
+- Design a complete campaign plan using digital tools
+
+### ⏳ Pacing Guide
+**🔥 Must-Do (20 minutes)**  
+- Understand what a digital marketing campaign plan is and why it matters
+- Learn key concepts: goals, audience targeting, and content planning
+- Complete Activity 1: Define a Campaign Goal
+
+**⚡ Should-Do (25 minutes)**  
+- Explore the 6-step campaign planning process
+- Complete Activity 2: Plan Audience and Strategy
+- Learn best practices for campaign organization
+
+**🌟 Aspire-to-Do (15 minutes)**  
+- Complete Activity 3: Create a Content Timeline
+- Compare campaign planning tools across platforms
+- Explore advanced campaign measurement techniques
+
+### 📺 Blended Instruction Components
+
+**📖 Reading**: Campaign planning fundamentals and best practices  
+**🛠️ Hands-On Practice**: 3 practical campaign planning activities  
+**🔄 Self-Paced**: Build your campaign plan step by step  
+**📱 Multi-Platform**: Activities for Windows computer and Android phone
+
+### 📝 Lesson Activities & Resources
+
+| Component | Activity | Time | Platform |
+|-----------|----------|------|----------|
+| **Concept Learning** | Study campaign components and strategies | 15 min | Any device |
+| **Activity 1** | Define measurable campaign goals | 10 min | Windows/Android |
+| **Activity 2** | Plan target audience and marketing strategies | 15 min | Windows/Android |
+| **Activity 3** | Create content timeline and schedule | 15 min | Windows/Android |
+| **Integration Practice** | Combine all elements into complete plan | 10 min | Any device |
+
+---
+
+Welcome to Lesson 20 of our course! Today, you'll create a **Digital Marketing Campaign Plan**, applying skills from Module 2 (digital marketing) and Module 4 (Google Tools, Excel). This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what a campaign plan is, its key components, and how to build one. By the end, you'll design a mock campaign plan to promote a product or idea, ready to impress. Let's get started!
 
 ---
 
@@ -182,7 +226,51 @@ Let's create a campaign plan with fun activities on your **Windows computer** or
 
 ---
 
-## What's Next?
+## ✅ Mastery Check
+**Quick Assessment**: Can you confidently:
+- [ ] Explain what a digital marketing campaign plan is and why it's important?
+- [ ] Identify the key components of a successful campaign plan?
+- [ ] Set specific, measurable goals for marketing campaigns?
+- [ ] Create target audience profiles and select appropriate strategies?
+- [ ] Develop content timelines using digital tools?
+- [ ] Design a complete campaign plan from start to finish?
+
+**Mini-Challenge**: Create a complete campaign plan for promoting a local business (real or imaginary). Include goals, audience, strategies, content ideas, and timeline.
+
+## 🛠️ Reflection & Collaboration
+**Individual Reflection**:
+- Which part of campaign planning do you find most challenging?
+- How do the skills from Modules 2 and 4 help with campaign planning?
+- What type of business would you most like to create a campaign for?
+
+**Discussion Points**:
+- Share your campaign ideas with classmates for feedback
+- Compare different marketing strategies for the same target audience
+- Discuss how campaign planning connects to customer service and business goals
+
+## 🌱 Supports & Differentiation
+**Need More Support?**
+- Review the garden planting analogy for campaign planning
+- Focus on one campaign component at a time
+- Use simple templates for goals and audience planning
+
+**Ready for More?**
+- Research real campaign examples from major brands
+- Explore advanced analytics and measurement tools
+- Create multiple campaign variations for A/B testing
+
+**Different Learning Styles**:
+- **Visual**: Create colorful charts and timelines for your campaign
+- **Kinesthetic**: Act out different campaign scenarios and strategies
+- **Auditory**: Present your campaign plan aloud to check for clarity
+
+## 📊 Progress Tracking
+- **Lesson 20 Completed**: Digital Marketing Campaign Plan ✅
+- **Module 6**: Lesson 1 of 3 completed
+- **Course Overall**: 20 of 22 lessons completed (91%)
+- **Next Lesson**: Customer Support Case Study
+
+**What's Next?**
 You've created a digital marketing campaign plan, using your Windows computer or Android phone! Try these:  
 - On Windows, expand your plan with more content in Google Docs.  
 - On Android, schedule posts in Google Calendar.  
@@ -193,12 +281,9 @@ Keep practicing, and share your campaign ideas. You're now a marketing planner!
 ---
 
 ## 🧭 **Project Navigation**
-- **[⬅️ Previous: Module 5 Conclusion](../05_soft_skills/course_conclusion.md)** | **[📚 Module 6 Home](index.md)** | **[➡️ Next: Customer Support Case Study](customer_support_case_study.md)**
+- **[⬅️ Previous: Module 5](../05_soft_skills/index.md)** | **[📚 Module 6 Home](index.md)** | **[➡️ Next: Customer Support Case Study](customer_support_case_study.md)**
 
 ---
 
 ## 🎯 **Next Steps**
-Ready to analyze customer support scenarios? **[Continue to Project 2: Customer Support Case Study →](customer_support_case_study.md)**
-
-### 📍 **Course Progress**
-**Module 6**: Project 1 of 4 completed | **Overall**: 25 of 28+ lessons completed
+Ready to analyze customer support scenarios? **[Continue to Lesson 21: Customer Support Case Study →](customer_support_case_study.md)**

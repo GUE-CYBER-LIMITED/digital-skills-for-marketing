@@ -5,6 +5,108 @@ parent: "Module 1: Foundations of Digital Technology"
 nav_order: 3
 ---
 
+## 📗 Lesson 2: What is the Internet?
+
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  ---
+
+### ✅ Mastery Check
+
+- **Type:** Quiz/Practical Assessment
+- **Criteria for Mastery:**  
+  - Define the internet and explain its global connectivity
+  - Identify and explain 3 key internet concepts (IP address, WWW, web browser)
+  - Name and describe 4 major internet services with examples
+  - Trace the basic journey of data from request to response
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. How is the internet like a city? Explain the analogy with devices, connections, and information.
+2. What is an IP address and why is it important for internet communication?
+3. List 4 internet services and give a real example of each from your own experience.
+4. Describe what happens when you click on a website link (trace the data journey).
+
+---
+
+### 🛠️ Reflection & Collaboration
+
+- **Reflection Prompt:**  
+  - "How has learning about the internet changed your understanding of what happens when you go online? What internet service do you use most and why?"
+- **Collaboration:**  
+  - Compare your internet connection speeds with classmates and discuss factors that might affect speed
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Interactive internet simulation tools
+  - Internet safety guidelines and best practices
+  - Visual diagrams of network infrastructure
+- **Aspire-to-Do:**  
+  - Research the history of the internet and create a timeline
+  - Investigate how internet works in different countries
+  - Explore emerging internet technologies (5G, fiber optics, satellite internet)
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and internet service identification
+- [ ] Should-do complete: Browser exploration and connection testing activities
+- [ ] Aspire-to-do complete: Internet history research or technology exploration
+- [ ] Mastery check passed: Quiz score meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: What is a Computer?](what_is_a_computer.md)** | **[📚 Module 1 Home](index.md)** | **[➡️ Next: Operating Systems](operating_systems.md)**efine the internet and explain how it connects devices globally
+  - Identify key internet concepts (IP addresses, WWW, web browsers)
+  - Describe major internet services and their purposes
+  - Explain the basic process of how data travels across the internet
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, practice using different internet services, and pass the mastery check.
+- **Should-Do**: Complete the hands-on browser exploration and internet service comparison activity.
+- **Aspire-to-Do**: Research internet history and create a visual map of how data travels online.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - How the Internet Works: A Visual Journey
+  - *Animation showing data traveling from device to device across the global network*
+- **In-Person/Small Group:**  
+  - Internet service scavenger hunt using different devices and browsers
+- **Whole-Class/Check-In:**  
+  - Discussion on internet safety and comparing different web browsers
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn internet fundamentals     | Below content         |
+| Browser Exploration| Hands-on    | Compare different web browsers  | Activity 1 below      |
+| Service Mapping    | Practical   | Identify internet services used | Activity 2 below      |
+| Data Journey       | Visualization| Trace how data travels online   | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
+
+--- default
+title: "What is the Internet?"
+parent: "Module 1: Foundations of Digital Technology"
+nav_order: 3
+---
+
 # Lesson 3: What is the Internet? A Fun and Beginner-Friendly Guide
 
 Welcome to Lesson 3 of our computer adventure! Today, we’re exploring the **Internet**, the amazing global network that lets you chat with friends, watch videos, shop online, and so much more. This lesson is designed for beginners with no tech background, using simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. We’ll cover the internet’s basics, key concepts, and services, making it easy to understand and exciting to explore. By the end, you’ll know how the internet works and how to use it confidently. Let’s dive in!

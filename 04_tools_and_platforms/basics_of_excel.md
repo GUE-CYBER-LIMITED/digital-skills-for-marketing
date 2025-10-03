@@ -5,9 +5,108 @@ parent: "Module 4: Tools & Platforms"
 nav_order: 2
 ---
 
-# Lesson 2: Excel Basics
+## 📗 Lesson 15: Basics of Excel
 
-Welcome to Lesson 2 of Module 4! Today, we're exploring **Excel Basics**, a powerful Microsoft tool for organizing, analyzing, and calculating data. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what Excel is, its key features, and how to use it for simple tasks. By the end, you'll create a spreadsheet and perform calculations, feeling confident with Excel. Let's dive in!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be a---
+
+## Fun Facts About Excel
+- Excel launched in 1985 and is used by over 1 billion people!  
+- It can handle 1,048,576 rows and 16,384 columns per sheet.  
+- The "VLOOKUP" function is a favorite for data lookups.  
+- Excel's charting inspired modern data visualization tools.
+
+---
+
+### ✅ Mastery Check
+
+- **Type:** Practical Project
+- **Criteria for Mastery:**  
+  - Define Excel and explain its role using the digital shop analogy
+  - Navigate Excel interface and identify key components (cells, rows, columns, sheets)
+  - Create a functional spreadsheet with data entry, formatting, and calculations
+  - Apply Excel functions (SUM, AVERAGE) and create basic charts for data visualization
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the shop ledger analogy, explain what Excel helps users accomplish.
+2. What's the difference between a cell (A1), a row (1), and a column (A)?
+3. Create a budget spreadsheet with 5 items, costs, and a SUM total.
+4. When would you use a pie chart vs. a bar chart in Excel?
+
+---
+
+### 🛠️ Reflection & Collaboration
+
+- **Reflection Prompt:**  
+  - "How might Excel skills benefit you in school or future career? What type of data would you want to organize or analyze?"
+- **Collaboration:**  
+  - Work in pairs to create a shared Excel project and compare different approaches to data organization
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Excel keyboard shortcuts for efficiency
+  - Free Excel templates for common tasks
+  - Data accuracy and validation best practices
+- **Aspire-to-Do:**  
+  - Research Excel-based careers (data analyst, financial analyst, project manager)
+  - Explore advanced Excel features like pivot tables and macros
+  - Compare Excel to other spreadsheet tools (Google Sheets, Numbers)
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and basic spreadsheet creation
+- [ ] Should-do complete: Formula practice and chart creation
+- [ ] Aspire-to-do complete: Career research or advanced feature exploration
+- [ ] Mastery check passed: Project meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Google Tools Overview](intro_to_google_tools.md)** | **[📚 Module 4 Home](index.md)** | **[➡️ Next: Power BI Overview](overview_of_powerbi.md)**e Excel and explain its role in data organization and analysis
+  - Navigate the Excel interface and understand key components (cells, rows, columns, worksheets)
+  - Create basic spreadsheets with data entry, formatting, and simple formulas
+  - Apply Excel functions for calculations and data visualization with charts
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, create a basic spreadsheet, and pass the mastery check.
+- **Should-Do**: Complete the formula practice and chart creation exercise.
+- **Aspire-to-Do**: Research Excel careers and explore advanced features like pivot tables.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Excel Fundamentals: From Data Entry to Analysis
+  - *Step-by-step demonstration of creating spreadsheets and using basic functions*
+- **In-Person/Small Group:**  
+  - Collaborative budget creation exercise using Excel features
+- **Whole-Class/Check-In:**  
+  - Discussion on data accuracy and spreadsheet best practices
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn Excel fundamentals        | Below content         |
+| Spreadsheet Builder| Hands-on    | Create and format spreadsheets  | Activity 1 below      |
+| Formula Master     | Practice    | Use Excel functions and formulas| Activity 2 below      |
+| Chart Creator      | Visualization| Build basic charts and graphs  | Activity 3 below      |
+| Mastery Check      | Project     | Complete Excel portfolio        | End of lesson project |
 
 ---
 

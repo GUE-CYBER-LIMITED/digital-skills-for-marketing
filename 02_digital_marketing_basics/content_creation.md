@@ -5,9 +5,44 @@ parent: "Module 2: Digital Marketing Basics"
 nav_order: 3
 ---
 
-# Lesson 3: Content Creation
+## 📗 Lesson 10: Content Creation
 
-Welcome to Lesson 3 of Module 2! Today, we're diving into **Content Creation**, the process of making engaging material—like blog posts, videos, or images—to attract and connect with people online. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll explore what content creation is, why it's key to digital marketing, and how to make great content. By the end, you'll create your own content and share it. Let's get creative!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define content creation and explain its importance in digital marketing
+  - Identify different types of content and their purposes
+  - Apply content creation principles to produce engaging material
+  - Use basic tools and techniques to create and optimize content
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, create sample content, and pass the mastery check.
+- **Should-Do**: Complete the content planning activity and tool exploration exercise.
+- **Aspire-to-Do**: Develop a content calendar and experiment with advanced creation tools.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - From Idea to Impact: The Content Creation Process
+  - *Step-by-step walkthrough of creating different types of content*
+- **In-Person/Small Group:**  
+  - Collaborative content brainstorming and peer feedback sessions
+- **Whole-Class/Check-In:**  
+  - Content showcase and discussion on copyright and attribution
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn content creation basics   | Below content         |
+| Content Creator    | Hands-on    | Create different content types  | Activity 1 below      |
+| Tool Explorer      | Practice    | Experiment with creation tools  | Activity 2 below      |
+| Content Optimizer  | Application | Apply SEO to content            | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 
@@ -200,13 +235,59 @@ Let’s create content with fun activities on your **Windows computer** or **And
 
 ---
 
-## 🧭 **Lesson Navigation**
-- **[⬅️ Previous: SEO Basics](SEO_basics.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: Social Media Marketing](social_media_marketing.md)**
+### ✅ Mastery Check
+
+- **Type:** Creative Portfolio
+- **Criteria for Mastery:**  
+  - Define content creation and explain its role in digital marketing strategy
+  - Identify different content types and match them to appropriate platforms and audiences
+  - Create original content using basic design principles and SEO best practices
+  - Develop a content plan that aligns with business goals and audience needs
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the cooking analogy, explain what content creation involves.
+2. Match these content types to their best platforms: blog post, infographic, video, podcast.
+3. Create a piece of content for a local gym targeting busy professionals.
+4. Plan a week's worth of content for a small business - include goals, audience, and platforms.
 
 ---
 
-## 🎯 **Next Steps**
-Ready to master social media marketing? **[Continue to Lesson 04: Social Media Marketing →](social_media_marketing.md)**
+### 🛠️ Reflection & Collaboration
 
-### 📍 **Course Progress**
-**Module 2**: Lesson 3 of 5 completed | **Overall**: 10 of 28+ lessons completed
+- **Reflection Prompt:**  
+  - "What type of content do you enjoy creating most? How can content creation skills benefit you personally and professionally?"
+- **Collaboration:**  
+  - Work in pairs to brainstorm content ideas and provide feedback on each other's creations
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Free content creation tools and templates
+  - Copyright and fair use guidelines for content creators
+  - Content accessibility best practices
+- **Aspire-to-Do:**  
+  - Research content creation careers (blogger, social media manager, content strategist)
+  - Experiment with advanced creation tools and techniques
+  - Develop a personal brand content strategy
+
+---
+
+### � Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and basic content creation
+- [ ] Should-do complete: Tool exploration and content optimization
+- [ ] Aspire-to-do complete: Advanced content strategy or career research
+- [ ] Mastery check passed: Portfolio meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: SEO Basics](SEO_basics.md)** | **[📚 Module 2 Home](index.md)** | **[➡️ Next: Social Media Marketing](social_media_marketing.md)**

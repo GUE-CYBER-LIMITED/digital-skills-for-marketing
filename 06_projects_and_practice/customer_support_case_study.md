@@ -5,9 +5,53 @@ parent: "Module 6: Projects & Practice"
 nav_order: 2
 ---
 
-# Project 2: Customer Support Case Study
+## 📗 Lesson 21: Customer Support Case Study
 
-Welcome to Project 2 of Module 6! Today, you'll analyze a **Customer Support Case Study**, applying skills from Module 3 (customer service, CRM) and Module 5 (communication, time management). This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what a case study is, how to analyze one, and how to propose solutions. By the end, you'll solve a mock customer issue like a support pro. Let's dive in!
+### 🎯 Learning Objectives
+By the end of this lesson, you will be able to:
+- Define what a customer support case study is and explain its importance
+- Identify key components of customer support scenarios
+- Analyze customer problems to determine root causes
+- Develop effective solutions using communication and CRM skills
+- Create appropriate follow-up strategies for customer satisfaction
+- Document and present case study analysis professionally
+
+### ⏳ Pacing Guide
+**🔥 Must-Do (15 minutes)**  
+- Understand what a customer support case study is and why it matters
+- Learn key concepts: case description, analysis, and solution development
+- Complete Activity 1: Describe a Mock Case
+
+**⚡ Should-Do (20 minutes)**  
+- Explore the 5-step case study analysis process
+- Complete Activity 2: Analyze the Case
+- Learn best practices for customer problem-solving
+
+**🌟 Aspire-to-Do (10 minutes)**  
+- Complete Activity 3: Propose a Solution
+- Compare support tools across different platforms
+- Explore advanced customer service strategies
+
+### 📺 Blended Instruction Components
+
+**📖 Reading**: Customer support analysis fundamentals  
+**🛠️ Hands-On Practice**: 3 practical case study activities  
+**🔄 Self-Paced**: Work through real customer scenarios  
+**📱 Multi-Platform**: Activities for Windows computer and Android phone
+
+### 📝 Lesson Activities & Resources
+
+| Component | Activity | Time | Platform |
+|-----------|----------|------|----------|
+| **Concept Learning** | Study case components and analysis methods | 10 min | Any device |
+| **Activity 1** | Create and describe a customer case scenario | 10 min | Windows/Android |
+| **Activity 2** | Analyze customer problems and identify causes | 15 min | Windows/Android |
+| **Activity 3** | Develop solutions and follow-up strategies | 15 min | Windows/Android |
+| **Integration Practice** | Apply Module 3 and 5 skills to real scenarios | 10 min | Any device |
+
+---
+
+Welcome to Lesson 21 of our course! Today, you'll analyze a **Customer Support Case Study**, applying skills from Module 3 (customer service, CRM) and Module 5 (communication, time management). This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what a case study is, how to analyze one, and how to propose solutions. By the end, you'll solve a mock customer issue like a support pro. Let's dive in!
 
 ---
 
@@ -176,7 +220,51 @@ Let's analyze a case study with fun activities on your **Windows computer** or *
 
 ---
 
-## What's Next?
+## ✅ Mastery Check
+**Quick Assessment**: Can you confidently:
+- [ ] Explain what a customer support case study is and why it's important?
+- [ ] Identify key components of customer support scenarios?
+- [ ] Analyze customer problems to determine root causes?
+- [ ] Develop effective solutions using communication skills?
+- [ ] Create appropriate follow-up strategies?
+- [ ] Document case study analysis professionally?
+
+**Mini-Challenge**: Analyze a complete customer support scenario from problem identification through follow-up. Include all elements learned from Modules 3 and 5.
+
+## 🛠️ Reflection & Collaboration
+**Individual Reflection**:
+- Which aspect of customer support analysis do you find most challenging?
+- How do your communication skills from Module 5 help with customer service?
+- What type of customer issue would you feel most confident handling?
+
+**Discussion Points**:
+- Share your case study solutions with classmates for feedback
+- Compare different approaches to the same customer problem
+- Discuss how case studies prepare you for real customer service roles
+
+## 🌱 Supports & Differentiation
+**Need More Support?**
+- Review the detective story analogy for case analysis
+- Focus on one step of the analysis process at a time
+- Use simple templates for organizing case information
+
+**Ready for More?**
+- Research real customer service case studies from major companies
+- Explore advanced CRM features for case management
+- Practice with multiple customer scenarios simultaneously
+
+**Different Learning Styles**:
+- **Visual**: Create flowcharts showing the customer journey and solutions
+- **Kinesthetic**: Role-play customer interactions and solutions
+- **Auditory**: Read case studies and solutions aloud for clarity
+
+## 📊 Progress Tracking
+- **Lesson 21 Completed**: Customer Support Case Study ✅
+- **Module 6**: Lesson 2 of 3 completed
+- **Course Overall**: 21 of 22 lessons completed (95%)
+- **Next Lesson**: Resume and Portfolio Guide
+
+**What's Next?**
 You've analyzed a customer support case study, using your Windows computer or Android phone! Try these:  
 - On Windows, write another case study in Google Docs.  
 - On Android, draft a support email in Gmail.  
@@ -192,7 +280,4 @@ Keep practicing, and share your solutions. You're now a support superstar!
 ---
 
 ## 🎯 **Next Steps**
-Ready to build your professional portfolio? **[Continue to Project 3: Resume and Portfolio Guide →](resume_and_portfolio_guide.md)**
-
-### 📍 **Course Progress**
-**Module 6**: Project 2 of 4 completed | **Overall**: 26 of 28+ lessons completed
+Ready to build your professional portfolio? **[Continue to Lesson 22: Resume and Portfolio Guide →](resume_and_portfolio_guide.md)**

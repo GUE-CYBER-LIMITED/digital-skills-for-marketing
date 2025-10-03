@@ -5,10 +5,8 @@ nav_order: 4
 has_children: true
 ---
 
-<div class="course-navigation">
-<h1>📞 Module 3: Customer Service & CRM Systems</h1>
-<p><em>Master Customer Relationship Management and Support Tools</em></p>
-</div>
+## 📞 Module 3: Customer Service & CRM Systems
+*Master Customer Relationship Management and Support Tools*
 
 ---
 
@@ -19,35 +17,54 @@ By the end of this module, you will:
 - Master proven techniques for handling customer queries with empathy and efficiency
 - Develop professional customer service skills that build long-term customer loyalty
 
+## ⏳ **Module Pacing Guide**
+**🔥 Essential (2-3 hours)**: Introduction to CRM + Using Zendesk  
+**⚡ Recommended (3-4 hours)**: Complete all lessons with hands-on practice  
+**🌟 Mastery (5+ hours)**: Advanced query handling and case study analysis
+
+## 📺 **Module Components**
+**📖 Foundation Learning**: CRM concepts and customer service principles  
+**🛠️ Practical Skills**: Zendesk navigation, ticket management, query resolution  
+**🔄 Self-Paced**: Build expertise progressively across 3 focused lessons  
+**📱 Multi-Platform**: Windows computer and Android phone activities
+
 ---
 
 ## 📚 **Module Contents**
 
-<table class="module-table">
-<thead>
-<tr>
-<th>Lesson</th>
-<th>Topic</th>
-<th>Duration</th>
-<th>Status</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong><a href="intro_to_crm.md">01</a></strong></td>
-<td><a href="intro_to_crm.md">Introduction to CRM</a></td>
-<td>35 min</td>
-<td>🟢 Start Here</td>
-</tr>
-<tr>
-<td><strong><a href="using_zendesk.md">02</a></strong></td>
-<td><a href="using_zendesk.md">Using Zendesk</a></td>
-<td>45 min</td>
-<td>⭐</td>
-</tr>
-<tr>
-<td><strong><a href="handling_customer_queries.md">03</a></strong></td>
-<td><a href="handling_customer_queries.md">Handling Customer Queries</a></td>
+| Lesson | Topic | Duration | Status |
+|--------|-------|----------|---------|
+| **[11](intro_to_crm.md)** | [Introduction to CRM](intro_to_crm.md) | 35 min | 🟢 Start Here |
+| **[12](using_zendesk.md)** | [Using Zendesk](using_zendesk.md) | 45 min | ⭐ |
+| **[13](handling_customer_queries.md)** | [Handling Customer Queries](handling_customer_queries.md) | 40 min | ⭐ |
+
+---
+
+## 🧭 **Navigation**
+- **[🏠 Course Home](../README.md)**
+- **[▶️ Start: Introduction to CRM](intro_to_crm.md)**
+- **[➡️ Next: Module 4](../04_tools_and_platforms/)**
+
+---
+
+## 📋 **Module Completion Checklist**
+- [ ] Completed: Introduction to CRM
+- [ ] Completed: Using Zendesk
+- [ ] Completed: Handling Customer Queries
+
+---
+
+## ✅ **Module Mastery Check**
+**Ready to advance?** Ensure you can:
+- Explain CRM concepts and their business importance
+- Navigate Zendesk and manage customer tickets effectively
+- Handle various types of customer queries professionally
+- Apply empathy and efficiency in customer service scenarios
+
+## 📊 **Progress Tracking**
+- **Module 3**: 3 lessons (Lessons 11-13 of 22 total)
+- **Prerequisites**: Modules 1-2 completion recommended
+- **Next Module**: Tools and Platforms
 <td>40 min</td>
 <td>⭐</td>
 </tr>

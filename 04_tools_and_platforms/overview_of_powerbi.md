@@ -5,9 +5,44 @@ parent: "Module 4: Tools & Platforms"
 nav_order: 3
 ---
 
-# Lesson 3: Power BI Overview
+## 📗 Lesson 16: Overview of Power BI
 
-Welcome to Lesson 3 of Module 4! Today, we're exploring **Power BI Overview**, a Microsoft tool for turning data into interactive visualizations and reports. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what Power BI is, its key features, and how it helps analyze data. By the end, you'll try Power BI's demo and understand data visualization, building on Excel skills. Let's dive in!
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define Power BI and explain its role in business intelligence and data visualization
+  - Identify key Power BI components (dashboards, reports, datasets, data sources)
+  - Understand how Power BI transforms raw data into interactive visual insights
+  - Navigate basic Power BI interface and create simple visualizations
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, explore Power BI demo, and pass the mastery check.
+- **Should-Do**: Complete the data visualization exercise and dashboard analysis activity.
+- **Aspire-to-Do**: Research business intelligence careers and explore Power BI integrations.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Power BI in Action: From Data to Insights
+  - *Demonstration of creating dashboards and interactive reports*
+- **In-Person/Small Group:**  
+  - Data storytelling exercise using sample Power BI dashboards
+- **Whole-Class/Check-In:**  
+  - Discussion on data-driven decision making and ethical data visualization
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn Power BI fundamentals     | Below content         |
+| Dashboard Explorer | Demo        | Navigate Power BI sample reports| Activity 1 below      |
+| Visual Interpreter | Analysis    | Analyze data visualization types| Activity 2 below      |
+| Insight Detective  | Investigation| Find patterns in data dashboards| Activity 3 below    |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 
@@ -185,23 +220,59 @@ Let's explore Power BI with fun activities on your **Windows computer** or **And
 
 ---
 
-## What's Next?
-You've mastered Power BI basics, using your Windows computer or Android phone! Try these:  
-- On Windows, explore more Power BI samples at `powerbi.microsoft.com`.  
-- On Android, interact with a dashboard in the Power BI app.  
-- Check macOS or Linux browsers for Power BI differences.  
+### ✅ Mastery Check
 
-Keep exploring, and share your visualizations. You're now a data storyteller!
+- **Type:** Analysis Project
+- **Criteria for Mastery:**  
+  - Define Power BI and explain its role using the detective agency analogy
+  - Identify key components (dashboards, reports, datasets) and their relationships
+  - Understand how Power BI transforms data into actionable business insights
+  - Analyze sample visualizations and extract meaningful conclusions from data
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the detective agency analogy, explain how Power BI helps solve business problems.
+2. What's the difference between a Power BI dashboard and a report?
+3. Analyze a sample Power BI dashboard - what insights can you extract from the data?
+4. How might a retail store use Power BI to improve their business decisions?
+
+---
+
+### 🛠️ Reflection & Collaboration
+
+- **Reflection Prompt:**  
+  - "How might data visualization tools like Power BI change business decision-making? What ethical considerations should guide data presentation?"
+- **Collaboration:**  
+  - Work in teams to interpret different dashboard examples and share insights discovered
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Data visualization best practices guides
+  - Business intelligence career pathway information
+  - Power BI learning resources and certifications
+- **Aspire-to-Do:**  
+  - Research business analyst and data scientist careers
+  - Explore Power BI integration with other Microsoft tools
+  - Investigate competing BI tools (Tableau, Qlik, Google Data Studio)
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and Power BI demo exploration
+- [ ] Should-do complete: Data visualization analysis and dashboard interpretation
+- [ ] Aspire-to-do complete: Career research or BI tool comparison
+- [ ] Mastery check passed: Analysis project meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
 
 ---
 
 ## 🧭 **Lesson Navigation**
 - **[⬅️ Previous: Excel Basics](basics_of_excel.md)** | **[📚 Module 4 Home](index.md)** | **[➡️ Next: Module Conclusion](course_conclusion.md)**
-
----
-
-## 🎯 **Next Steps**
-Ready to wrap up Module 4? **[Continue to Module Conclusion →](course_conclusion.md)**
-
-### 📍 **Course Progress**
-**Module 4**: Lesson 3 of 4 completed | **Overall**: 19 of 25+ lessons completed

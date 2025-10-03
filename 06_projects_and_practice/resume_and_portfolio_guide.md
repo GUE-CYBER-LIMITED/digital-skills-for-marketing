@@ -5,9 +5,53 @@ parent: "Module 6: Projects & Practice"
 nav_order: 3
 ---
 
-# Project 3: Resume and Portfolio Guide
+## 📗 Lesson 22: Resume and Portfolio Guide
 
-Welcome to Project 3 of Module 6! Today, you'll create a **Resume and Portfolio Guide**, applying skills from Module 4 (Google Tools, Excel) and Module 5 (communication, professional emails). This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what resumes and portfolios are, how to build them, and tips to stand out. By the end, you'll draft a resume and plan a portfolio to showcase your skills. Let's get started!
+### 🎯 Learning Objectives
+By the end of this lesson, you will be able to:
+- Define what resumes and portfolios are and explain their importance
+- Identify key components of professional resume structure
+- Select and organize appropriate portfolio content
+- Apply professional presentation and sharing techniques
+- Create a complete resume using digital tools
+- Plan and develop a professional portfolio showcase
+
+### ⏳ Pacing Guide
+**🔥 Must-Do (20 minutes)**  
+- Understand what resumes and portfolios are and why they matter
+- Learn key concepts: resume structure, portfolio content, and presentation
+- Complete Activity 1: Draft a Resume
+
+**⚡ Should-Do (25 minutes)**  
+- Explore the 5-step resume and portfolio building process
+- Complete Activity 2: Plan a Portfolio
+- Learn professional sharing and presentation techniques
+
+**🌟 Aspire-to-Do (15 minutes)**  
+- Complete Activity 3: Share Your Work
+- Compare career tools across different platforms
+- Explore advanced portfolio presentation techniques
+
+### 📺 Blended Instruction Components
+
+**📖 Reading**: Resume and portfolio best practices  
+**🛠️ Hands-On Practice**: 3 practical career preparation activities  
+**🔄 Self-Paced**: Build your professional materials step by step  
+**📱 Multi-Platform**: Activities for Windows computer and Android phone
+
+### 📝 Lesson Activities & Resources
+
+| Component | Activity | Time | Platform |
+|-----------|----------|------|----------|
+| **Concept Learning** | Study resume structure and portfolio planning | 15 min | Any device |
+| **Activity 1** | Draft a complete professional resume | 15 min | Windows/Android |
+| **Activity 2** | Plan and organize portfolio content | 15 min | Windows/Android |
+| **Activity 3** | Practice professional sharing techniques | 15 min | Windows/Android |
+| **Integration Practice** | Apply skills from all previous modules | 10 min | Any device |
+
+---
+
+Welcome to Lesson 22 of our course - the final lesson! Today, you'll create a **Resume and Portfolio Guide**, applying skills from Module 4 (Google Tools, Excel) and Module 5 (communication, professional emails). This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what resumes and portfolios are, how to build them, and tips to stand out. By the end, you'll draft a resume and plan a portfolio to showcase your skills. Let's get started!
 
 ---
 
@@ -185,23 +229,73 @@ Let's build a resume and portfolio with fun activities on your **Windows compute
 
 ---
 
-## What's Next?
+## ✅ Mastery Check
+**Quick Assessment**: Can you confidently:
+- [ ] Explain what resumes and portfolios are and why they're important?
+- [ ] Identify key components of professional resume structure?
+- [ ] Select and organize appropriate portfolio content?
+- [ ] Apply professional presentation and sharing techniques?
+- [ ] Create a complete resume using digital tools?
+- [ ] Plan and develop a professional portfolio showcase?
+
+**Final Challenge**: Create a complete resume and portfolio plan showcasing all skills learned throughout our 22-lesson course. Include examples from digital marketing, customer service, tools mastery, and communication skills.
+
+## 🛠️ Reflection & Collaboration
+**Individual Reflection**:
+- How do the skills from all 6 modules contribute to your professional profile?
+- What aspect of your learning journey are you most proud to showcase?
+- How has your confidence in digital skills grown throughout this course?
+
+**Discussion Points**:
+- Share your portfolio ideas with classmates for feedback
+- Compare different approaches to presenting the same skills
+- Discuss how this course prepares you for various career opportunities
+
+## 🌱 Supports & Differentiation
+**Need More Support?**
+- Review the meal cooking analogy for building materials
+- Focus on one resume section at a time
+- Use simple templates until comfortable with the format
+
+**Ready for More?**
+- Explore advanced resume formats and design techniques
+- Research industry-specific portfolio requirements
+- Practice networking and professional presentation skills
+
+**Different Learning Styles**:
+- **Visual**: Create infographic-style resumes and visual portfolios
+- **Kinesthetic**: Practice presenting your materials in mock interviews
+- **Auditory**: Read your resume aloud to check flow and clarity
+
+## 📊 Progress Tracking
+- **Lesson 22 Completed**: Resume and Portfolio Guide ✅
+- **Module 6**: All 3 lessons completed ✅
+- **Course Overall**: 22 of 22 lessons completed (100%) 🎉
+- **Achievement Unlocked**: Digital Skills for Marketing Course Graduate!
+
+**Congratulations!** 🎊
+You've completed our entire Digital Skills for Marketing course! You've mastered:
+- **Module 1**: Computer and Internet Foundations
+- **Module 2**: Digital Marketing Basics  
+- **Module 3**: Customer Service and CRM
+- **Module 4**: Essential Tools and Platforms
+- **Module 5**: Professional Soft Skills
+- **Module 6**: Real-World Projects and Practice
+
+**What's Next?**
 You've created a resume and portfolio plan, using your Windows computer or Android phone! Try these:  
 - On Windows, refine your resume in Google Docs.  
 - On Android, add a new portfolio piece to Google Drive.  
 - Explore macOS or Linux tools for resume differences.  
 
-Keep building, and share your work. You're now job-ready!
+Keep building, and share your work. You're now job-ready and digitally skilled!
 
 ---
 
-## 🧭 **Project Navigation**
-- **[⬅️ Previous: Customer Support Case Study](customer_support_case_study.md)** | **[📚 Module 6 Home](index.md)** | **[➡️ Next: Course Conclusion](course_conclusion.md)**
+## 🧭 **Course Navigation**
+- **[⬅️ Previous: Customer Support Case Study](customer_support_case_study.md)** | **[📚 Module 6 Home](index.md)** | **[🏠 Course Home](../README.md)**
 
 ---
 
-## 🎯 **Next Steps**
-Ready to celebrate your achievements? **[Continue to Course Conclusion →](course_conclusion.md)**
-
-### 📍 **Course Progress**
-**Module 6**: Project 3 of 4 completed | **Overall**: 27 of 28+ lessons completed
+## 🎯 **Course Complete!**
+**Congratulations on completing all 22 lessons!** You're now equipped with comprehensive digital skills for marketing and beyond. Consider exploring our resources section for continued learning opportunities.

@@ -5,9 +5,109 @@ parent: "Module 3: Customer Service & CRM Systems"
 nav_order: 2
 ---
 
-# Lesson 2: Using Zendesk
+## 📗 Lesson 13: Using Zendesk
 
-Welcome to Lesson 2 of Module 3! Today, we're exploring **Using Zendesk**, a popular customer service tool that helps businesses support their customers. This beginner-friendly lesson uses simple language, fun analogies, and hands-on activities for your **Windows computer** or **Android phone**. We'll cover what Zendesk is, how it works, and its key features for managing customer support. By the end, you'll try Zendesk's demo and understand its role in customer service. Let's dive in!
+### 🎯 Learning Objective
+- By the end of this lesson, ---
+
+## Fun Facts About Zendesk
+- Zendesk was founded in 2007 and now supports over 100,000 businesses!  
+- Its name comes from "zen," aiming for calm, efficient customer service.  
+- Zendesk's chat feature handles millions of conversations daily.  
+- It integrates with tools like Slack and Shopify for seamless workflows.
+
+---
+
+### ✅ Mastery Check
+
+- **Type:** Practical Demonstration
+- **Criteria for Mastery:**  
+  - Define Zendesk and explain its role in customer service using the restaurant analogy
+  - Identify and describe key Zendesk features (ticketing, automation, reporting, multichannel)
+  - Navigate Zendesk interface and understand ticket workflow from creation to resolution
+  - Apply Zendesk best practices for efficient customer support operations
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the restaurant order system analogy, explain how Zendesk helps businesses.
+2. What are the 4 main stages of a support ticket lifecycle in Zendesk?
+3. How would automation help a busy customer service team using Zendesk?
+4. Design a Zendesk setup for a small online bookstore - what features would you prioritize?
+
+---
+
+### 🛠️ Reflection & Collaboration
+
+- **Reflection Prompt:**  
+  - "How might using a tool like Zendesk change your experience as a customer? What features would be most valuable for a business you know?"
+- **Collaboration:**  
+  - Work in teams to design customer service workflows using Zendesk features
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Zendesk tutorials and certification programs
+  - Customer service metrics and KPI guides
+  - Integration guides for common business tools
+- **Aspire-to-Do:**  
+  - Research Zendesk administrator careers and responsibilities
+  - Explore Zendesk marketplace apps and integrations
+  - Design a comprehensive customer service strategy using Zendesk
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and Zendesk demo exploration
+- [ ] Should-do complete: Ticket management and automation activities
+- [ ] Aspire-to-do complete: Career research or strategy development
+- [ ] Mastery check passed: Demonstration meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
+
+---
+
+## 🧭 **Lesson Navigation**
+- **[⬅️ Previous: Introduction to CRM](intro_to_crm.md)** | **[📚 Module 3 Home](index.md)** | **[➡️ Next: Handling Customer Queries](handling_customer_queries.md)**e to:  
+  - Define Zendesk and explain its role in customer service management
+  - Identify key Zendesk features including ticketing, automation, and reporting
+  - Navigate the Zendesk interface and understand ticket workflow processes
+  - Apply Zendesk best practices for efficient customer support operations
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, explore Zendesk demo, and pass the mastery check.
+- **Should-Do**: Complete the ticket management exercise and automation setup activity.
+- **Aspire-to-Do**: Research Zendesk integrations and develop a customer service workflow.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Zendesk Walkthrough: From Ticket Creation to Resolution
+  - *Live demonstration of Zendesk features and customer service workflows*
+- **In-Person/Small Group:**  
+  - Hands-on Zendesk demo exploration and feature comparison
+- **Whole-Class/Check-In:**  
+  - Discussion on customer service metrics and performance measurement
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn Zendesk fundamentals      | Below content         |
+| Demo Explorer      | Hands-on    | Navigate Zendesk demo interface | Activity 1 below      |
+| Ticket Manager     | Simulation  | Practice ticket management      | Activity 2 below      |
+| Workflow Designer  | Planning    | Design customer service process | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
 
 ---
 

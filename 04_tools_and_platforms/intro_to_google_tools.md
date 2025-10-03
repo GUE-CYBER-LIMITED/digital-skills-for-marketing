@@ -5,6 +5,47 @@ parent: "Module 4: Tools & Platforms"
 nav_order: 1
 ---
 
+## 📗 Lesson 14: Introduction to Google Tools
+
+### 🎯 Learning Objective
+- By the end of this lesson, students will be able to:  
+  - Define Google Workspace and identify its key productivity tools
+  - Understand the benefits of cloud-based collaboration and file storage
+  - Navigate basic Google tools interfaces and create simple documents
+  - Apply Google tools for common business and personal productivity tasks
+
+---
+
+### ⏳ Pacing Guide
+- **Must-Do**: Complete the core lesson content, explore Google tools, and pass the mastery check.
+- **Should-Do**: Complete the collaboration exercise and file organization activity.
+- **Aspire-to-Do**: Research Google Workspace for business and explore advanced features.
+
+---
+
+### 📺 Blended Instruction Components
+- **Video Instruction:**  
+  - Google Workspace Tour: Productivity in the Cloud
+  - *Walkthrough of key Google tools and collaboration features*
+- **In-Person/Small Group:**  
+  - Collaborative document creation using Google Docs and Sheets
+- **Whole-Class/Check-In:**  
+  - Discussion on cloud computing benefits and data privacy considerations
+
+---
+
+### 📝 Lesson Activities & Resources
+
+| Activity           | Format      | Description/Instructions        | Resource/Link         |
+|--------------------|-------------|---------------------------------|-----------------------|
+| Core Lesson        | Text/Reading| Learn Google tools fundamentals | Below content         |
+| Tool Explorer      | Hands-on    | Navigate different Google apps  | Activity 1 below      |
+| Collaboration Lab  | Group work  | Create shared documents         | Activity 2 below      |
+| Productivity Setup | Organization| Organize files and folders      | Activity 3 below      |
+| Mastery Check      | Quiz        | Demonstrate understanding       | End of lesson quiz    |
+
+---
+
 # Module 4: Tools & Platforms
 
 Welcome to **Module 4: Tools & Platforms**! In this module, you’ll discover powerful software tools that businesses and individuals use to work smarter, analyze data, and visualize information. Designed for beginners with no tech background, these lessons use simple language, fun analogies, and hands-on activities tailored for your **Windows computer** or **Android phone**. Building on Modules 1 (computers, internet, websites), 2 (digital marketing), and 3 (customer service, CRM), we’ll explore Google Tools, Microsoft Excel, Power BI, and wrap up with a conclusion. By the end, you’ll know how to use these tools and try them yourself. Let’s get started!
@@ -197,23 +238,59 @@ Let's explore Google Tools with fun activities on your **Windows computer** or *
 
 ---
 
-## What's Next?
-You've mastered Google Tools, using your Windows computer or Android phone! Try these:  
-- On Windows, create a Google Slides presentation for fun.  
-- On Android, organize files in Google Drive.  
-- Explore macOS or Linux browsers for Google Tools differences.  
+### ✅ Mastery Check
 
-Keep practicing, and share your creations. You're now a Google Tools expert!
+- **Type:** Practical Portfolio
+- **Criteria for Mastery:**  
+  - Define Google Workspace and explain the benefits of cloud-based productivity tools
+  - Identify key Google tools (Docs, Sheets, Drive, Calendar) and their primary functions
+  - Demonstrate basic navigation and document creation in Google tools
+  - Apply collaboration features and file sharing capabilities effectively
+- **Feedback/Revision:**  
+  - Students receive feedback and may review content and retake as needed
+
+**Mastery Check Questions:**
+1. Using the digital toolbox analogy, explain what Google Workspace provides for users.
+2. Compare Google Docs to traditional word processors - what are 3 key advantages?
+3. Create a simple Google Sheet with data and a SUM function - explain each step.
+4. How would you collaborate on a project using Google tools? Describe the process.
+
+---
+
+### 🛠️ Reflection & Collaboration
+
+- **Reflection Prompt:**  
+  - "How might cloud-based tools like Google Workspace change the way you work or study? What concerns or benefits do you see?"
+- **Collaboration:**  
+  - Work with classmates to create a shared Google Doc and practice real-time editing
+
+---
+
+### 🌱 Supports & Differentiation
+
+- **Additional Resources:**  
+  - Google Workspace training videos and tutorials
+  - Keyboard shortcuts guides for efficiency
+  - Privacy and security best practices for cloud tools
+- **Aspire-to-Do:**  
+  - Research Google Workspace administrator careers and certifications
+  - Explore advanced features like Google Apps Script automation
+  - Compare Google Workspace to Microsoft 365 and other productivity suites
+
+---
+
+### 📊 Progress Tracking
+
+- [ ] Must-do complete: Core lesson content and Google tools exploration
+- [ ] Should-do complete: Collaboration and file organization activities
+- [ ] Aspire-to-do complete: Career research or advanced feature exploration
+- [ ] Mastery check passed: Portfolio meets criteria
+
+---
+
+*This lesson is part of a student-driven, mastery-focused, and blended curriculum. Move ahead only after demonstrating mastery!*
 
 ---
 
 ## 🧭 **Lesson Navigation**
-- **[🏠 Course Home](../README.md)** | **[📚 Module 4 Home](index.md)** | **[➡️ Next: Excel Basics](basics_of_excel.md)**
-
----
-
-## 🎯 **Next Steps**
-Ready to learn about Excel? **[Continue to Lesson 02: Excel Basics →](basics_of_excel.md)**
-
-### 📍 **Course Progress**
-**Module 4**: Lesson 1 of 4 completed | **Overall**: 17 of 25+ lessons completed
+- **[⬅️ Previous: Module 3 Conclusion](../03_customer_service_and_crm/course_conclusion.md)** | **[📚 Module 4 Home](index.md)** | **[➡️ Next: Basics of Excel](basics_of_excel.md)**
