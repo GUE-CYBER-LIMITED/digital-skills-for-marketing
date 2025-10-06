@@ -1,0 +1,424 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Template for displaying a section in MCP format
+
+    @template format_mcp/section_mcp
+
+    Context variables:
+    * section - Section object
+    * components - Array of MCP components
+    * progress - Progress data
+    * mastery_status - Mastery achievement status
+}}
+<div class="mcp-section" data-section-id="{{section.id}}">
+    {{#section.name}}
+    <div class="mcp-section-header">
+        <h2 class="mcp-lesson-title">{{section.name}}</h2>
+        {{#progress}}
+        <div class="mcp-progress-indicator">
+            <div class="progress">
+                <div class="progress-bar progress-bar-{{#mastery_status.achieved}}success{{/mastery_status.achieved}}{{^mastery_status.achieved}}{{#progress.percentage}}{{#progress.percentage_gte_50}}warning{{/progress.percentage_gte_50}}{{^progress.percentage_gte_50}}info{{/progress.percentage_gte_50}}{{/progress.percentage}}{{^progress.percentage}}secondary{{/progress.percentage}}{{/mastery_status.achieved}}" 
+                     role="progressbar" 
+                     style="width: {{progress.percentage}}%" 
+                     aria-valuenow="{{progress.percentage}}" 
+                     aria-valuemin="0" 
+                     aria-valuemax="100">
+                    <span class="sr-only">{{progress.percentage}}% Complete</span>
+                </div>
+            </div>
+            <div class="mcp-progress-text">
+                <span class="progress-label">Progress: {{progress.percentage}}%</span>
+                {{#mastery_status.achieved}}
+                <span class="mastery-badge badge badge-success">{{#str}}mastery_achieved, format_mcp{{/str}}</span>
+                {{/mastery_status.achieved}}
+                {{^mastery_status.achieved}}
+                {{#progress.percentage_gte_80}}
+                <span class="mastery-badge badge badge-warning">{{#str}}mastery_not_achieved, format_mcp{{/str}}</span>
+                {{/progress.percentage_gte_80}}
+                {{/mastery_status.achieved}}
+            </div>
+        </div>
+        {{/progress}}
+    </div>
+    {{/section.name}}
+
+    <div class="mcp-components-container">
+        {{#components}}
+        <div class="mcp-component mcp-{{key}}" data-component="{{key}}">
+            <div class="mcp-component-header">
+                <span class="mcp-icon">{{icon}}</span>
+                <h3 class="mcp-component-title">{{title}}</h3>
+                {{#required}}
+                <span class="mcp-required badge badge-primary">Required</span>
+                {{/required}}
+            </div>
+            <div class="mcp-component-content">
+                {{#content}}
+                <div class="mcp-content-text">{{{content}}}</div>
+                {{/content}}
+                {{^content}}
+                <div class="mcp-content-placeholder">
+                    <p class="text-muted">{{title}} content will be displayed here.</p>
+                </div>
+                {{/content}}
+            </div>
+        </div>
+        {{/components}}
+    </div>
+
+    {{#section.activities}}
+    <div class="mcp-activities-section">
+        <h4 class="mcp-activities-title">
+            <span class="mcp-icon">📚</span>
+            Learning Activities
+        </h4>
+        <div class="mcp-activities-list">
+            {{#activities}}
+            <div class="mcp-activity-item" data-activity-id="{{id}}">
+                <div class="activity-icon">
+                    {{{icon}}}
+                </div>
+                <div class="activity-content">
+                    <h5 class="activity-name">
+                        <a href="{{url}}" class="activity-link">{{name}}</a>
+                    </h5>
+                    {{#description}}
+                    <p class="activity-description">{{description}}</p>
+                    {{/description}}
+                    {{#completion}}
+                    <div class="activity-completion">
+                        {{#completed}}
+                        <span class="completion-badge badge badge-success">
+                            <i class="fa fa-check"></i> Completed
+                        </span>
+                        {{/completed}}
+                        {{^completed}}
+                        <span class="completion-badge badge badge-secondary">
+                            <i class="fa fa-circle-o"></i> Not Completed
+                        </span>
+                        {{/completed}}
+                    </div>
+                    {{/completion}}
+                </div>
+            </div>
+            {{/activities}}
+        </div>
+    </div>
+    {{/section.activities}}
+
+    {{#section.summary}}
+    <div class="mcp-section-summary">
+        <div class="summary-content">
+            {{{section.summary}}}
+        </div>
+    </div>
+    {{/section.summary}}
+
+    <div class="mcp-navigation">
+        {{#navigation.previous}}
+        <a href="{{navigation.previous.url}}" class="btn btn-outline-primary mcp-nav-prev">
+            <i class="fa fa-chevron-left"></i> {{navigation.previous.name}}
+        </a>
+        {{/navigation.previous}}
+        
+        <div class="mcp-nav-center">
+            <button class="btn btn-info btn-sm" onclick="scrollToTop()">
+                <i class="fa fa-arrow-up"></i> Back to Top
+            </button>
+        </div>
+        
+        {{#navigation.next}}
+        <a href="{{navigation.next.url}}" class="btn btn-primary mcp-nav-next">
+            {{navigation.next.name}} <i class="fa fa-chevron-right"></i>
+        </a>
+        {{/navigation.next}}
+    </div>
+</div>
+
+<style>
+.mcp-section {
+    margin: 2rem 0;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.mcp-section-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2rem;
+    position: relative;
+}
+
+.mcp-lesson-title {
+    margin: 0 0 1rem 0;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.mcp-progress-indicator {
+    margin-top: 1rem;
+}
+
+.mcp-progress-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+.mcp-components-container {
+    padding: 2rem;
+    display: grid;
+    gap: 1.5rem;
+}
+
+@media (min-width: 992px) {
+    .mcp-components-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+.mcp-component {
+    border: 1px solid #e9ecef;
+    border-radius: 8px;
+    padding: 1.5rem;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.mcp-component:hover {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transform: translateY(-2px);
+}
+
+.mcp-component-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+    gap: 0.5rem;
+}
+
+.mcp-icon {
+    font-size: 1.5rem;
+    line-height: 1;
+}
+
+.mcp-component-title {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 600;
+    flex-grow: 1;
+}
+
+.mcp-required {
+    font-size: 0.8rem;
+}
+
+.mcp-content-placeholder {
+    padding: 1rem;
+    background: #f8f9fa;
+    border-radius: 4px;
+    text-align: center;
+    border: 2px dashed #dee2e6;
+}
+
+.mcp-activities-section {
+    padding: 2rem;
+    background: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+}
+
+.mcp-activities-title {
+    margin-bottom: 1.5rem;
+    color: #495057;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.mcp-activity-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 1rem;
+    background: white;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    border: 1px solid #e9ecef;
+}
+
+.activity-icon {
+    flex-shrink: 0;
+}
+
+.activity-content {
+    flex-grow: 1;
+}
+
+.activity-name {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.1rem;
+}
+
+.activity-link {
+    color: #495057;
+    text-decoration: none;
+}
+
+.activity-link:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.activity-description {
+    margin: 0 0 0.5rem 0;
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+.completion-badge {
+    font-size: 0.8rem;
+}
+
+.mcp-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 2rem;
+    background: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+}
+
+.mcp-nav-center {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.mastery-badge {
+    font-weight: 500;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+    .mcp-section {
+        margin: 1rem 0;
+        border-radius: 0;
+    }
+    
+    .mcp-section-header {
+        padding: 1.5rem;
+    }
+    
+    .mcp-lesson-title {
+        font-size: 1.5rem;
+    }
+    
+    .mcp-components-container {
+        padding: 1rem;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .mcp-component {
+        padding: 1rem;
+    }
+    
+    .mcp-navigation {
+        flex-direction: column;
+        gap: 1rem;
+        padding: 1rem;
+    }
+    
+    .mcp-nav-center {
+        order: -1;
+    }
+    
+    .mcp-activities-section {
+        padding: 1rem;
+    }
+    
+    .mcp-activity-item {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+/* Component-specific styling */
+.mcp-learning_objectives {
+    border-left: 4px solid #007bff;
+}
+
+.mcp-pacing_guide {
+    border-left: 4px solid #28a745;
+}
+
+.mcp-blended_instruction {
+    border-left: 4px solid #dc3545;
+}
+
+.mcp-activities_resources {
+    border-left: 4px solid #ffc107;
+}
+
+.mcp-mastery_check {
+    border-left: 4px solid #17a2b8;
+}
+
+.mcp-reflection_collaboration {
+    border-left: 4px solid #6f42c1;
+}
+
+.mcp-supports_differentiation {
+    border-left: 4px solid #20c997;
+}
+
+.mcp-progress_tracking {
+    border-left: 4px solid #fd7e14;
+}
+</style>
+
+<script>
+function scrollToTop() {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+}
+
+// Initialize MCP component interactions
+document.addEventListener('DOMContentLoaded', function() {
+    // Add click tracking for components
+    document.querySelectorAll('.mcp-component').forEach(function(component) {
+        component.addEventListener('click', function() {
+            var componentType = this.dataset.component;
+            var sectionId = this.closest('.mcp-section').dataset.sectionId;
+            
+            // Track component interaction (can be extended for analytics)
+            console.log('MCP Component interaction:', {
+                component: componentType,
+                section: sectionId,
+                timestamp: new Date().toISOString()
+            });
+        });
+    });
+    
+    // Add completion tracking for activities
+    document.querySelectorAll('.mcp-activity-item').forEach(function(activity) {
+        var activityLink = activity.querySelector('.activity-link');
+        if (activityLink) {
+            activityLink.addEventListener('click', function() {
+                var activityId = activity.dataset.activityId;
+                
+                // Track activity access
+                console.log('Activity accessed:', {
+                    activity: activityId,
+                    timestamp: new Date().toISOString()
+                });
+            });
+        }
+    });
+});
+</script>
